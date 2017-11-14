@@ -2,29 +2,37 @@
 
 // Variables
 $base-font-family: Arial, sans-serif !default;
-$header-font-family: georgia, serif;
+$body-font-family: 'Lora', serif;
+$header-font-family: 'Roboto', sans-serif;
 $base-font-size:   16px !default;
-$base-font-weight: 400 !default;
+$base-font-weight: 300 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
-$base-line-height: 1.4 !default;
+$base-line-height: 1.5 !default;
 $spacing-unit:     1rem !default;
 
 // Colors
 $dark-gray:         #545957;
 $bright-green:      #20ad65;
+$forest-green:      #78a15d;
 $banana:            #eed974;
+$pastel-pink:       #f3c9dd;
+$milk-pink:         #f4e4ec;
+$bright-orange:     #ef5b09;
+$pastel-green:      #cdffcc;
+$meringue:          #fdedb2;
 
 $text-color:       $dark-gray !default;
 $background-color: #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
 
+// Color in use
+$alternate-bg-color:   $milk-pink;
+$alternate-color:   $forest-green;
+
 // Grad
 $gradient1: linear-gradient(53.72deg, $bright-green 0%, $banana 99.49%);
-
-
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$gradient2: linear-gradient(53.72deg, $pastel-green 0%, $meringue 99.49%);
+$gradient3: linear-gradient(53.72deg, $banana 0%, $pastel-green 99.49%);
 
 $mq-breakpoints: (
     mobile:  320px,
@@ -35,42 +43,144 @@ $mq-breakpoints: (
 
 @import 'mq','reset';
 
-html {
+html, body {
     line-height: $base-line-height;
+    font-family: $body-font-family;
+    -webkit-font-smoothing: antialiased;
+    color: $text-color;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: $bright-green;
+
+    .reverse & {
+        color: white;
+    }
+}
+
+.logo {
+    @include mq($from: tablet) {
+        width: 23rem;
+        position: relative;
+    }
+}
+
+.paint {
+    position: absolute;
+    width: 100%;
+}
+
+.plant {
+    position: relative;
+}
+
+// Button
+.button {
+    font-family: $header-font-family;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    letter-spacing: .1rem;
+    display: inline-block;
+    margin: $spacing-unit*2 0;
+}
+
+.cta-button {
+    background: $gradient3;
+    color: white;
+    padding: 1.25rem;
+    border-radius: .25rem;
+    transition: background .2s;
+    margin: $spacing-unit 0;
+
+    &:hover {
+        background: $bright-green;
+    }
+}
 .reverse {
     background: $gradient1;
     color: white;
 }
 
-// Layout
-section {
-    padding: $spacing-unit;
+.alternate {
+    background: $gradient2;
 
     h2 {
+        color: $alternate-color;
+    }
+}
+
+// Layout
+section {
+    padding: $spacing-unit*4 $spacing-unit;
+    overflow: hidden;
+    h2 {
         font-family: $header-font-family;
-        font-size: 3rem;
+        font-size: 2rem;
         line-height: 1.25;
         margin-bottom: 2rem;
+        font-weight: 700;
+
+        @include mq($from: tablet) {
+            font-size: 3rem;
+        }
     }
 
     .content {
         max-width: 45rem;
         margin: 0 auto;
         line-height: $base-line-height;
+
+        p {
+            margin-bottom: $spacing-unit;
+            font-size: 1.125rem;
+            line-height: 1.75;
+
+            @include mq($from: tablet) {
+                font-size: 1.3rem;
+                line-height: 1.58;
+            }
+        }
+
+        p.image {
+            margin-bottom: 0;
+        }
     }
 }
 
 .image {
-    display: inline-block;
-    margin: $spacing-unit;
-    &.left {
-        float: left;
-        margin-left: -10rem;
+    text-align: center;
+    padding: $spacing-unit 0;
+}
+
+@include mq($from: tablet) {
+    .image {
+        display: inline-block;
+        margin: 0 $spacing-unit*2;
+        padding: 0;
+
+        img {
+            margin-top: $spacing-unit*.5;
+        }
+        &.left {
+            float: left;
+            margin-left: -6rem;
+        }
+        &.right {
+            float: right;
+            margin-right: -6rem;
+        }
     }
-    &.right {
-        float: right;
-        margin-right: -10rem;
+}
+
+@include mq($from: desktop) {
+    .image {
+        &.left {
+            margin-left: -10rem;
+        }
+
+        &.right {
+            margin-right: -10rem;
+        }
     }
 }
