@@ -5,13 +5,8 @@ title:  "One Tree One Life"
 ---
 Verschneite Landschaften, feine Güetzi, Punsch und ein schön geschmückter Baum: So zelebrieren wir in der Schweiz die Weihnachtszeit. Nicht einmal 12`000 km  entfernt ist ein Baum jedoch von ganz anderer Bedeutung. Hier symbolisiert er nicht eine Tradition, sondern bietet Lebensraum, Schutz, Nahrung und Heimat für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans.
 
-{:figure .figure}
-  ![image-title-here](/assets/img/zoe.jpg){:class="img-responsive"}
-
-> A blockquote with a title
-{:title="The blockquote title"}
-{: #myid}
-
+{:figure .image.left}
+  ![image-title-here](/assets/img/orang1.jpg){:class="img-responsive"}
 
 Von Tag zu Tag schwindet ihr Lebensraum. Tausende Orang-Utans fallen den Brandrodungen und den damit einhergehenden Waldbränden zum Opfer, werden auf Palmölplantagen erschlagen oder geraten in den illegalen Tierhandel. Das Überleben der akut vom Aussterben bedrohten Art kann nur gesichert werden, wenn ihr Lebensraum bewahrt wird.
 

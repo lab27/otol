@@ -11,7 +11,7 @@ github_username:
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+  - jekyll-autoprefixer
 
 collections:
   - sections
