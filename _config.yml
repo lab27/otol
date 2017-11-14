@@ -1,0 +1,21 @@
+title: One Tree, One Life
+email: info@bos-schweiz.ch
+description: >-
+  Plant a tree and help us save the orang-utans.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  - sections
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

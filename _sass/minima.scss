@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+// Variables
+$base-font-family: Arial, sans-serif !default;
+$header-font-family: georgia, serif;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.4 !default;
+$spacing-unit:     1rem !default;
+
+// Colors
+$dark-gray:     #545957;
+$bright-green:  #20ad65;
+
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #2a7ae2 !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$mq-breakpoints: (
+    mobile:  320px,
+    tablet:  740px,
+    desktop: 980px,
+    wide:    1300px
+);
+
+@import 'mq','reset';
