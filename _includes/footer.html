@@ -1,8 +1,9 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <img src="{{ 'assets/img/logo-simple.svg' | relative_url }}" alt="" class="logo">
+            <h2>{{ site.description | escape }}</h2>
+
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -21,11 +22,8 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <h3>Über uns</h3>
-        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
-  </div>
 
 </footer>
