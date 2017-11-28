@@ -14,4 +14,4 @@ Im Rahmen der one-tree-one-life-Kampagne bündeln wir deshalb unsere Kräfte, sa
 
 Teile unser Anliegen mit deinem Netzwerk, spende für Setzlinge und verfolge auf dieser Seite, wie dein Engagement vor Ort Wurzeln schlägt.
 
-{% include button.html link="/" text="Spende" icon="sprout" class="cta-button" %}
+{% include donate-group.html %}

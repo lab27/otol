@@ -1,11 +1,11 @@
 @charset "utf-8";
 
 // Variables
-$base-font-family: Arial, sans-serif !default;
-$body-font-family: 'Lora', serif;
-$header-font-family: 'Roboto', sans-serif;
+$base-font-family: 'futura-pt', sans-serif !default;
+$body-font-family: 'futura-pt', serif;
+$header-font-family: 'futura-pt', sans-serif;
 $base-font-size:   16px !default;
-$base-font-weight: 300 !default;
+$base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 $spacing-unit:     1rem !default;
@@ -20,6 +20,8 @@ $milk-pink:         #f4e4ec;
 $bright-orange:     #ef5b09;
 $pastel-green:      #cdffcc;
 $meringue:          #fdedb2;
+$salmon:            #fe667b;
+$plum:              #9c9cdd;
 
 $text-color:       $dark-gray !default;
 $background-color: #fdfdfd !default;
@@ -30,9 +32,13 @@ $alternate-bg-color:   $milk-pink;
 $alternate-color:   $forest-green;
 
 // Grad
+$gradient0: linear-gradient(53.72deg, $bright-green 0%, $bright-green 99.49%);
 $gradient1: linear-gradient(53.72deg, $bright-green 0%, $banana 99.49%);
 $gradient2: linear-gradient(53.72deg, $pastel-green 0%, $meringue 99.49%);
 $gradient3: linear-gradient(53.72deg, $banana 0%, $pastel-green 99.49%);
+$gradient4: linear-gradient(53.72deg, $salmon 0%, $plum 99.49%);
+$gradient5: linear-gradient(53.72deg, $banana 0%, $forest-green 99.49%);
+$gradient6: linear-gradient(53.72deg, $banana 0%, $salmon 99.49%);
 
 // grid 
 .grid {
@@ -46,7 +52,8 @@ $mq-breakpoints: (
     mobile:  320px,
     tablet:  740px,
     desktop: 980px,
-    wide:    1300px
+    wide:    1300px,
+    superwide: 1500px
 );
 
 @import 'mq','reset';
@@ -60,9 +67,31 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
     color: $bright-green;
+    font-weight: 700;
 
     .reverse & {
         color: white;
+    }
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.hide {
+    display: none;
+}
+
+.wf-loading  {
+    h1, h2, h3, h4, h5, h6, p, .button {
+        transition: filter .2s ease;
+        filter:blur(5px);
+    }
+}
+
+.wf-inactive  {
+    h1, h2, h3, h4, h5, h6, p, .button {
+        filter:none;
     }
 }
 
@@ -70,6 +99,12 @@ h1, h2, h3, h4, h5, h6 {
     @include mq($from: tablet) {
         width: 23rem;
         position: relative;
+    }
+}
+
+main {
+    @include mq($from: wide) {
+        margin-top: -14rem;
     }
 }
 
@@ -86,23 +121,38 @@ h1, h2, h3, h4, h5, h6 {
 .button {
     font-family: $header-font-family;
     font-weight: 700;
-    text-transform: uppercase;
-    font-size: 1.25rem;
+    // text-transform: uppercase;
+    font-size: 1rem;
     letter-spacing: .1rem;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: $spacing-unit*2 0;
+
+    svg {
+        fill: currentColor;
+        width: 3rem;
+        height: 3rem;
+        margin-right: 1rem;
+    }
 }
 
+
+
 .cta-button {
-    background: $gradient3;
+    background: $gradient6;
+    background: $banana;
     color: white;
-    padding: 1.25rem;
+    padding: 1rem;
     border-radius: .25rem;
-    transition: background .2s;
-    margin: $spacing-unit 0;
+    margin: 0;
+    // flex: 1 1 100%;
+    box-shadow: 0 1rem 2rem rgba($dark-gray,.2);
+    justify-content: space-between;
+
 
     &:hover {
-        background: $bright-green;
+        background: $gradient0;
     }
 }
 .reverse {
@@ -116,6 +166,42 @@ h1, h2, h3, h4, h5, h6 {
     h2 {
         color: $alternate-color;
     }
+}
+
+.gift {
+    background: $gradient4;
+}
+
+// donate group
+.donate-group {
+    // padding: 1rem;
+    display: flex;
+    flex-flow: row wrap;
+    // margin: 1rem;
+
+    @include mq($from: superwide) {
+        // margin: 1rem -.5rem;
+        flex-flow: column wrap
+    }
+
+    .button-wrapper {
+        padding: .5rem;
+
+        @include mq($from: tablet) {
+            flex: 0 1 50%;
+        }
+
+    }
+     @include mq($from:superwide) {
+            position: fixed;
+            top: $spacing-unit/2;
+            right: 1rem;
+            width: 24rem;
+            justify-content: flex-end;
+        }
+
+
+   
 }
 
 // Layout
