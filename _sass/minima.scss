@@ -23,6 +23,7 @@ $pastel-green:      #cdffcc;
 $meringue:          #fdedb2;
 $salmon:            #fe667b;
 $plum:              #9c9cdd;
+$cheeks:              #fdccbd;
 
 $text-color:       $dark-gray !default;
 $background-color: #fdfdfd !default;
@@ -40,6 +41,7 @@ $gradient3: linear-gradient(53.72deg, $banana 0%, $pastel-green 99.49%);
 $gradient4: linear-gradient(53.72deg, $salmon 0%, $plum 99.49%);
 $gradient5: linear-gradient(53.72deg, $banana 0%, $forest-green 99.49%);
 $gradient6: linear-gradient(53.72deg, $banana 0%, $salmon 99.49%);
+$gradient7: linear-gradient(53.72deg, $forest-green 0%, $jungle-green 99.49%);
 
 // grid 
 .grid {
@@ -169,7 +171,7 @@ main {
 
 
     &:hover {
-        background: $gradient0;
+        background: $jungle-green;
     }
 }
 .reverse {
@@ -186,7 +188,11 @@ main {
 }
 
 .gift {
-    background: $gradient4;
+    background: $jungle-green;
+
+    &:hover {
+        background: $cheeks;
+    }
 }
 
 // donate group
