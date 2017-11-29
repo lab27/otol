@@ -7,7 +7,7 @@ Von Dezember 2017 bis Februar 2018 führen wir deshalb unter dem Titel one-tree-
 
 
 {:figure .image.right}
-  ![image-title-here](assets/img/orang1.jpg){:class="img-responsive"}
+  ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
 
 Die Kampagne one-tree-one-life und die Volontärreise werden von Angela Burri geleitet. Angela Burri hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation Samboja Lestari eingesetzt. Bereits damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und ihre Probleme aufmerksam und sammelte Spenden für die Aktion. Über 5‘500 CHF kamen zusammen. Rund 530 Bäume konnten mit diesem Geld neu angepflanzt werden.
 
