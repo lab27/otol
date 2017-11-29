@@ -13,6 +13,7 @@ $spacing-unit:     1rem !default;
 // Colors
 $dark-gray:         #545957;
 $bright-green:      #17c37b;
+$jungle-green:      #80ce77;
 $forest-green:      #78a15d;
 $banana:            #eed974;
 $pastel-pink:       #f3c9dd;
@@ -70,7 +71,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: $bright-green;
+    color: $jungle-green;
     font-weight: 700;
 
     .reverse & {
