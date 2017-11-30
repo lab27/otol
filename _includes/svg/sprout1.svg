@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="-1666" y="-978" width="791" height="900"/>
+    </clipPath>
+  </defs>
+  <title>sprout1</title>
+  <g class="cls-2">
+    <image width="2708" height="2028" transform="translate(-2657 -1603)" xlink:href="../../../../../../../../Volumes/Milkout/Dropbox (Personal)/Design/Clients/BOS/ONETREEONELIFE/exports/Artboard 2.png"/>
+  </g>
+  <path d="M65.49,71.17C64.29,70.29,48,52,45.86,47h0S53,56,68.36,70C70,34,31.68,28.74,31.68,28.74A39.91,39.91,0,0,0,65.76,71.37Z"/>
+</svg>

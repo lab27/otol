@@ -3,6 +3,10 @@ order: 0
 include: sections/normal.html
 title:  "Erlebe wie dein Engagement vor ort Wurtzel schlägt..."
 ---
+<div class="videoWrapper">
+  <iframe src="https://player.vimeo.com/video/245090555" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen
+    allowfullscreen></iframe>
+</div>
 Verschneite Landschaften, feine Güetzi, Punsch und ein schön geschmückter Baum: So zelebrieren wir in der Schweiz die Weihnachtszeit. Nicht einmal 12`000 km  entfernt ist ein Baum jedoch von ganz anderer Bedeutung. Hier symbolisiert er nicht eine Tradition, sondern bietet Lebensraum, Schutz, Nahrung und Heimat für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans.
 
 {: .image.left}

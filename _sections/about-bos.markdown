@@ -9,3 +9,5 @@ Die BOS Schweiz und ihre Partnerorganisationen - allen voran die BOS Stiftung in
   ![image-title-here](assets/img/ou-hanging-color.jpg){:class="img-responsive"}
 
 In 25 Jahren rettete die BOS Stiftung rund 2‘300 Orang-Utans, seit 2012 konnten über 300 in geschützte Waldgebiete ausgewildert werden und mehr als 600 warten derzeit auf ihre Auswilderung. Vorhaben zur nachhaltigen Entwicklung (Mikrokreditvergabe zur Förderung von alternativen Einkommensquellen, Gesundheits- und Bildungsprojekte) stehen genauso auf der Agenda, wie das Management von Schutz- und Auswilderungsgebieten, sowie Aufforstungsprojekte. …
+
+{% include button.html link="#" text="Updates erhalten" icon="bell" class="cta-button updates" %}
