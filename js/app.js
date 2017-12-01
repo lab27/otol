@@ -92,6 +92,7 @@ function gameOn() {
 
 function gameOver(score) {
   document.getElementsByClassName('play-again')[0].style.display = 'block'
+  document.getElementsByClassName('game-cta')[0].style.display = 'flex'
 
   donateScore = document.getElementsByClassName('donate-score')[0]
   shareScore = document.getElementsByClassName('share-score')[0]
