@@ -476,7 +476,7 @@ footer {
 @keyframes spinner {
   to {transform: rotate(360deg);}
 }
- 
+
 .spinner:before {
   content: '';
   box-sizing: border-box;
@@ -506,7 +506,7 @@ footer {
     position: absolute;
     z-index: 999;
     width: 100vw;
-    height: 37vw;
+    height: 45vw;
     display: flex;
     justify-content: center;
     align-items: center;
