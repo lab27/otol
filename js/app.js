@@ -95,6 +95,8 @@ function gameOver(score) {
   document.getElementsByClassName('play-again')[0].style.display = 'block'
   document.getElementsByClassName('game-cta')[0].style.display = 'flex'
 
+  document.getElementById('score-amount').value = ""+score+".00"
+
   donateScore = document.getElementsByClassName('donate-score')[0]
   shareScore = document.getElementsByClassName('share-score')[0]
 
