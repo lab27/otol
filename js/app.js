@@ -90,11 +90,49 @@ processHash();
 
 
 // game callbacks
-
 function gameOn() {
   document.getElementsByClassName('play-again')[0].style.display = 'none'
+
+  donateScore = document.getElementsByClassName('donate-score')[0]
+  shareScore = document.getElementsByClassName('share-score')[0]
+
+  donateScore.style.display = 'none';
+  shareScore.style.display = 'none';
 }
 
 function gameOver(score) {
   document.getElementsByClassName('play-again')[0].style.display = 'block'
+
+  donateScore = document.getElementsByClassName('donate-score')[0]
+  shareScore = document.getElementsByClassName('share-score')[0]
+
+  donateScore.style.display = 'block';
+  shareScore.style.display = 'block';
+
+  switch(score) {
+  case 0:
+    tweet = "Jetzt Ölpalmen vernichten und Urwald aufforsten."
+    donateScore.innerHTML = "Spende Setzlinge"
+    break;
+  case 1:
+    tweet = "Ich habe gerade eine Ölpalme vernichtet, schaffst du mehr?"
+    donateScore.innerHTML = "Spende einen Setzling"
+    break;
+  default:
+    tweet = "Ich habe gerade "+score+" Ölpalmen vernichtet, schaffst du mehr?"
+    donateScore.innerHTML = "Spende "+score+" Setzlinge"
+  }
+
+  shareScore.onclick = function(e) {
+    e.preventDefault();
+    social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
+      encodeURI(window.location + " " tweet) + " %23OneTreeOneLife";
+    window.open(social_url, "_blank").focus();
+  };
+
+  donateScore.onclick = function(e) {
+    e.preventDefault();
+    // TODO
+    alert("Spende "+score+" Setzlinge.");
+  }
 }
