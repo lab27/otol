@@ -1,7 +1,7 @@
 ---
 order: 3
 include: sections/normal.html
-title:  "Programm und Aktivitäten vor Ort"
+title:  "Aktivitäten und Programm 2018"
 ---
 Die Volontärgruppe hat sich vorgenommen, abgebrannte Regenwaldgebiete wieder auf zu forsten. Sie wird aber auch in anderen Bereichen der BOS-Rettungsstation mit anpacken, u.a. bei der Renaturierung von Pre-Release-Inseln, beim Anfertigen von Enrichment-Tools für die Orang-Utans oder beim Bau der neuen Bärenanlage. 
 
