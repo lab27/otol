@@ -24,9 +24,7 @@ function scatterLeaves() {
   }
 }
 
-window.addEventListener("resize", function(){
-  scatterLeaves()
-});
+window.addEventListener("resize", scatterLeaves);
 scatterLeaves()
 
 // Accepts any class name
