@@ -29,3 +29,35 @@ scatterLeaves()
 
 // Accepts any class name
 var rellax = new Rellax('.rellax');
+
+
+// routing
+const route = Rlite(notFound, {
+  'game': function () { // #game
+    document.getElementsByClassName('page-content')[0].style.display = 'none'
+    document.getElementsByClassName('game')[0].style.display = 'block'
+  },
+  'campaign': function () { // #campaign
+    document.getElementsByClassName('page-content')[0].style.display = 'block'
+    document.getElementsByClassName('game')[0].style.display = 'none'
+  }
+});
+
+function notFound() {
+  // redirect to #game
+  // TODO change to 'game'
+  routeTo('campaign');
+}
+
+// Hash-based routing
+function processHash() {
+  const hash = location.hash || '#';
+  route(hash.slice(1));
+}
+
+function routeTo(target) {
+  window.location.hash = '#' + target;
+}
+
+window.addEventListener('hashchange', processHash);
+processHash();

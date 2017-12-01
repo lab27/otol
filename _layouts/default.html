@@ -9,13 +9,15 @@
       </div>
 
       {% include header.html %}
-      
-      
+
+
       <main class="page-content" aria-label="Content">
         {% include leaves.html %}
 
         {{ content }}
-    </main>
+      </main>
+
+      <main class="game" aria-label="Game" style="display: none"></main>
 
     {% include footer.html %}
 
@@ -31,9 +33,9 @@
       })(document);
     </script>
 
-<script src="{{ site.baseurl }}/js/rellax.min.js"></script>
-<script src="{{ site.baseurl }}/js/app.js"></script>
-
+    <script src="{{ site.baseurl }}/js/rellax.min.js"></script>
+    <script src="{{ site.baseurl }}/js/rlite.min.js"></script>
+    <script src="{{ site.baseurl }}/js/app.js"></script>
+    <script src="http://branch14.org/bos-game/main.js"></script>
   </body>
-
 </html>
