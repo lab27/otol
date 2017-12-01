@@ -83,3 +83,14 @@ function routeTo(target) {
 
 window.addEventListener('hashchange', processHash);
 processHash();
+
+
+// game callbacks
+
+function gameOn() {
+  console.log("The game is on!")
+}
+
+function gameOver(score) {
+  console.log("What? Only "+score+" point?")
+}
