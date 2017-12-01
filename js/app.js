@@ -48,6 +48,7 @@ document.getElementsByClassName('facebook-share')[1].onclick = facebook;
 const route = Rlite(notFound, {
   'game': function () { // #game
     document.getElementsByClassName('page-content')[0].style.display = 'none'
+    document.getElementsByClassName('site-header')[0].style.display = 'none'
     document.getElementsByClassName('game')[0].style.display = 'block'
     document.body.classList = 'body-game'
 },
@@ -81,7 +82,6 @@ processHash();
 
 // game callbacks
 function gameOn() {
-  document.getElementsByClassName('play-again')[0].style.display = 'none'
   document.getElementsByClassName('spinner')[0].style.display = 'none'
 
   donateScore = document.getElementsByClassName('donate-score')[0]
@@ -92,7 +92,6 @@ function gameOn() {
 }
 
 function gameOver(score) {
-  document.getElementsByClassName('play-again')[0].style.display = 'block'
   document.getElementsByClassName('game-cta')[0].style.display = 'flex'
 
   document.getElementById('score-amount').value = ""+score+".00"
