@@ -222,6 +222,11 @@ main {
 
     .button-wrapper {
         padding: .5rem;
+        padding-bottom: 0;
+
+        form {
+            height: 5.5rem;
+        }
 
         @include mq($from: tablet) {
             flex: 0 1 50%;
