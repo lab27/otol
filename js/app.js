@@ -110,7 +110,7 @@ function gameOver(score) {
     break;
   default:
     tweet = "Ich habe gerade "+score+" Ölpalmen vernichtet, schaffst du mehr?"
-    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg> Spende "+score+" Setzlinge`
+    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg> Spende ` + score + ` Setzlinge`
   }
 
   shareScore.onclick = function(e) {
