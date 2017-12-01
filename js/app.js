@@ -1,5 +1,4 @@
 function scatterLeaves() {
-  //console.log('scattering leaves...')
   var leaves = document.getElementsByClassName("leaf");
   var body = document.body,
       html = document.documentElement,
@@ -15,12 +14,6 @@ function scatterLeaves() {
     var myHeight = leaves[i].offsetHeight
     leaves[i].style.left = horOffset + 'px';
     leaves[i].style.top = vertOffset - myHeight + 'px';
-    // rotate it
-    // leaves[i].style.transform="rotate(" + (360 * randoRot) + "deg)";
-    //    leaves[i].classList()
-    //console.log('leaf #' + i)
-    //console.log(horOffset)
-    //console.log(vertOffset)
   }
 }
 
@@ -33,15 +26,12 @@ var rellax = new Rellax('.rellax');
 
 //   social
 var twitter = function (e) {
-    console.log('tweeting!')
     e.preventDefault()
     social_url = "https://twitter.com/intent/tweet?source=webclient&text=" + encodeURI(window.location + " Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt! ") + "%23OneTreeOneLife";
     window.open(social_url, "_blank").focus();
 }
 
 var facebook = function (e) {
-    console.log('facing!')
-    console.log(e)
     e.preventDefault()
     social_url = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURI(window.location);
     window.open(social_url, "_blank").focus();
