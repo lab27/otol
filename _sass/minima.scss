@@ -133,7 +133,6 @@ main.page-content {
 }
 
 main.game {
-    margin-bottom: 5rem;
     height: 37vw;
 }
 
@@ -460,12 +459,17 @@ footer {
 	height: 100%;
 }
 
+.body-game {
+    background: $banana;
+}
+
 // game
 .game {
   canvas {
     width: 90%;
     display: block;
     margin: 0 auto;
+    position: relative;
   }
 }
 

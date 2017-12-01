@@ -58,10 +58,13 @@ const route = Rlite(notFound, {
   'game': function () { // #game
     document.getElementsByClassName('page-content')[0].style.display = 'none'
     document.getElementsByClassName('game')[0].style.display = 'block'
-  },
-  'campaign': function () { // #campaign
+    document.body.classList = 'body-game'
+},
+'campaign': function () { // #campaign
     document.getElementsByClassName('page-content')[0].style.display = 'block'
+    document.getElementsByClassName('site-header')[0].style.display = 'block'
     document.getElementsByClassName('game')[0].style.display = 'none'
+    document.body.classList = 'body-campaign'
   }
 });
 
@@ -75,6 +78,7 @@ function notFound() {
 function processHash() {
   const hash = location.hash || '#';
   route(hash.slice(1));
+  scatterLeaves()
 }
 
 function routeTo(target) {
