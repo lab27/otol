@@ -60,8 +60,7 @@ const route = Rlite(notFound, {
 
 function notFound() {
   // redirect to #game
-  // TODO change to 'game'
-  routeTo('campaign');
+  routeTo('game');
 }
 
 // Hash-based routing
@@ -108,7 +107,7 @@ function gameOver(score) {
     break;
   case 1:
     tweet = "Ich habe gerade eine Ölpalme vernichtet, schaffst du mehr?"
-    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg>Spende einen Setzling`
+    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg> Spende einen Setzling`
     break;
   default:
     tweet = "Ich habe gerade "+score+" Ölpalmen vernichtet, schaffst du mehr?"
@@ -118,13 +117,13 @@ function gameOver(score) {
   shareScore.onclick = function(e) {
     e.preventDefault();
     social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
-      encodeURI(window.location + " " + tweet) + " %23OneTreeOneLife";
+      encodeURI(window.location + " " + tweet + " ") + "%23OneTreeOneLife";
     window.open(social_url, "_blank").focus();
   };
 
-  donateScore.onclick = function(e) {
-    e.preventDefault();
-    // TODO
-    alert("Spende "+score+" Setzlinge.");
-  }
+  //donateScore.onclick = function(e) {
+  //  e.preventDefault();
+  //  // TODO
+  //  alert("Spende "+score+" Setzlinge.");
+  //}
 }
