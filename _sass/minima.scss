@@ -13,6 +13,7 @@ $spacing-unit:     1rem !default;
 // Colors
 $dark-gray:         #545957;
 $bright-green:      #17c37b;
+$jungle-green:      #80ce77;
 $forest-green:      #78a15d;
 $banana:            #eed974;
 $pastel-pink:       #f3c9dd;
@@ -22,6 +23,7 @@ $pastel-green:      #cdffcc;
 $meringue:          #fdedb2;
 $salmon:            #fe667b;
 $plum:              #9c9cdd;
+$cheeks:              #fdccbd;
 
 $text-color:       $dark-gray !default;
 $background-color: #fdfdfd !default;
@@ -39,6 +41,7 @@ $gradient3: linear-gradient(53.72deg, $banana 0%, $pastel-green 99.49%);
 $gradient4: linear-gradient(53.72deg, $salmon 0%, $plum 99.49%);
 $gradient5: linear-gradient(53.72deg, $banana 0%, $forest-green 99.49%);
 $gradient6: linear-gradient(53.72deg, $banana 0%, $salmon 99.49%);
+$gradient7: linear-gradient(53.72deg, $forest-green 0%, $jungle-green 99.49%);
 
 // grid 
 .grid {
@@ -70,7 +73,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: $bright-green;
+    color: $jungle-green;
     font-weight: 700;
 
     .reverse & {
@@ -168,8 +171,13 @@ main {
 
 
     &:hover {
-        background: $gradient0;
+        background: $cheeks;
     }
+}
+
+.updates {
+    width: 15rem;
+    background: $forest-green;
 }
 .reverse {
     background: $gradient1;
@@ -185,7 +193,11 @@ main {
 }
 
 .gift {
-    background: $gradient4;
+    background: $jungle-green;
+
+    &:hover {
+        background: $cheeks;
+    }
 }
 
 // donate group
@@ -217,7 +229,14 @@ main {
             justify-content: flex-end;
         }
 
-
+.social {
+    display: flex;
+    color: $bright-green;
+    svg {
+        width: 2rem;
+        height: 2rem;
+    }
+}
    
 }
 
@@ -262,7 +281,7 @@ section {
 
         p.image {
             margin-bottom: 0;
-            max-width: 400px;
+            
         }
     }
 }
@@ -283,6 +302,7 @@ section {
         display: inline-block;
         margin: 0 $spacing-unit*2;
         padding: 0;
+        max-width: 400px;
 
 
         img {
@@ -352,3 +372,30 @@ footer {
     }
 }
 
+.person {
+    margin-bottom: 3rem;
+    h3 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    h4 {
+        color: $banana;
+        font-size: 1.3rem;
+    }
+}
+
+// fluid video
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
