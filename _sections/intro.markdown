@@ -10,7 +10,7 @@ title:  "Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Bor
 Verschneite Landschaften, feine Guetzli, heisser Punsch und ein schön geschmückter Christbaum: So feiern Viele in der Schweiz die Weihnachtszeit. In Borneo, nicht einmal 12`000 km von uns entfernt, hat ein Baum jedoch eine ganz andere Bedeutung. Dort symbolisiert er keine Tradition, sondern bietet Lebensraum, Schutz und Nahrung für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. 
 
 {: .image.left}
-  ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
+  ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
   *Quelle: Björn Vaughn, BPI*
 
 Doch jedes Jahr werden allein auf Borneo 1.3 Mio. Hektar Regenwald vernichtet. Damit weist die Insel eine der weltweit höchsten Abholzungsraten auf. Von Tag zu Tag schwindet so die Lebensgrundlage der Orang-Utans.   
@@ -19,9 +19,6 @@ Im Rahmen der One Tree One Life Kampagne forsten wir von BOS Schweiz gemeinsam m
 
 Möchtest auch du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt!
 
-
-
-
-
-
 {% include donate-group.html %}
+
+**mit Urkunde*

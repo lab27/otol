@@ -64,6 +64,13 @@ $mq-breakpoints: (
 // $mq-show-breakpoints: (mobile, tablet, desktop, wide, superwide);
 @import 'mq','reset';
 
+.visible-superwide {
+    display: none;
+    @include mq($from:superwide) {
+        display: block;
+    }
+}
+
 html, body {
     line-height: $base-line-height;
     font-family: $body-font-family;
@@ -232,9 +239,22 @@ main {
 .social {
     display: flex;
     color: $bright-green;
+
+    @include mq($from: superwide) {
+
+        flex-flow: column;
+        align-items: flex-start;
+    }
+
+    .button {
+        margin:0;
+        padding: 1rem;
+        margin-right: 2rem;
+    }
     svg {
         width: 2rem;
         height: 2rem;
+        margin-right: .5rem;
     }
 }
    
