@@ -270,6 +270,12 @@ section {
 .image {
     text-align: center;
     padding: $spacing-unit 0;
+    text-align: left;
+
+    em {
+        font-size: .8rem;
+        display: block;
+    }
 }
 
 @include mq($from: tablet) {
@@ -278,9 +284,13 @@ section {
         margin: 0 $spacing-unit*2;
         padding: 0;
 
+
         img {
             margin-top: $spacing-unit*.5;
+
+
         }
+
         &.left {
             float: left;
             margin-left: -6rem;
