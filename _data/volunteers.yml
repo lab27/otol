@@ -1,15 +1,15 @@
-# - name: Angela Burri (aka Anschi)
-#   image: angela_burri.jpg
-#   details: 
-#     - title: Geburtsdatum/Ort
-#       info: 27. 09. 1991, Burgdorf
-#     - title: Hobbys
-#       info: Wandern in den Bergen, Sport (Schwimmen, Joggen, Fitness), Zeit mit Freunden verbringen, Tierschutz, Gotti aus Leidenschaft
-#     - title: Lieblingsessen
-#       info: Pilzrisotto à la Mama   
-#     - title: Lieblingszitat
-#       info: "Sei du selbst die Veränderung, die du dir wünschst für diese Welt!" 
-#   motivation: Mit meinem Einsatz hoffe ich, einen Beitrag zum Orang-Utan- und Regenwaldschutz zu leisten
+- name: Angela Burri (aka Anschi)
+  image: angela_burri.jpg
+  details: 
+    - title: Geburtsdatum/Ort
+      info: 27. 09. 1991, Burgdorf
+    - title: Hobbys
+      info: Wandern in den Bergen, Sport (Schwimmen, Joggen, Fitness), Zeit mit Freunden verbringen, Tierschutz, Gotti aus Leidenschaft
+    - title: Lieblingsessen
+      info: Pilzrisotto à la Mama   
+    - title: Lieblingszitat
+      info: "Sei du selbst die Veränderung, die du dir wünschst für diese Welt!" 
+  motivation: Mit meinem Einsatz hoffe ich, einen Beitrag zum Orang-Utan- und Regenwaldschutz zu leisten
 
 - name: Marc Steffen
   image: Marc_Steffen.jpg
@@ -21,3 +21,30 @@
     - title: Was ich nicht mag
       info: Krimskrams, Food Waste, Kopfschmerzen
   motivation: Viele Orang-Utans, die auf dem Gelände von Samboja Lestari leben, waren sehr jung, als sie ihrer Mutter und ihrem natürlichen Lebensraum entrissen wurden und wissen nicht, wie sie sich in der Wildnis verhalten sollen. In der Waldschule lernen und trainieren die jungen Tiere grundlegende Fähigkeiten für ein Leben in Freiheit. Mich motiviert durch die Mitarbeit in der Rehabilitationsstation einen kleinen Teil dazu beitragen zu können, dass sie später wieder ausgewildert werden und damit in ihre natürliche Umgebung zurückkehren können.
+  
+- name: Ruedi Mögli
+  image: ruedi_moegli.jpg
+  details:
+    - title: Beruf und Familie
+      info: Ich bin Treuhänder mit eidg. Fachausweis und arbeite seit fast 30 Jahren im Personalbereich eines Schweizer Grossverteilers. Ich bin verheiratet und stolzer Vater einer erwachsenen Tochter.
+    - title: Hobbys
+      info: etwas Sport, wandern, aktiver Basler Fasnächtler und seit rund 30 Jahren Mitglied eines Männer-Kochclubs (Gourmets & Gourmands)
+    - title: Leidenschaft
+      info: Harley Davidson-Enthusiast, Motorrad-Touren und Orang-Utans
+  motivation: Ich bin vor gut 5 Jahren zur BOS Schweiz gestossen, da mich die Themen Regenwald und Orang-Utans interessiert haben. Zuerst habe ich diese tolle Organisation als Spender unterstützt. Als die BOS Schweiz dann im Magazin einen Kassier gesucht hat, war für mich klar, dass ich diesen Verein intensiver und vor allem aktiv unterstützen möchte. Heute bin ich Vorstandsmitglied, administriere die Buchhaltung, das Personal und den Zahlungsverkehr. Jetzt möchte ich endlich einmal vor Ort die Projektarbeit erleben. 
+
+- name: Zoe Scarlett
+  image: zoe_scarlett.jpg
+  details: 
+    - title: Liebt
+      info:  das Rampenlicht und die Bühne, Burlesque Tanz, Tattoos und – seitdem sie denken kann - Affen.
+    - title: Nicht gut findet sie
+      info: Palmfett in Kosmetika, Unehrlichkeit und Reden um den heissen Brei.
+  motivation: Ich möchte meine Zeit, Arbeitskraft, und die Tatsache, dass ich viel und gerne in der Öffentlichkeit auftrete, einsetzen, um die Menschen in der Schweiz auf das Schicksal der Orang-Utans und die dahinter liegende Palmöl-Misere aufmerksam zu machen. Mir ist es wichtig zu wissen, wovon ich spreche und deshalb die BOS Schweiz und die Projekte persönlich kennen zu lernen. Spannend finde ich, diese Erfahrung mit Gleichgesinnten zu machen, die alle einen ganz unterschiedlichen Hintergrund haben. Das ist eine super Chance, auch den eigenen Horizont zu erweitern.  
+
+- name: Matthias Müller
+  image: matthias_mueller.jpg
+  details: 
+    - title: Hintergrund
+      info: Seit Anfang 2010 bin ich bereits Orang-Utan-Unterstützer (Fundraiser bei der BOS Schweiz) und möchte nun vor Ort mit anpacken.
+  motivation: Gerade jetzt in der Weihnachtszeit wird wieder deutlich, dass Menschen für das Leid und die Not anderer Menschen ein offenes Ohr haben. Das Leid und Schicksal der roten Waldmenschen hingegen interessiert die Öffentlichkeit kaum. Borneo oder Sumatra sind weit weg, genauso wie die Zerstörung des Regenwaldes. Vielen von uns ist gar nicht bewusst, dass nicht nur die grossen Konzerne, sondern auch wir mit unserem Konsumverhalten für das Schicksal der Orang-Utans in Indonesien direkt mitverantwortlich sind. Ihr Schicksal liegt in unseren Händen und auch unsere eigene Zukunft ist eng mit dem Erhalt der Regenwälder verbunden. Indem wir den Regenwald vernichten, zerstören wir nicht nur die Lebensgrundlage der Orang-Utans, sondern auch die unserer Kinder.

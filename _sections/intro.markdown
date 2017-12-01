@@ -4,8 +4,7 @@ include: sections/normal.html
 title:  "Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt"
 ---
 <div class="videoWrapper">
-  <iframe src="https://player.vimeo.com/video/245090555" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/245368582" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 Verschneite Landschaften, feine Guetzli, heisser Punsch und ein schön geschmückter Christbaum: So feiern Viele in der Schweiz die Weihnachtszeit. In Borneo, nicht einmal 12`000 km von uns entfernt, hat ein Baum jedoch eine ganz andere Bedeutung. Dort symbolisiert er keine Tradition, sondern bietet Lebensraum, Schutz und Nahrung für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. 
 
