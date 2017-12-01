@@ -82,6 +82,7 @@ processHash();
 // game callbacks
 function gameOn() {
   document.getElementsByClassName('play-again')[0].style.display = 'none'
+  document.getElementsByClassName('spinner')[0].style.display = 'none'
 
   donateScore = document.getElementsByClassName('donate-score')[0]
   shareScore = document.getElementsByClassName('share-score')[0]

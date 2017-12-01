@@ -16,5 +16,3 @@ Im Rahmen der One Tree One Life Kampagne forsten wir von BOS Schweiz gemeinsam m
 Möchtest auch Du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt!
 
 {% include donate-group.html %}
-
-**mit Urkunde*

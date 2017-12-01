@@ -1,7 +1,7 @@
 ---
 order: 2
 include: sections/reverse.html
-title:  "Die One Tree One Life Volontäre 2018"
+title:  "Die Volontäre 2018"
 ---
 {% for person in site.data.volunteers %} 
   <div class="person">
