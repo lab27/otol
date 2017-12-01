@@ -1,48 +1,8 @@
-<div class="donate-group">
+<div class="game-cta">
     <div class="button-wrapper">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="DZE9PJBJY7V4L">
-            <!-- <input type="image" src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal."> -->
-            {% include submit-button.html link="#" text="25 Setzlinge spenden - 25 CHF" icon="sprout1" class="cta-button" %}
-            <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
-        </form>
-    </div>    
-    <div class="button-wrapper">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="KZMMT5FAGTV2E">
-            <!-- <input type="image" src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal."> -->
-            {% include submit-button.html link="#" text="50 Setzlinge spenden - 50 CHF" icon="sprout2" class="cta-button" %}
-            <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
-        </form>
+        {% include button.html link="#" text="Spende X Setzlinge" icon="gift" class="cta-button gift" %}
     </div>
-    <div class="button-wrapper">
-        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="UNQ2LMAAA8L4A">
-            <!-- <input type="image" src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal."> -->
-            {% include submit-button.html link="#" text="90 Setzlinge spenden - 90 CHF" icon="sprout3" class="cta-button" %}
-            <img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
-        </form>
-
-    </div>
-    <div class="button-wrapper">
-        {% include button.html link="#" text="XY Setzlinge verschenken*" icon="gift" class="cta-button gift" %}
-    </div>
-    <em class="visible-superwide">* mit Urkunde</em>
-            <div class="social">
-                <a href="" class="button simple twitter-share">
-                    {% include svg_icon.html name="twitter" %}
-                    auf Twitter teilen
-                </a>
-                <a href="" class="button simple facebook-share">
-                    {% include svg_icon.html name="facebook" %}
-                    auf Facebook teilen
-                </a>
-                <a href="http://eepurl.com/c-KJfP" class="button simple">
-                    {% include svg_icon.html name="bell" %}
-                    Updates erhalten
-                </a>
-            </div>
+        <div class="button-wrapper">
+            {% include button.html link="#" text="teile dein Ergebnis" icon="twitter" class="cta-button" %}
+        </div>
 </div>
