@@ -1,15 +1,15 @@
-- name: Angela Burri (aka Anschi)
-  image: angela_burri.jpg
-  details: 
-    - title: Geburtsdatum/Ort
-      info: 27. 09. 1991, Burgdorf
-    - title: Hobbys
-      info: Wandern in den Bergen, Sport (Schwimmen, Joggen, Fitness), Zeit mit Freunden verbringen, Tierschutz, Gotti aus Leidenschaft
-    - title: Lieblingsessen
-      info: Pilzrisotto à la Mama   
-    - title: Lieblingszitat
-      info: "Sei du selbst die Veränderung, die du dir wünschst für diese Welt!" 
-  motivation: Mit meinem Einsatz hoffe ich, einen Beitrag zum Orang-Utan- und Regenwaldschutz zu leisten
+# - name: Angela Burri (aka Anschi)
+#   image: angela_burri.jpg
+#   details: 
+#     - title: Geburtsdatum/Ort
+#       info: 27. 09. 1991, Burgdorf
+#     - title: Hobbys
+#       info: Wandern in den Bergen, Sport (Schwimmen, Joggen, Fitness), Zeit mit Freunden verbringen, Tierschutz, Gotti aus Leidenschaft
+#     - title: Lieblingsessen
+#       info: Pilzrisotto à la Mama   
+#     - title: Lieblingszitat
+#       info: "Sei du selbst die Veränderung, die du dir wünschst für diese Welt!" 
+#   motivation: Mit meinem Einsatz hoffe ich, einen Beitrag zum Orang-Utan- und Regenwaldschutz zu leisten
 
 - name: Marc Steffen
   image: Marc_Steffen.jpg
@@ -36,9 +36,9 @@
 - name: Zoe Scarlett
   image: zoe_scarlett.jpg
   details: 
-    - title: Liebt
+    - title: ich liebe
       info:  das Rampenlicht und die Bühne, Burlesque Tanz, Tattoos und – seitdem sie denken kann - Affen.
-    - title: Nicht gut findet sie
+    - title: Nicht gut finde ich
       info: Palmfett in Kosmetika, Unehrlichkeit und Reden um den heissen Brei.
   motivation: Ich möchte meine Zeit, Arbeitskraft, und die Tatsache, dass ich viel und gerne in der Öffentlichkeit auftrete, einsetzen, um die Menschen in der Schweiz auf das Schicksal der Orang-Utans und die dahinter liegende Palmöl-Misere aufmerksam zu machen. Mir ist es wichtig zu wissen, wovon ich spreche und deshalb die BOS Schweiz und die Projekte persönlich kennen zu lernen. Spannend finde ich, diese Erfahrung mit Gleichgesinnten zu machen, die alle einen ganz unterschiedlichen Hintergrund haben. Das ist eine super Chance, auch den eigenen Horizont zu erweitern.  
 
