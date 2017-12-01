@@ -483,15 +483,21 @@ footer {
   position: absolute;
   top: 50%;
   left: 50%;
-  width: 20px;
-  height: 20px;
-  margin-top: -10px;
-  margin-left: -10px;
+  width: 50px;
+  height: 50px;
+  margin-top: -25px;
+  margin-left: -25px;
   border-radius: 50%;
-  border: 1px solid #f6f;
-  border-top-color: #0e0;
-  border-right-color: #0dd;
-  border-bottom-color: #f90;
+  border: 5px solid $salmon;
+  border-top-color: $pastel-green;
+  border-right-color: $plum;
+  border-bottom-color: $bright-orange;
   animation: spinner .6s linear infinite;
   z-index: 0;
+}
+
+.play-again {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
 }
