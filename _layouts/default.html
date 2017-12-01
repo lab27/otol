@@ -10,14 +10,15 @@
 
       {% include header.html %}
 
-
-      <main class="page-content" aria-label="Content">
+      <main class="page-content spinner" style="display: none" aria-label="Content">
         {% include leaves.html %}
 
         {{ content }}
       </main>
 
-      <main class="game" aria-label="Game" style="display: none"></main>
+      <main class="game" aria-label="Game" style="display: none">
+        <div class="spinner"></div>
+      </main>
 
     {% include footer.html %}
 
