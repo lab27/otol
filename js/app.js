@@ -33,4 +33,28 @@ function scatterLeaves() {
     scatterLeaves()
 
 // Accepts any class name
-  var rellax = new Rellax('.rellax');
+var rellax = new Rellax('.rellax');
+
+
+//   social
+var twitter = function (e) {
+    console.log('tweeting!')
+    e.preventDefault()
+    social_url = "https://twitter.com/intent/tweet?source=webclient&text=" + encodeURI(window.location + " Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt! ") + "%23OneTreeOneLife";
+    window.open(social_url, "_blank").focus();
+}
+
+
+var facebook = function (e) {
+    console.log('facing!')
+    console.log(e)
+    e.preventDefault()
+    social_url = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURI(window.location);
+    window.open(social_url, "_blank").focus();
+}
+
+
+document.getElementsByClassName('twitter-share')[0].onclick = twitter;
+document.getElementsByClassName('facebook-share')[0].onclick = facebook;
+document.getElementsByClassName('twitter-share')[1].onclick = twitter;
+document.getElementsByClassName('facebook-share')[1].onclick = facebook;

@@ -368,6 +368,37 @@ footer {
     align-items: center;
     color: white;
 
+
+
+    a {
+        text-decoration: underline;
+    }
+
+    .links-info {
+        display: flex;
+        width: 100vw;
+        padding: 3rem;
+        max-width: 80rem;
+        margin: 0 auto;
+        flex-flow: column wrap;
+        justify-content: space-between;
+        color: $dark-gray;
+        margin-bottom: 3rem;
+
+            @include mq ($from: desktop){
+        flex-flow: row nowrap;
+    }
+
+        h4 {
+            color: $dark-gray;
+            margin-bottom: 1rem;
+        }
+
+        & div {
+            margin-bottom: 3rem;
+        }
+    }
+
     .footer-content {
         position: relative;
         display: flex;
