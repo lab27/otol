@@ -92,9 +92,9 @@ processHash();
 // game callbacks
 
 function gameOn() {
-  console.log("The game is on!")
+  document.getElementsByClassName('play-again')[0].style.display = 'none'
 }
 
 function gameOver(score) {
-  console.log("What? Only "+score+" point?")
+  document.getElementsByClassName('play-again')[0].style.display = 'block'
 }
