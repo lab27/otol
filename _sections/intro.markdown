@@ -1,21 +1,27 @@
 ---
 order: 0
 include: sections/normal.html
-title:  "Erlebe wie dein Engagement vor ort Wurtzel schlägt..."
+title:  "Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt"
 ---
 <div class="videoWrapper">
   <iframe src="https://player.vimeo.com/video/245090555" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen
     allowfullscreen></iframe>
 </div>
-Verschneite Landschaften, feine Güetzi, Punsch und ein schön geschmückter Baum: So zelebrieren wir in der Schweiz die Weihnachtszeit. Nicht einmal 12`000 km  entfernt ist ein Baum jedoch von ganz anderer Bedeutung. Hier symbolisiert er nicht eine Tradition, sondern bietet Lebensraum, Schutz, Nahrung und Heimat für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans.
+Verschneite Landschaften, feine Guetzli, heisser Punsch und ein schön geschmückter Christbaum: So feiern Viele in der Schweiz die Weihnachtszeit. In Borneo, nicht einmal 12`000 km von uns entfernt, hat ein Baum jedoch eine ganz andere Bedeutung. Dort symbolisiert er keine Tradition, sondern bietet Lebensraum, Schutz und Nahrung für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. 
 
 {: .image.left}
   ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
+  *Quelle: Björn Vaughn, BPI*
 
-Von Tag zu Tag schwindet ihr Lebensraum. Tausende Orang-Utans fallen den Brandrodungen und den damit einhergehenden Waldbränden zum Opfer, werden auf Palmölplantagen erschlagen oder geraten in den illegalen Tierhandel. Das Überleben der akut vom Aussterben bedrohten Art kann nur gesichert werden, wenn ihr Lebensraum bewahrt wird.
+Doch jedes Jahr werden allein auf Borneo 1.3 Mio. Hektar Regenwald vernichtet. Damit weist die Insel eine der weltweit höchsten Abholzungsraten auf. Von Tag zu Tag schwindet so die Lebensgrundlage der Orang-Utans.   
 
-Im Rahmen der one-tree-one-life-Kampagne bündeln wir deshalb unsere Kräfte, sammeln Spendengelder für Setzlinge und forsten eigenhändig abgebrannte Regenwaldgebiete rund um die BOS Rettungsstation in Samboja Lestari wieder auf.
+Im Rahmen der One Tree One Life Kampagne forsten wir von BOS Schweiz gemeinsam mit Volontären zerstörte Regenwaldgebiete wieder auf und schaffen so neuen Lebensraum für Orang-Utans und andere vom Aussterben bedrohte Arten.
 
-Teile unser Anliegen mit deinem Netzwerk, spende für Setzlinge und verfolge auf dieser Seite, wie dein Engagement vor Ort Wurzeln schlägt.
+Möchtest auch du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt!
+
+
+
+
+
 
 {% include donate-group.html %}
