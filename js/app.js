@@ -116,7 +116,7 @@ function gameOver(score) {
   shareScore.onclick = function(e) {
     e.preventDefault();
     social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
-      encodeURI(window.location + " " tweet) + " %23OneTreeOneLife";
+      encodeURI(window.location + " " + tweet) + " %23OneTreeOneLife";
     window.open(social_url, "_blank").focus();
   };
 
