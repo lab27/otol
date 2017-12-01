@@ -102,15 +102,15 @@ function gameOver(score) {
   switch(score) {
   case 0:
     tweet = "Jetzt Ölpalmen vernichten und Urwald aufforsten."
-    donateScore.innerHTML = "Spende Setzlinge"
+    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg> Spende Setzlinge`
     break;
   case 1:
     tweet = "Ich habe gerade eine Ölpalme vernichtet, schaffst du mehr?"
-    donateScore.innerHTML = "Spende einen Setzling"
+    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg>Spende einen Setzling`
     break;
   default:
     tweet = "Ich habe gerade "+score+" Ölpalmen vernichtet, schaffst du mehr?"
-    donateScore.innerHTML = "Spende "+score+" Setzlinge"
+    donateScore.innerHTML = `<svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#gift"></use></svg> Spende "+score+" Setzlinge`
   }
 
   shareScore.onclick = function(e) {
