@@ -1,10 +1,14 @@
 ---
 order: 1
 include: sections/reverse.html
-title:  "Orang-Utan-Schutz ist Regenwaldschutz und ist Klimaschutz"
+title:  "Orang-Utan-Schutz ist Regenwaldschutz und Klimaschutz"
 ---
 Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Ausserben bedroht“ geführt. 
 International wie national stehen sie deshalb unter strengem Schutz. Ihr Lebensraum in der Regel aber nicht. Das Überleben der Letzten dieser Art kann deshalb nur gelingen, wenn wir den Regenwald bewahren: Nur wenn wir ihn retten, retten wir die Orang-Utans und mit ihnen zahlreiche andere gefährdete und endemische Arten.
+
+{: .image.left}
+  ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
+  *Quelle: Björn Vaughn, BPI*
 
 Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indonesischen Dschungels. Über Jahrtausende gewachsen, zählen diese Wälder zu den artenreichsten der Welt. Doch in wenigen Minuten werden die Urwaldriesen gefällt. In Sekunden werden enorme Flächen brandgerodet, um unseren wachsenden Hunger nach Kohle, Tropenholz oder Palmöl zu stillen. Plantagen entstehen, soweit das Auge reicht. Dieser massive Eingriff in die Natur vernichtet den natürlichen Lebensraum der Orang-Utans. Ganze Ökosysteme hängen von dieser Schlüsselart ab und gehen mit ihr zu Grunde. 
 
@@ -31,5 +35,5 @@ Auch 300 Hektar Regenwald rund um die BOS Rettungsstation in Samboja Lestari fie
 {:figure .image.right}
   ![image-title-here](assets/img/sl-fire.jpg){:class="img-responsive"}
   *Quelle: Björn Vaughn, BPI*
-  
+
 Das Gebiet beheimatet keine wilde Orang-Utan Population. In Samboja Lestari werden aber traumatisierte, verletzte und verwaiste Orang-Utans rehabilitiert und auf ihre Auswilderung vorbereitet. Zudem sind viele der ursprünglichen Tierarten in den aufgeforsteten Regenwald zurückgekehrt. Heute ist das Gebiet rund um die BOS-Rettungsstation in Samboja Lestari eine der letzten grünen Inseln der Region. Diese gilt es zu erhalten.
