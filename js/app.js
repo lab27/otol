@@ -96,8 +96,8 @@ function gameOver(score) {
   donateScore = document.getElementsByClassName('donate-score')[0]
   shareScore = document.getElementsByClassName('share-score')[0]
 
-  donateScore.style.display = 'block';
-  shareScore.style.display = 'block';
+  donateScore.style.display = 'flex';
+  shareScore.style.display = 'flex';
 
   switch(score) {
   case 0:
