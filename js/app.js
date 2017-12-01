@@ -124,9 +124,10 @@ function gameOver(score) {
     window.open(social_url, "_blank").focus();
   };
 
-  //donateScore.onclick = function(e) {
-  //  e.preventDefault();
-  //  // TODO
-  //  alert("Spende "+score+" Setzlinge.");
-  //}
+  donateScore.onclick = function(e) {
+    //    add spinner so there's some feedback you pressed the button
+    e.target.classList.add('spinner')
+   // TODO
+    //    alert("Spende "+score+" Setzlinge.");
+  }
 }
