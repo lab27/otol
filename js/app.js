@@ -26,9 +26,10 @@ var rellax = new Rellax('.rellax');
 
 //   social
 var twitter = function (e) {
-    e.preventDefault()
-    social_url = "https://twitter.com/intent/tweet?source=webclient&text=" + encodeURI(window.location + " Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt! ") + "%23OneTreeOneLife";
-    window.open(social_url, "_blank").focus();
+  e.preventDefault()
+  social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
+    encodeURI(window.location + " Spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt! #OneTreeOneLife").replace(/#/g, "%23");
+  window.open(social_url, "_blank").focus();
 }
 
 var facebook = function (e) {
@@ -117,7 +118,7 @@ function gameOver(score) {
   shareScore.onclick = function(e) {
     e.preventDefault();
     social_url = "https://twitter.com/intent/tweet?source=webclient&text=" +
-      encodeURI(window.location + " " + tweet + " ") + "%23OneTreeOneLife";
+      encodeURI(window.location + " " + tweet + " #OneTreeOneLife").replace(/#/g, "%23");
     window.open(social_url, "_blank").focus();
   };
 
