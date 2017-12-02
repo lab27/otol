@@ -127,6 +127,7 @@ h1, h2, h3, h4, h5, h6 {
 
 main.page-content {
     overflow: hidden;
+    position: relative;
     @include mq($from: superwide) {
         margin-top: -14rem;
     }
@@ -178,7 +179,7 @@ main.game {
     // flex: 1 1 100%;
     box-shadow: 0 1rem 2rem rgba($dark-gray,.2);
     justify-content: space-between;
-
+    width: 100%;
 
     &:hover {
         background: $cheeks;
@@ -226,6 +227,7 @@ main.game {
     .button-wrapper {
         padding: .5rem;
         padding-bottom: 0;
+        width: 100%;
 
         form {
             height: 5.5rem;
@@ -247,6 +249,7 @@ main.game {
 .social {
     display: flex;
     color: $bright-green;
+    margin-top: 2rem;
 
     @include mq($from: superwide) {
 
@@ -256,8 +259,15 @@ main.game {
 
     .button {
         margin:0;
-        padding: 1rem;
-        margin-right: 2rem;
+        padding: 0;
+        font-size: .75rem;
+        margin-right: .5rem;
+
+        @include mq ($from: tablet) {
+            padding: 1rem;
+            font-size: 1rem;
+            margin-right: 2rem;
+        }
     }
     svg {
         width: 2rem;
