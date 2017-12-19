@@ -16,7 +16,7 @@ Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indone
   ![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"}
   *Quelle: Björn Vaughn, BPI*
 
-Wegen ihres schwindenden Lebensraumes kommen jedes Jahr schätzungsweise 3.000 Orang-Utans ums Leben. In den letzten 20 Jahren haben die Orang-Utans 55% ihres natürlichen Lebensraumes verloren. Ihr Bestand ist deshalb in den letzten 20 bis 30 Jahren um mehr als 80 Prozent geschrumpft. Schon unsere Kinder und Enkelkinder könnten Orang-Utans in freier Wildbahn nicht mehr erleben!
+Wegen ihres schwindenden Lebensraumes kommen jedes Jahr schätzungsweise 3 000 Orang-Utans ums Leben. In den letzten 20 Jahren haben die Orang-Utans 55 Prozent ihres natürlichen Lebensraumes verloren. Ihr Bestand ist deshalb in den letzten 20 bis 30 Jahren um mehr als 80 Prozent geschrumpft. Schon unsere Kinder und Enkelkinder könnten Orang-Utans in freier Wildbahn nicht mehr erleben!
 
 
 Doch nicht nur die Biodiversität ist bedroht. Grossflächige Brandrodungen und die damit einhergehenden alljährlichen Wald- und Torfbrände beschleunigen auch den Klimawandel und gefährden die Gesundheit von Millionen Menschen.
@@ -27,7 +27,7 @@ Die Hälfte aller tropischen Torfmoorwälder befindet sich in Indonesien. Diese 
   ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
   *Quelle: Björn Vaughn, BPI*
 
-1997 brannten 1.5 Millionen Hektar Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8.000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so deren Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche, so gross wie die halbe Schweiz, loderten und schwelten 127.000 Feuer. Sie setzten 16 Mio. Tonnen CO2 pro Tag frei - mehr als die gesamten USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und wir erlebten einen massiven Zustrom an Orang-Utans in den BOS-Rettungsstationen.
+1997 brannten 1.5 Millionen Hektar Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8 000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so deren Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche, so gross wie die halbe Schweiz, loderten und schwelten 127 000 Feuer. Sie setzten 16 Mio. Tonnen CO2 pro Tag frei - mehr als die gesamten USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und wir erlebten einen massiven Zustrom an Orang-Utans in den BOS-Rettungsstationen.
 
 
 Auch 300 Hektar Regenwald rund um die BOS Rettungsstation in Samboja Lestari fielen 2015 den Flammen zum Opfer. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen. 
