@@ -1,12 +1,12 @@
 ---
 order: 3
 include: sections/normal.html
-title: 'Aktivitäten und Programm 2018: Wir packen unsere Rucksäcke...'
+title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
-**2. Januar 2018: Es gibt wieder Cobras in Samboja Lestari...** 
+**2. Januar 2018: Wir packen unsere Rucksäcke...**
 
-Vor ihnen und vor den Wildschweinen, die sich im frisch aufgeforsteten Regenwald rund um die BOS Rettungsstation wieder angesiedelt haben, wird jeder Besucher der Samboja Lodge vorab dezent gewarnt. Entsprechend packen wir unsere Rucksäcke: Gummistiefel, Handschuhe und hoch geschlossene Trekking-Schuhe gegen die Schlangen, langärmlige Arbeitsklamotten, Hüte und Cremes gegen die Sonne und die Moskitos, Regenjacke und geeignete Klamotten für die Freizeit, Spiele, Lektüre und Laptops für gemütliche Abende auf der Veranda der Lodge... Auch gespendete Kuscheldecken für die Orang-Utans und Medikamente für die Rettungsstation sollen mit. Für Letzteres sind spezielle Papiere und Genehmigungen von Nöten, was vor der Abreise mühsam ist und viel Zeit in Anspruch nimmt. 
+Es gibt wieder Kobras in Samboja Lestari... Vor ihnen und vor den Wildschweinen, die sich im frisch aufgeforsteten Regenwald rund um die BOS Rettungsstation wieder angesiedelt haben, wird jeder Besucher der Samboja Lodge vorab dezent gewarnt. Entsprechend packen wir unsere Rucksäcke: Gummistiefel, Handschuhe und hoch geschlossene Trekking-Schuhe gegen die Schlangen, langärmlige Arbeitsklamotten, Hüte und Cremes gegen die Sonne und die Moskitos, Regenjacke und geeignete Klamotten für die Freizeit, Spiele, Lektüre und Laptops für gemütliche Abende auf der Veranda der Lodge... Auch gespendete Kuscheldecken für die Orang-Utans und Medikamente für die Rettungsstation sollen mit. Für Letzteres sind spezielle Papiere und Genehmigungen von Nöten, was vor der Abreise mühsam ist und viel Zeit in Anspruch nimmt. 
 
 Dasselbe gilt für die notwendigen Gesundheitschecks und ärztlichen Abklärungen. Zum einen müssen alle Volontäre nachweisen, dass sie keine für die Orang-Utans gefährlichen und ansteckenden Krankheiten einschleppen (Tuberkulose, Hebatitis und HIV). Hierfür sind i.d.R. Bluttests notwendig. Zum anderen müssen alle abklären, was sie selbst an Impfungen und Medikamenten benötigen. Oft müssen Standardimpfungen aufgefrischt und zumindest gegen Hebatitis- und Typhus geimpft werden. Beide BOS-Rettungsstationen liegen nicht in einem ausgewiesenen Malaria-Gebiet. Eine Malaria-Prophylaxe gehört trotzdem ins Gepäck. Die wird möglichst günstig im Ausland besorgt, damit die Gesundheitskosten pro Person nicht ins Unermessliche steigen. Sie liegen bei knapp 900 Franken pro Person und werden von den Teilnehmenden selbst getragen, genauso wie die Reise und Unterbringungskosten. Mit wenig Erfolg hatten wir Ärzte, Labore, Tropeninstitute und Pharmaunternehmen um ein Teil-Sponsoring gebeten.  
 
