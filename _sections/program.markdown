@@ -6,7 +6,7 @@ date: 2018-01-02 15:16:24 +0000
 ---
 **Kick-Off-Aktion zum Start der Volontärreise am 14. Januar 2018**
 
-Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. **Willst Du auch einen Orang-Utan Rucksack im limitierten One-Tree-One-Life-Design? Dann unterstütze uns jetzt! Die nächsten 20 Spenden im Wert von 50 Franken oder mehr erhalten kostenlos diesen wunderschönen Rucksack dazu** - inklusive ein One-Tree-One-Life-Flyer mit einem ganz persönlichen Gruss von uns! WICHTIG: Dein Rucksack geht zeitgleich mit uns auf die Reise und wird Dir per Post zugeschickt. Also bitte «Versandadresse übermitteln» beim Spenden per Paypal aktivieren!   
+Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. **Willst Du auch einen Orang-Utan-Rucksack im limitierten One-Tree-One-Life-Design? Dann unterstütze uns jetzt! Die nächsten 20 Spenden im Wert von 50 Franken oder mehr erhalten kostenlos diesen wunderschönen Rucksack dazu** - inklusive ein One-Tree-One-Life-Flyer mit einem ganz persönlichen Gruss von uns! WICHTIG: Dein Rucksack geht zeitgleich mit uns auf die Reise und wird Dir per Post zugeschickt. Also bitte «Versandadresse übermitteln» beim Spenden per Paypal aktivieren!   
 
 ![](/uploads/2018/01/14/IMG-20180107-WA0004_quer.jpg)
 
