@@ -14,7 +14,7 @@ Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger.�
 
 **14. Januar 2018: Indonesien - wir kommen!**
 
-Treffpunkt heute Morgen war 8 Uhr am Flughafen Zürich. Aus den unterschiedlichsten Richtungen trudelten wir ein, die letzten Mitbringsel für die Rettungsstation wurden auf die Gepäckstücke verteilt, letzte Anweisungen und Papiere für die beiden Knochensägen, den Wundkleber und die Pipetten im Gepäck wurden ausgetauscht, die Gesundheitszeugnisse eingesammelt und dieses letzte Gruppenphoto gemacht:    
+Treffpunkt war heute Morgen um 8 Uhr am Flughafen Zürich. Aus den unterschiedlichsten Richtungen trudelten wir ein, die letzten Mitbringsel für die Rettungsstation wurden auf die Gepäckstücke verteilt, letzte Anweisungen und Papiere für die beiden Knochensägen, den Wundkleber und die Pipetten im Gepäck wurden ausgetauscht, die Gesundheitszeugnisse eingesammelt und dieses letzte Gruppenphoto gemacht:    
 
 ![](/uploads/2018/01/14/Abreise 1.jpg)
 
