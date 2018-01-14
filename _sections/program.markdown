@@ -12,6 +12,7 @@ Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. 
 
 **AKTUELLER SPENDENSTAND: 4952.67 Franken.** Merci an alle, die uns bereits vor unserem Abflug so grosszügig unterstützt haben! 
 
+  
 **14. Januar 2018: Indonesien - wir kommen!**
 
 Treffpunkt heute Morgen war 8 Uhr am Flughafen Zürich. Aus den unterschiedlichsten Richtungen trudelten wir ein, die letzten Mitbringsel für die Rettungsstation wurden auf die Gepäckstücke verteilt, letzte Anweisungen und Papiere für die beiden Knochensägen, den Wundkleber und die Pipetten im Gepäck wurden ausgetauscht, die Gesundheitszeugnisse eingesammelt und dieses letzte Gruppenphoto gemacht:
@@ -26,7 +27,7 @@ Am Donnerstag , den 11. Januar trafen wir uns zu einer letzten Flyeraktion am Ha
 
 ![](/uploads/2018/01/14/IMG-20180111-WA0002 (1).jpg)
 
-Als eine der letzten Vorbereitungen haben wir am Donnerstag noch fleissig Flyer am Hauptbahnhof Zürich verteilt. Mit am Start waren Matthias und Angela S., drei BOS Schweiz-Mitarbeiterinnen und ein Veloanhänger voller Plüsch-Orang-Utans und Flyer. Hier ein visueller Eindruck:**2. Januar 2018: Wir packen unsere Rucksäcke...**
+**2. Januar 2018: Wir packen unsere Rucksäcke...**
 
 Es gibt wieder Kobras in Samboja Lestari... Vor ihnen und vor den Wildschweinen, die sich im frisch aufgeforsteten Regenwald rund um die BOS-Rettungsstation wieder angesiedelt haben, wird jeder Besucher der Samboja Lodge vorab dezent gewarnt. Entsprechend packen wir unsere Rucksäcke: Gummistiefel, Handschuhe und hoch geschlossene Trekking-Schuhe gegen die Schlangen, langärmlige Arbeitsklamotten, Hüte und Cremes gegen die Sonne und die Moskitos, Regenjacke und geeignete Klamotten für die Freizeit, Spiele, Lektüre und Laptops für gemütliche Abende auf der Veranda der Lodge... Auch gespendete Kuscheldecken für die Orang-Utans und Medikamente für die Rettungsstation sollen mit. Für Letzteres sind spezielle Papiere und Genehmigungen von Nöten, was vor der Abreise mühsam ist und viel Zeit in Anspruch nimmt.
 
