@@ -4,19 +4,19 @@ include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
-**15.01.2018: Gut gelandet!** 
+**15.01.2018: Gut gelandet!**
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0007.jpg)
 
-Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Lestari gefunden. Heute konnten wir uns in der wunderschönen Sambodja Lodge etwas ausruhen. Eine erste Orang-Utan-Begegnung gab es aber schon: 
+Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Lestari gefunden. Heute konnten wir uns in der wunderschönen Sambodja Lodge etwas ausruhen. Eine erste Orang-Utan-Begegnung gab es aber schon:
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0008.jpg)
 
-Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen verbrachte sein komplettes bisheriges Leben in Gefangenschaft und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend... 
+Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen verbrachte sein komplettes bisheriges Leben in Gefangenschaft und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend...
 
 **Kick-Off-Aktion zum Start der Volontärreise am 14. Januar 2018**
 
-Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. **Willst Du auch einen Orang-Utan-Rucksack im limitierten One-Tree-One-Life-Design? Dann unterstütze uns jetzt! Die nächsten 20 Spenden im Wert von 50 Franken oder mehr erhalten kostenlos diesen wunderschönen Rucksack dazu** - inklusive One-Tree-One-Life-Flyer mit einem ganz persönlichen Gruss von uns! **WICHTIG:** Dein Rucksack geht zeitgleich mit uns auf die Reise und wird Dir per Post zugeschickt. Also bitte «Versandadresse übermitteln» beim Spenden per Paypal aktivieren!
+Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. **Willst Du auch einen Orang-Utan-Rucksack im limitierten One-Tree-One-Life-Design? Dann unterstütze uns jetzt! Die nächsten 20 Personen, die Setzlinge im Wert von 50 Franken oder mehr spenden, erhalten kostenlos diesen wunderschönen Rucksack dazu** - inklusive One-Tree-One-Life-Flyer mit einem ganz persönlichen Gruss von uns! **WICHTIG:** Dein Rucksack geht zeitgleich mit uns auf die Reise und wird Dir per Post zugeschickt. Also bitte «Versandadresse übermitteln» beim Spenden per Paypal aktivieren!
 
 ![](/uploads/2018/01/14/IMG-20180107-WA0004_quer.jpg)
 
