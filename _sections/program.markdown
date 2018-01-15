@@ -8,7 +8,7 @@ date: 2018-01-02 15:16:24 +0000
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0007.jpg)
 
-Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Lestari gefunden. Heute konnten wir uns in der wunderschönen Sambodja Lodge erstmal etwas ausruhen. Eine erste Orang-Utan-Begegnung gab es allerdings bereits. Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen hat sein komplettes Leben in Gefangenschaft verbracht und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend... 
+Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Lestari gefunden. Heute konnten wir uns in der wunderschönen Sambodja Lodge etwas ausruhen. Eine erste Orang-Utan-Begegnung gab es aber schon. Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen verbrachte sein komplettes bisheriges Leben in Gefangenschaft und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend... 
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0008.jpg)
 
