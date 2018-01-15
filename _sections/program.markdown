@@ -4,17 +4,25 @@ include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
+**15.01.2018: Gut gelandet!** 
+
+![](/uploads/2018/01/15/IMG-20180115-WA0007.jpg)
+
+Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Lestari gefunden. Heute konnten wir uns in der wunderschönen Sambodja Lodge erstmal etwas ausruhen. Eine erste Orang-Utan-Begegnung gab es allerdings bereits. Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen hat sein komplettes Leben in Gefangenschaft verbracht und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend... 
+
+![](/uploads/2018/01/15/IMG-20180115-WA0008.jpg)
+
 **Kick-Off-Aktion zum Start der Volontärreise am 14. Januar 2018**
 
 Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger. **Willst Du auch einen Orang-Utan-Rucksack im limitierten One-Tree-One-Life-Design? Dann unterstütze uns jetzt! Die nächsten 20 Spenden im Wert von 50 Franken oder mehr erhalten kostenlos diesen wunderschönen Rucksack dazu** - inklusive One-Tree-One-Life-Flyer mit einem ganz persönlichen Gruss von uns! **WICHTIG:** Dein Rucksack geht zeitgleich mit uns auf die Reise und wird Dir per Post zugeschickt. Also bitte «Versandadresse übermitteln» beim Spenden per Paypal aktivieren!
 
 ![](/uploads/2018/01/14/IMG-20180107-WA0004_quer.jpg)
 
-**AKTUELLER SPENDENSTAND: 4952.67 Franken.** Merci an alle, die uns bereits vor unserem Abflug so grosszügig unterstützt haben! 
+**AKTUELLER SPENDENSTAND: 4952.67 Franken.** Merci an alle, die uns bereits vor unserem Abflug so grosszügig unterstützt haben!
 
 **14. Januar 2018: Indonesien - wir kommen!**
 
-Treffpunkt war heute Morgen um 8 Uhr am Flughafen Zürich. Aus den unterschiedlichsten Richtungen trudelten wir ein, die letzten Mitbringsel für die Rettungsstation wurden auf die Gepäckstücke verteilt, letzte Anweisungen und Papiere für die beiden Knochensägen, den Wundkleber und die Pipetten im Gepäck wurden ausgetauscht, die Gesundheitszeugnisse eingesammelt und dieses letzte Gruppenphoto gemacht:    
+Treffpunkt war heute Morgen um 8 Uhr am Flughafen Zürich. Aus den unterschiedlichsten Richtungen trudelten wir ein, die letzten Mitbringsel für die Rettungsstation wurden auf die Gepäckstücke verteilt, letzte Anweisungen und Papiere für die beiden Knochensägen, den Wundkleber und die Pipetten im Gepäck wurden ausgetauscht, die Gesundheitszeugnisse eingesammelt und dieses letzte Gruppenphoto gemacht:
 
 ![](/uploads/2018/01/14/Abreise 1.jpg)
 
@@ -22,7 +30,7 @@ Jetzt befinden wir uns bereits auf dem Weg nach Borneo. Unsere Reiseroute führt
 
 **11. Januar 2018: Letzte Flyer Aktion vor Abflug**
 
-Am Donnerstag , den 11. Januar trafen wir uns zu einer letzten Flyeraktion am Hauptbahnhof in Zürich. Mit von der Partie waren Matthias und Angela S., drei BOS Schweiz-Mitarbeiterinnen und ein flotter Veloanhänger voller Plüsch-Orang-Utans und One-Tree-One-Life-Flyer. Hier ein visueller Eindruck:   
+Am Donnerstag , den 11. Januar trafen wir uns zu einer letzten Flyeraktion am Hauptbahnhof in Zürich. Mit von der Partie waren Matthias und Angela S., drei BOS Schweiz-Mitarbeiterinnen und ein flotter Veloanhänger voller Plüsch-Orang-Utans und One-Tree-One-Life-Flyer. Hier ein visueller Eindruck:
 
 ![](/uploads/2018/01/14/IMG-20180111-WA0002 (1).jpg)
 
