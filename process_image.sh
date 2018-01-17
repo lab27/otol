@@ -1,5 +1,8 @@
 #!/bin/bash
 
+set -x
+set -e
+
 src=$1
 
 # derive destination path from source path

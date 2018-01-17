@@ -1,5 +1,8 @@
 #!/bin/sh
 
+set -x
+set -e
+
 TMP_IDX=$(mktemp --suffix=.idx)
 
 find uploads -type f > $TMP_IDX
