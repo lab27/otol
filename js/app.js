@@ -140,7 +140,7 @@ console.log(pswpElement)
 // build items array
 var items = [
   {
-    src: 'https://farm2.staticflickr.com/1043/5186867718_06b2e9e551_b.jpg',
+    src: 'https://drive.google.com/open?id=1crbI4cE23k6hZ8w_Mxw1_UNsq_SI441V',
     w: 964,
     h: 1024
   },
