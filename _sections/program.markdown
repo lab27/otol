@@ -7,11 +7,11 @@ date: 2018-01-02 15:16:24 +0000
 
 **18. Januar 2018: Arbeit macht müde**
 
-Der Tagesablauf ist klar gegliedert. Nach dem Frühstück (westlich wie indonesisches Essen, frische Früchte oder Fruchtsäfte, Tee und Kaffee) geht’s los in den Wald und es wird hart gearbeitet. Mittagessen und Abendessen nehmen wir dann wieder gemeinsam in der Lodge ein und fallen abends früh und erschöpft ins Bett.
+Der Tagesablauf ist klar gegliedert. Nach dem Frühstück (westliches wie indonesisches Essen, frische Früchte oder Fruchtsäfte, Tee und Kaffee) geht’s los in den Wald und es wird hart gearbeitet. Mittagessen und Abendessen nehmen wir dann wieder gemeinsam in der Lodge ein und fallen abends früh und erschöpft ins Bett.
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0064.jpg)
 
-Auch beim Enrichment durften wir mal reinschauen: Hier wird das Futter für die Orang-Utans so verpackt, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden. 
+Nein, hierbei handelt es sich nicht um unser Mittagessen :) Das ist das "Enrichment" für die Orang-Utans. Auch dort durften wir mal reinschauen. Wir helfen mit, das Futter für die Orang-Utans so zu verpacken, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden. 
 
 **17. bis 20. Januar 2018: Aufforstung**
 
