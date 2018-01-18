@@ -18,5 +18,6 @@ diff --old-line-format="" \
 mv $TMP_IDX uploads.idx
 
 # update indices
-find uploads -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- /' > _data/uploads.yml
-find gallery -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- /' > _data/gallery.yml
+find gallery -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- path: /' > _data/gallery.yml
+
+ruby annotate.rb _data/gallery.yml
