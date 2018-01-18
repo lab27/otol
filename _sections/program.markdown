@@ -1,9 +1,34 @@
 ---
-order: 4
+order: 3
 include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
+
+**16.01.2018: Erstmal ankommen und zurecht finden**
+
+Um 8 Uhr morgens machten wir uns auf den Weg. Agus (der Leiter der Rettungsstation) begleitete uns auf einer Tour durch Samboja Lestari. 
+
+![](/uploads/2018/01/18/IMG-20180116-WA0043.jpg)Das Bürogebäude der BOS Stiftung lag auf dem Weg. Unten der Blick von der Dachterasse über den Wald von Samboja Lestari. Auch die Klinik, die Fruit Station (das Futterhaus) und die Baumschule durften wir schon mal sehen.![](/uploads/2018/01/18/IMG-20180116-WA0047.jpg)
+
+Unsere Setzlinge sind übrigens schon parat. Dieser Berg Arbeit liegt vor uns: 140 Bäume sollen wir Morgen pflanzen.
+
+![](/uploads/2018/01/18/IMG-20180116-WA0044.jpg)
+
+Im Anschluss besuchten wir die 45 Malaienbären der Rettungsstation. Patrick, dem Bärenexperten vor Ort, wollen wir in der zweiten Hälfte unseres Aufenthaltes unter die Arme greifen. Dazu dann mehr zu seiner Zeit.
+
+Am Nachmittag machten wir einen Ausflug (die „Black River Tour“). 
+
+![](/uploads/2018/01/18/IMG-20180116-WA0115-1.jpg)
+
+Auf einem kleinen Motorboot wurden wir über das fast schwarze Wasser des kleinen Flusses bis hin zur Mündung ins Meer gebracht. Unterwegs kann man Nasenaffen sehen - hier in voller Pracht im Profil :)
+
+![](/uploads/2018/01/18/IMG-20180116-WA0084.jpg)
+
+Es war schön, bei der Gelegenheit auch einen Eindruck davon zu bekommen, wie die lokale Bevölkerung so lebt. Vor allem die Kinder am Ufer winkten uns fröhlich zu. Schade, dass so viel Müll im Fluss landet... 
+
+![](/uploads/2018/01/18/IMG-20180116-WA0079.jpg)
+
 **15.01.2018: Gut gelandet!**
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0007.jpg)
@@ -12,7 +37,7 @@ Hier das Beweisphoto: alle sind gut angekommen und haben den Weg nach Samboja Le
 
 ![](/uploads/2018/01/15/IMG-20180115-WA0008.jpg)
 
-Diese rohaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen verbrachte sein komplettes bisheriges Leben in Gefangenschaft und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend...
+Diese rothaarige Schönheit heisst Romeo. Das über 30 Jahre alte Orang-Utan-Männchen verbrachte sein komplettes bisheriges Leben in Gefangenschaft und kann nicht wieder ausgewildert werden. Seit letztem Jahr hat das Käfigdasein allerdings ein Ende für Romeo: mit zwei Weibchen wurde er auf eine Vorauswilderungsinsel umgesiedelt, wo er in einer natürlichen Umgebung ein recht entspanntes Leben führt. Meistens schläft Romeo :) Und genau das machen wir jetzt auch mal, denn die lange Anreise war extrem anstrengend...
 
 **Kick-Off-Aktion zum Start der Volontärreise am 14. Januar 2018**
 
