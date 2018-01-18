@@ -11,5 +11,5 @@ dst=${src//uploads/gallery}
 # make sure the destnation directory exists
 mkdir -p $(dirname $dst)
 
-# scale
-convert -geometry 300x200 "$src" "$dst"
+# resize and crop image to thumbnail
+convert -resize "300x300^" -gravity center -crop 300x300+0+0 +repage "$src" "$dst"

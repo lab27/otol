@@ -16,3 +16,7 @@ diff --old-line-format="" \
     xargs -n 1 -i{} ./process_image.sh '{}'
 
 mv $TMP_IDX uploads.idx
+
+# update indices
+find uploads -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- /' > _data/uploads.yml
+find gallery -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- /' > _data/gallery.yml
