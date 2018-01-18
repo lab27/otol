@@ -6,11 +6,10 @@ require 'yaml'
 
 data = YAML.load(File.read(file))
 
-data = data.map do |entry|
-  p entry
-  puts cmd =  "identify -format '%wx%h' '#{prefix+entry['path']}'"
-
+data = data.each_with_index.map do |entry, index|
+  cmd =  "identify -format '%wx%h' '#{prefix+entry['path']}'"
   entry['width'], entry['height'] = %x[#{cmd}].chomp.split('x')
+  entry['preview'] = index < 12
   entry
 end
 
