@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 6
 include: sections/alternate.html
 title:  "Die Trägerorganisation"
 ---

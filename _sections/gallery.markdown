@@ -1,5 +1,5 @@
 ---
-order: 8
+order: 5
 include: sections/normal.html
 title:  "Bilder"
 ---
