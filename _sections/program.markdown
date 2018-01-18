@@ -12,11 +12,11 @@ Der Tagesablauf ist klar gegliedert. Nach dem Frühstück (westliches wie indone
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0064.jpg)
 
-Nein, hierbei handelt es sich nicht um unser Mittagessen :) Das ist das "Enrichment" für die Orang-Utans. Auch dort durften wir mal reinschauen. Wir helfen mit, das Futter für die Orang-Utans so zu verpacken, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden. 
+Nein, hierbei handelt es sich nicht um unser Mittagessen :) Das ist das "Enrichment" für die Orang-Utans. Auch dort durften wir mal reinschauen. Wir helfen mit, das Futter für die Orang-Utans so zu verpacken, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden.
 
 **17. bis 20. Januar 2018: Aufforstung**
 
-Heute ging es los mit der Aufforstung und auch in den kommenden Tagen wird uns ein Fahrer an diejenige Stelle bringen, wo wir die bereits vorbereiteten Setzlinge pflanzen sollen. 
+Heute ging es los mit der Aufforstung und auch in den kommenden Tagen wird uns ein Fahrer an diejenige Stelle bringen, wo wir die bereits vorbereiteten Setzlinge pflanzen sollen.
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0021.jpg)
 
@@ -24,23 +24,23 @@ An Ort und Stelle wurde bereits ein Schild für uns angebracht... damit ja keine
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0013.jpg)
 
-Aufforstung ist eine Wissenschaft für sich. Wir werden eine Mischung aus Nutzholz und Fruchtbäumen setzten, schnell und langsam wachsende Sorten - denn es geht um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die wir pflanzen, sind einheimische und zum Teil bedrohte Sorten. Natürlich sind auch verschiedene Fruchtbäume, die den Orang-Utans als Nahrung dienen, dabei. 
+Aufforstung ist eine Wissenschaft für sich. Wir werden eine Mischung aus Nutzholz und Fruchtbäumen setzten, schnell und langsam wachsende Sorten - denn es geht um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die wir pflanzen, sind einheimische und zum Teil bedrohte Sorten. Natürlich sind auch verschiedene Fruchtbäume, die den Orang-Utans als Nahrung dienen, dabei.
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0048.jpg)
 
 Hier ein Überblick der Sorten, die wir pflanzen:
 
-**Timber/wooden tree:** Iron tree (ulin): endemic and endangered tree of Borneo; very hard and valuable wood. Shorea species (Meranti): endemic and endangered tree of Borneo; very valuable wood. Kapur tree: endangered tree and endemic in Borneo. Some hard wooden tree such as gaharu, callophylum etc.
+**Timber/wooden trees:** Iron tree (ulin): endemic and endangered tree of Borneo; very hard and valuable wood. Shorea species (Meranti): endemic and endangered tree of Borneo; very valuable wood. Kapur tree: endangered tree and endemic in Borneo. Some hard wooden trees such as gaharu, callophylum etc.
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0037.jpg)
 
-**Fruits tree:** Rambutan: edible fruits; also orangutan fruit tree. Durian: edible fruits; orangutan loves it. Local durian: a local and endangered species of durian from Borneo; orangutans eat it. Langsat: local fruit; orangutans eat it. Rambai: local fruit; very sour taste; orangutans also eat it. Some more local fruit trees such as guava, jackfruit, breadfruit etc.
+**Fruit trees:** Rambutan: edible fruits; also orangutan fruit tree. Durian: edible fruits; orangutans love it. Local durian: a local and endangered species of durian from Borneo; orangutans eat it. Langsat: local fruit; orangutans eat it. Rambai: local fruit; very sour taste; orangutans also eat it. Some more local fruit trees such as guava, jackfruit, breadfruit etc.
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0046.jpg)
 
 **16.01.2018: Erstmal ankommen und zurecht finden**
 
-Um 8 Uhr morgens machten wir uns auf den Weg. Agus (der Leiter der Rettungsstation) begleitete uns auf einer Tour durch Samboja Lestari. 
+Um 8 Uhr morgens machten wir uns auf den Weg. Agus (der Leiter der Rettungsstation) begleitete uns auf einer Tour durch Samboja Lestari.
 
 ![](/uploads/2018/01/18/IMG-20180116-WA0043.jpg)Das Bürogebäude der BOS Stiftung lag auf dem Weg. Unten der Blick von der Dachterasse über den Wald von Samboja Lestari. Auch die Klinik, die Fruit Station (das Futterhaus) und die Baumschule durften wir schon mal sehen.![](/uploads/2018/01/18/IMG-20180116-WA0047.jpg)
 
@@ -50,7 +50,7 @@ Unsere Setzlinge sind übrigens schon parat. Dieser Berg Arbeit liegt vor uns: 1
 
 Im Anschluss besuchten wir die 45 Malaienbären der Rettungsstation. Patrick, dem Bärenexperten vor Ort, wollen wir in der zweiten Hälfte unseres Aufenthaltes unter die Arme greifen. Dazu dann mehr zu seiner Zeit.
 
-Am Nachmittag machten wir einen Ausflug (die „Black River Tour“). 
+Am Nachmittag machten wir einen Ausflug (die „Black River Tour“).
 
 ![](/uploads/2018/01/18/IMG-20180116-WA0115-1.jpg)
 
@@ -58,7 +58,7 @@ Auf einem kleinen Motorboot wurden wir über das fast schwarze Wasser des kleine
 
 ![](/uploads/2018/01/18/IMG-20180116-WA0084.jpg)
 
-Es war schön, bei der Gelegenheit auch einen Eindruck davon zu bekommen, wie die lokale Bevölkerung so lebt. Vor allem die Kinder am Ufer winkten uns fröhlich zu. Schade, dass so viel Müll im Fluss landet... 
+Es war schön, bei der Gelegenheit auch einen Eindruck davon zu bekommen, wie die lokale Bevölkerung so lebt. Vor allem die Kinder am Ufer winkten uns fröhlich zu. Schade, dass so viel Müll im Fluss landet...
 
 ![](/uploads/2018/01/18/IMG-20180116-WA0079.jpg)
 
