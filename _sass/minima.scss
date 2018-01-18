@@ -533,3 +533,19 @@ footer {
         margin: 1rem;
     }
 }
+
+// gallery
+.my-gallery {
+    display: flex;
+    flex-flow: row wrap;
+
+    figure {
+        flex: 1 1 33.33%;
+        padding: 1rem;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
