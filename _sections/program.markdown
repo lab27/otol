@@ -4,6 +4,7 @@ include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
+**AKTUELLER SPENDENSTAND: 6210.54** **Franken.** Merci für die Unterstützung! PS: Bitte gebt, falls ihr direkt auf das BOS Schweiz Spendenkonto überweist, immer _One Tree One Life_ als Verwendungszweck an!![](/uploads/2018/01/18/IMG-20180117-WA0071-1.jpg)
 
 **18. Januar 2018: Arbeit macht müde**
 
