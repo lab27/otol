@@ -19,6 +19,6 @@ mv $TMP_IDX uploads.idx
 
 # update indices
 find gallery/full -type f -printf "%T+\t%p\n" | sort -r | \
-    sed 's/^.\+\t gallery\/full/- path: /' > _data/gallery.yml
+    sed 's/^.\+\tgallery\/full/- path: /' > _data/gallery.yml
 
 ruby annotate.rb _data/gallery.yml gallery/full
