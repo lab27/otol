@@ -23,7 +23,7 @@ An Ort und Stelle wurde bereits ein Schild für uns angebracht... damit ja keine
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0013.jpg)
 
-Aufforstung ist eine Wissenschaft für sich. Wir werden eine Mischung aus Nutzholz und Fruchtbäumen setzten, schnell und langsam wachsende Sorten - denn es geht um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die wir pflanzen, sind einheimische und oft bedrohte Sorten. Natürlich sind auch verschiedene Fruchtbäumen, die den Orang-Utans als Nahrung dienen, dabei. 
+Aufforstung ist eine Wissenschaft für sich. Wir werden eine Mischung aus Nutzholz und Fruchtbäumen setzten, schnell und langsam wachsende Sorten - denn es geht um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die wir pflanzen, sind einheimische und zum Teil bedrohte Sorten. Natürlich sind auch verschiedene Fruchtbäume, die den Orang-Utans als Nahrung dienen, dabei. 
 
 ![](/uploads/2018/01/18/IMG-20180117-WA0048.jpg)
 
