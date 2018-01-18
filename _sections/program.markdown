@@ -5,6 +5,38 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
 
+**18. Januar 2018: Arbeit macht müde**
+
+Der Tagesablauf ist klar gegliedert. Nach dem Frühstück (westlich wie indonesisches Essen, frische Früchte oder Fruchtsäfte, Tee und Kaffee) geht’s los in den Wald und es wird hart gearbeitet. Mittagessen und Abendessen nehmen wir dann wieder gemeinsam in der Lodge ein und fallen abends früh und erschöpft ins Bett.
+
+![](/uploads/2018/01/18/IMG-20180117-WA0064.jpg)
+
+Auch beim Enrichment durften wir mal reinschauen: Hier wird das Futter für die Orang-Utans so verpackt, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden. 
+
+**17. bis 20. Januar 2018: Aufforstung**
+
+Heute ging es los mit der Aufforstung und auch in den kommenden Tagen wird uns ein Fahrer an diejenige Stelle bringen, wo wir die bereits vorbereiteten Setzlinge pflanzen sollen. 
+
+![](/uploads/2018/01/18/IMG-20180117-WA0021.jpg)
+
+An Ort und Stelle wurde bereits ein Schild für uns angebracht... damit ja keiner daneben pflanzt :)
+
+![](/uploads/2018/01/18/IMG-20180117-WA0013.jpg)
+
+Aufforstung ist eine Wissenschaft für sich. Wir werden eine Mischung aus Nutzholz und Fruchtbäumen setzten, schnell und langsam wachsende Sorten - denn es geht um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die wir pflanzen, sind einheimische und oft bedrohte Sorten. Natürlich sind auch verschiedene Fruchtbäumen, die den Orang-Utans als Nahrung dienen, dabei. 
+
+![](/uploads/2018/01/18/IMG-20180117-WA0048.jpg)
+
+Hier ein Überblick der Sorten, die wir pflanzen:
+
+**Timber/wooden tree:** Iron tree (ulin): endemic and endangered tree of Borneo; very hard and valuable wood. Shorea species (Meranti): endemic and endangered tree of Borneo; very valuable wood. Kapur tree: endangered tree and endemic in Borneo. Some hard wooden tree such as gaharu, callophylum etc.
+
+![](/uploads/2018/01/18/IMG-20180117-WA0037.jpg)
+
+**Fruits tree:** Rambutan: edible fruits; also orangutan fruit tree. Durian: edible fruits; orangutan loves it. Local durian: a local and endangered species of durian from Borneo; orangutans eat it. Langsat: local fruit; orangutans eat it. Rambai: local fruit; very sour taste; orangutans also eat it. Some more local fruit trees such as guava, jackfruit, breadfruit etc.
+
+![](/uploads/2018/01/18/IMG-20180117-WA0046.jpg)
+
 **16.01.2018: Erstmal ankommen und zurecht finden**
 
 Um 8 Uhr morgens machten wir uns auf den Weg. Agus (der Leiter der Rettungsstation) begleitete uns auf einer Tour durch Samboja Lestari. 
