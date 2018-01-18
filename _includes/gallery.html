@@ -72,8 +72,8 @@
 
     {% for image in  site.data.gallery %}
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="{{image.path}}" itemprop="contentUrl" data-size="300x200">
-            <img src="{{image.path}}" itemprop="thumbnail" alt="OTOL" />
+        <a href="{{image.path}}" itemprop="contentUrl" data-size="800x600">
+            <img src="{{image.path}}" itemprop="thumbnail" alt="OTOL" width="300" height="300"/>
         </a>
     </figure>
     {% endfor %}
