@@ -16,3 +16,8 @@ diff --old-line-format="" \
     xargs -n 1 -i{} ./process_image.sh '{}'
 
 mv $TMP_IDX uploads.idx
+
+# update indices
+find gallery -type f -printf "%T+\t%p\n" | sort -r | sed 's/^.\+\t/- path: /' > _data/gallery.yml
+
+ruby annotate.rb _data/gallery.yml
