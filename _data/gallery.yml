@@ -1,19 +1,37 @@
 ---
-- path: uploads/2018/01/15/IMG-20180115-WA0008.jpg
-  width: '1600'
-  height: '896'
-- path: uploads/2018/01/15/IMG-20180115-WA0007.jpg
-  width: '1600'
-  height: '856'
-- path: uploads/2018/01/14/IMG-20180111-WA0002 (1).jpg
-  width: '768'
-  height: '1024'
-- path: uploads/2018/01/14/IMG-20180107-WA0004_quer.jpg
+- path: gallery/full/2018/01/14/IMG-20180111-WA0002 (1).jpg
+  width: '600'
+  height: '800'
+- path: gallery/thumbs/2018/01/14/IMG-20180111-WA0002 (1).jpg
+  width: '300'
+  height: '300'
+- path: gallery/full/2018/01/14/Flyeraktion_zugeschnitten.png
+  width: '600'
+  height: '800'
+- path: gallery/thumbs/2018/01/14/Flyeraktion_zugeschnitten.png
+  width: '300'
+  height: '300'
+- path: gallery/full/2018/01/14/Abreise 1.jpg
+  width: '800'
+  height: '643'
+- path: gallery/thumbs/2018/01/14/Abreise 1.jpg
+  width: '300'
+  height: '300'
+- path: gallery/full/2018/01/14/IMG-20180107-WA0004_quer.jpg
   width: '800'
   height: '561'
-- path: uploads/2018/01/14/Flyeraktion_zugeschnitten.png
-  width: '768'
-  height: '1024'
-- path: uploads/2018/01/14/Abreise 1.jpg
-  width: '1600'
-  height: '1286'
+- path: gallery/thumbs/2018/01/14/IMG-20180107-WA0004_quer.jpg
+  width: '300'
+  height: '300'
+- path: gallery/full/2018/01/15/IMG-20180115-WA0007.jpg
+  width: '800'
+  height: '428'
+- path: gallery/thumbs/2018/01/15/IMG-20180115-WA0007.jpg
+  width: '300'
+  height: '300'
+- path: gallery/full/2018/01/15/IMG-20180115-WA0008.jpg
+  width: '800'
+  height: '448'
+- path: gallery/thumbs/2018/01/15/IMG-20180115-WA0008.jpg
+  width: '300'
+  height: '300'
