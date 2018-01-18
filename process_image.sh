@@ -10,8 +10,8 @@ thumb_dst=${src//uploads/gallery/thumbs}
 full_dst=${src//uploads/gallery/full}
 
 # make sure the destnation directories exists
-mkdir -p $(dirname $thumb_dst)
-mkdir -p $(dirname $full_dst)
+mkdir -p "$(dirname $thumb_dst)"
+mkdir -p "$(dirname $full_dst)"
 
 # resize and crop image to thumbnail
 convert -resize "300x300^" -gravity center -crop 300x300+0+0 +repage "$src" "$thumb_dst"
