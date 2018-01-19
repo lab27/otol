@@ -4,6 +4,24 @@ include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 ---
+**18. Januar 2018:**
+
+Anstrengende Tage liegen hinter uns. Davon zeugen zahlreiche Blasen an unseren Händen und unser Muskelkarter. Meterlanger Bambus wurde von uns im Wald geschlagen und für das Enrichment aufbereitet, d.h. in kurze Stücke gesägt.  
+
+![](/uploads/2018/01/19/IMG-20180119-WA0006.jpg)
+
+Für seinen unermüdlichen Einsatz im Bambuswald erntete Matthias von Pädu (aka Patrick) die anerkennende Bezeichnung "Kung-Fu Panda". Andere pflanzten Setzlinge. das jeweilige Tagesziel: 100.  
+
+![](/uploads/2018/01/19/IMG-20180117-WA0062.jpg)
+
+Nach getaner Arbeit ging es zurück in die Lodge. Dort tankten wir Energie und erkundeten später noch die nähere Umgebung. Gemeinsam fuhren wir auf den Markt nach Balikpapan.
+
+![](/uploads/2018/01/19/IMG-20180117-WA0073.jpg)
+
+Unser erster Arbeitsabschnitt neigt sich damit bereits dem Ende zu. Nach dem Wochenende wechslen wir dann zu den Bären. 
+
+![](/uploads/2018/01/19/IMG-20180117-WA0076.jpg)
+
 **AKTUELLER SPENDENSTAND: 6210.54** **Franken.** Merci für die Unterstützung! PS: Bitte gebt, falls ihr direkt auf das BOS Schweiz Spendenkonto überweist, immer _One Tree One Life_ als Verwendungszweck an!![](/uploads/2018/01/18/IMG-20180117-WA0071-1.jpg)
 
 **18. Januar 2018: Arbeit macht müde**
