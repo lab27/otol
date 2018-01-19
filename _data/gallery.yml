@@ -1,4 +1,16 @@
 ---
+- path: "/2018/01/19/IMG-20180117-WA0076.jpg"
+  width: '800'
+  height: '450'
+  preview: true
+- path: "/2018/01/19/IMG-20180117-WA0073.jpg"
+  width: '800'
+  height: '450'
+  preview: true
+- path: "/2018/01/19/IMG-20180117-WA0062.jpg"
+  width: '600'
+  height: '800'
+  preview: true
 - path: "/2018/01/19/IMG-20180119-WA0006.jpg"
   width: '600'
   height: '800'
@@ -38,15 +50,15 @@
 - path: "/2018/01/18/IMG-20180117-WA0021.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2018/01/18/IMG-20180116-WA0098.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/01/18/IMG-20180116-WA0072.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/18/IMG-20180116-WA0079.jpg"
   width: '800'
   height: '533'
