@@ -127,10 +127,6 @@
   width: '533'
   height: '800'
   preview: false
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0073.jpg"
-  width: '800'
-  height: '450'
-  preview: false
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0047.jpg"
   width: '800'
   height: '533'
@@ -154,10 +150,6 @@
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0070.jpg"
   width: '800'
   height: '600'
-  preview: false
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0062.jpg"
-  width: '600'
-  height: '800'
   preview: false
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0041.jpg"
   width: '600'
@@ -306,10 +298,6 @@
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0044.jpg"
   width: '600'
   height: '800'
-  preview: false
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0076.jpg"
-  width: '800'
-  height: '450'
   preview: false
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0014.jpg"
   width: '533'
