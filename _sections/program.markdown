@@ -2,8 +2,48 @@
 order: 4
 include: sections/normal.html
 title: Aktivitäten und Programm 2018
+date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**AKTUELLER SPENDENSTAND: 6510.54 Franken. Merci für Eure Hilfe!**
+
+![](/uploads/2018/01/22/IMG-20180122-WA0038.jpg)
+
+**22. Januar 2018:**
+
+440 Bäume haben wir bisher gepflanzt! Hier unser Wochenplan für die kommenden Tage:
+
+* Montag: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
+
+
+* Dienstag: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
+
+
+* Mittwoch: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
+
+
+* Do: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
+
+ ![](/uploads/2018/01/22/IMG-20180122-WA0042.jpg)
+
+ ![](/uploads/2018/01/22/IMG-20180122-WA0008.jpg)
+
+**21. Januar 2018:**
+
+Wir gönnten uns einen Tag Wochenende – inklusive Ausflug nach Balikpapan, Internet im Kaffee (nachdem wir etwas länger von der Aussenwelt abgeschnitten waren) und Burger. 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0029.jpg)
+
+![](/uploads/2018/01/22/IMG-20180122-WA0012.jpg)An den Abenden bietet sich die Samboja Lodge sonst auch zum Entspannen an: Beim Billard oder auf der Terrasse mit Blick über die getane Arbeit. Immer wieder treffen wir in der Lodge auf Touristen, die dorthin reisen und sich über die Arbeit der BOS Stiftung informieren. Und wir teilen uns den Tisch mit unseren Volontär-Kollegen aus Australien. 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0035.jpg)
+
+![](/uploads/2018/01/22/IMG-20180122-WA0046.jpg)
+
+Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform der Lodge. 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0000.jpg)
+
 **18. Januar 2018:**
 
 Anstrengende Tage liegen hinter uns. Davon zeugen zahlreiche Blasen an unseren Händen und unser Muskelkarter. Meterlanger Bambus wurde von uns im Wald geschlagen und für das Enrichment aufbereitet, d.h. in kurze Stücke gesägt.
