@@ -2,6 +2,7 @@
 order: 2
 include: sections/normal.html
 title:  "One Tree One Life Kampagne und Volontärreise 2018"
+anchor: "kampagne-reise"
 ---
 Von Dezember 2017 bis Februar 2018 führen wir deshalb unter dem Titel One Tree One Life eine Aufforstungskampagne durch. Ziel dieser Kampagne ist es, möglichst viel Geld für Setzlinge und unsere Aufforstungsprojekte in Ostkalimantan (Samboja Lestari) und Zentralkalimantan (das SOS Borneo Projekt) zu sammeln. Ein Teil der Setzlinge wird im Januar 2018 von BOS-Volontären eigenhändig in Samboja Lestari gepflanzt.  
 

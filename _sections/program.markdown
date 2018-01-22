@@ -3,7 +3,51 @@ order: 4
 include: sections/normal.html
 title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
+anchor: programm
 ---
+**AKTUELLER SPENDENSTAND: 6510.54 Franken. Merci für Eure Hilfe!**
+
+![](/uploads/2018/01/22/IMG-20180122-WA0038.jpg)
+
+**22. Januar 2018:**
+
+440 Bäume haben wir bisher gepflanzt! Und wir sind noch nicht am Ende... Hier schonmal unser Wochenplan für die kommenden Tage:
+
+* **Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
+
+
+* **Dienstag**: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
+
+
+* **Mittwoch**: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
+
+
+* **Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
+
+ ![](/uploads/2018/01/22/IMG-20180122-WA0042-1.jpg)
+
+ ![](/uploads/2018/01/22/IMG-20180122-WA0008.jpg)
+
+**21. Januar 2018:**
+
+Wir gönnten uns einen Tag Wochenende – inklusive Ausflug nach Balikpapan, Internet im Kaffee (nachdem wir etwas länger von der Aussenwelt abgeschnitten waren) und ... 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0029.jpg)
+
+... Burger :) Auch diese Abwechslung tut mal gut.
+
+![](/uploads/2018/01/22/IMG-20180122-WA0012.jpg)
+
+An den Abenden bietet sich die Samboja Lodge sonst auch zum Entspannen an: Beim Billard oder auf der Terrasse mit Blick über die getane Arbeit. Immer wieder treffen wir in der Lodge auf Touristen, die dorthin reisen und sich über die Arbeit der BOS Stiftung informieren. Und wir teilen uns den Tisch mit unseren Volontär-Kollegen aus Australien. 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0035.jpg)
+
+![](/uploads/2018/01/22/IMG-20180122-WA0046.jpg)
+
+Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform. Ganz Samboja Lestari kann man von dort überblicken. 
+
+![](/uploads/2018/01/22/IMG-20180122-WA0000.jpg)
+
 **18. Januar 2018:**
 
 Anstrengende Tage liegen hinter uns. Davon zeugen zahlreiche Blasen an unseren Händen und unser Muskelkarter. Meterlanger Bambus wurde von uns im Wald geschlagen und für das Enrichment aufbereitet, d.h. in kurze Stücke gesägt.
@@ -28,7 +72,7 @@ Unser erster Arbeitsabschnitt neigt sich damit bereits dem Ende zu. Nach dem Woc
 
 Der Tagesablauf ist klar gegliedert. Nach dem Frühstück (westliches wie indonesisches Essen, frische Früchte oder Fruchtsäfte, Tee und Kaffee) geht’s los in den Wald und es wird hart gearbeitet. Mittagessen und Abendessen nehmen wir dann wieder gemeinsam in der Lodge ein und fallen abends früh und erschöpft ins Bett.
 
-![](/uploads/2018/01/18/IMG-20180117-WA0064.jpg)
+![](/uploads/2018/01/22/IMG-20180122-WA0006.jpg)
 
 Nein, hierbei handelt es sich nicht um unser Mittagessen :) Das ist das "Enrichment" für die Orang-Utans. Auch dort durften wir mal reinschauen. Wir helfen mit, das Futter für die Orang-Utans so zu verpacken, dass das Auspacken zur Herausforderung wird. Sie lieben diese Abwechslung, trainieren ihre Fingerfertigkeit und sind ganz scharf auf die Leckereien, die z.B. in Bambusröhren versteckt werden.
 
