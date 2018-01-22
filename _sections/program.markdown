@@ -11,7 +11,7 @@ anchor: programm
 
 **22. Januar 2018:**
 
-440 Bäume haben wir bisher gepflanzt! Hier unser Wochenplan für die kommenden Tage:
+440 Bäume haben wir bisher gepflanzt! Und wir sind noch nicht am Ende... Hier schonmal unser Wochenplan für die kommenden Tage:
 
 * **Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
 
@@ -24,7 +24,7 @@ anchor: programm
 
 * **Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
 
- ![](/uploads/2018/01/22/IMG-20180122-WA0042.jpg)
+ ![](/uploads/2018/01/22/IMG-20180122-WA0042-1.jpg)
 
  ![](/uploads/2018/01/22/IMG-20180122-WA0008.jpg)
 
@@ -44,7 +44,7 @@ An den Abenden bietet sich die Samboja Lodge sonst auch zum Entspannen an: Beim 
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0046.jpg)
 
-Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform der Lodge. 
+Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform. Ganz Samboja Lestari kann man von dort überblicken. 
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0000.jpg)
 
