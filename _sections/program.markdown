@@ -13,16 +13,16 @@ anchor: programm
 
 440 Bäume haben wir bisher gepflanzt! Hier unser Wochenplan für die kommenden Tage:
 
-* Montag: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
+* **Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
 
 
-* Dienstag: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
+* **Dienstag**: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
 
 
-* Mittwoch: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
+* **Mittwoch**: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
 
 
-* Do: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
+* **Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
 
  ![](/uploads/2018/01/22/IMG-20180122-WA0042.jpg)
 
