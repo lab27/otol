@@ -44,25 +44,35 @@ document.getElementsByClassName('twitter-share')[1].onclick = twitter;
 document.getElementsByClassName('facebook-share')[1].onclick = facebook;
 
 
+
+function showGame() {
+  document.getElementsByClassName('page-content')[0].style.display = 'none'
+  document.getElementsByClassName('site-header')[0].style.display = 'none'
+  document.getElementsByClassName('game')[0].style.display = 'block'
+  document.body.classList = 'body-game'
+}
+
+function showCampaign() {
+  document.getElementsByClassName('page-content')[0].style.display = 'block'
+  document.getElementsByClassName('site-header')[0].style.display = 'block'
+  document.getElementsByClassName('game')[0].style.display = 'none'
+  document.body.classList = 'body-campaign'
+}
+
+// initially show campaign
+showCampaign()
+
 // routing
 const route = Rlite(notFound, {
-  'game': function () { // #game
-    document.getElementsByClassName('page-content')[0].style.display = 'none'
-    document.getElementsByClassName('site-header')[0].style.display = 'none'
-    document.getElementsByClassName('game')[0].style.display = 'block'
-    document.body.classList = 'body-game'
-},
-'campaign': function () { // #campaign
-    document.getElementsByClassName('page-content')[0].style.display = 'block'
-    document.getElementsByClassName('site-header')[0].style.display = 'block'
-    document.getElementsByClassName('game')[0].style.display = 'none'
-    document.body.classList = 'body-campaign'
-  }
+  '': function() { // # -> #game
+    routeTo('game');
+  },
+  'game': showGame, // #game
+  'campaign': showCampaign // #campaign
 });
 
 function notFound() {
-  // redirect to #game
-  routeTo('game');
+  // noop, makes anchors work
 }
 
 // Hash-based routing
@@ -130,5 +140,3 @@ function gameOver(score) {
     //    alert("Spende "+score+" Setzlinge.");
   }
 }
-
-
