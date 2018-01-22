@@ -2,6 +2,7 @@
 order: 3
 include: sections/reverse.html
 title:  "Die Volontäre 2018"
+anchor: "die-voluntaere"
 ---
 {% for person in site.data.volunteers %} 
   <div class="person">
