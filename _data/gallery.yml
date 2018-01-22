@@ -1,4 +1,8 @@
 ---
+- path: "/2018/01/22/IMG-20180122-WA0012.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2018/01/22/IMG-20180122-WA0000.jpg"
   width: '533'
   height: '800'
@@ -46,7 +50,7 @@
 - path: "/2018/01/14/Flyeraktion_zugeschnitten.png"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/14/Abreise 1.jpg"
   width: '800'
   height: '643'
