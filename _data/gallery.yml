@@ -1,4 +1,8 @@
 ---
+- path: "/2018/01/22/IMG-20180122-WA0008.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2018/01/22/IMG-20180122-WA0042.jpg"
   width: '600'
   height: '800'
@@ -46,7 +50,7 @@
 - path: "/2018/01/14/IMG-20180107-WA0004_quer.jpg"
   width: '800'
   height: '561'
-  preview: true
+  preview: false
 - path: "/2018/01/15/IMG-20180115-WA0007.jpg"
   width: '800'
   height: '428'
