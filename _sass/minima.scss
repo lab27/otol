@@ -221,11 +221,13 @@ main.game {
     display: flex;
     flex-flow: row wrap;
     z-index: 999;
+    margin-top: 5rem;
     // margin: 1rem;
 
     @include mq($from: superwide) {
         // margin: 1rem -.5rem;
-        flex-flow: column wrap
+        flex-flow: column wrap;
+        margin-top: 0;
     }
 
     .button-wrapper {

@@ -1,6 +1,7 @@
 ---
 title: Geburtstagswald - One Tree One Life
-layout: default
+layout: kuratle
+permalink: '/kuratle'
 ---
 Lorem ipsum dolor...
 
