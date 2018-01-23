@@ -38,12 +38,15 @@ var facebook = function (e) {
     window.open(social_url, "_blank").focus();
 }
 
-document.getElementsByClassName('twitter-share')[0].onclick = twitter;
-document.getElementsByClassName('facebook-share')[0].onclick = facebook;
-document.getElementsByClassName('twitter-share')[1].onclick = twitter;
-document.getElementsByClassName('facebook-share')[1].onclick = facebook;
+var setShareHandler = function(className, handler) {
+  var nodes = document.getElementsByClassName(className);
+  for (var i = 0; i < nodes.length; i++) {
+    nodes[i].onclick = handler;
+  }
+}
 
-
+setShareHandler('twitter-share', twitter);
+setShareHandler('facebook-share', facebook);
 
 function showGame() {
   document.getElementsByClassName('page-content')[0].style.display = 'none'
