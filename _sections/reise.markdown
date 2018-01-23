@@ -1,14 +1,19 @@
 ---
 order: 2
 include: sections/normal.html
-title:  "Aufforstungskampagne und Volontärreise one-tree-one-life"
+title:  "One Tree One Life Kampagne und Volontärreise 2018"
+anchor: "kampagne-reise"
 ---
-Von Dezember 2017 bis Februar 2018 führen wir deshalb unter dem Titel one-tree-one-life eine Aufforstungskampagne durch. Ziel dieser Kampagne ist es, möglichst viel Geld für Setzlinge zu sammeln. Die Setzlinge werden wir dann im Januar und Februar 2018 eigenhändig in Samboja Lestari anpflanzen und über unsere Aktivitäten im Rahmen der Kampagne an dieser Stelle berichten.  
-
+Von Dezember 2017 bis Februar 2018 führen wir deshalb unter dem Titel One Tree One Life eine Aufforstungskampagne durch. Ziel dieser Kampagne ist es, möglichst viel Geld für Setzlinge und unsere Aufforstungsprojekte in Ostkalimantan (Samboja Lestari) und Zentralkalimantan (das SOS Borneo Projekt) zu sammeln. Ein Teil der Setzlinge wird im Januar 2018 von BOS-Volontären eigenhändig in Samboja Lestari gepflanzt.  
 
 {:figure .image.right}
-  ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
+  ![image-title-here](assets/img/portraits/angela_burri.jpg){:class="img-responsive"}
 
-Die Kampagne one-tree-one-life und die Volontärreise werden von Angela Burri geleitet. Angela Burri hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation Samboja Lestari eingesetzt. Bereits damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und ihre Probleme aufmerksam und sammelte Spenden für die Aktion. Über 5‘500 CHF kamen zusammen. Rund 530 Bäume konnten mit diesem Geld neu angepflanzt werden.
+Die One Tree One Life Kampagne und die begleitende Volontärreise werden von Angela Burri, 27 Jahre alt, geleitet. Sie hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation Samboja Lestari eingesetzt. Schon damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und ihre Probleme aufmerksam und sammelte Spenden für die Aktion. Über 5 500 CHF kamen zusammen. Rund 530 Bäume konnten mit diesem Geld neu angepflanzt werden.
 
-Die Volontärsgruppe hat sich nicht nur vorgenommen, abgebrannte Gebiete wieder aufforsten. Sie werden auch in anderen Bereichen der Station mit anpacken (u.a. bei der Renaturierung von Pre-Release-Inseln, beim Bau von Enrichment-Tools für die Orang-Utans, beim Bau der Bärenanlage etc.). Auf dieser Kampagnenseite kannst du die Teilnehmenden quasi „live“ begleiten und das Projekt mit Spenden unterstützen.
+Gemäss ihrem Lieblingszitat - „sei du selbst die Veränderung, die du dir wünschst für diese Welt“ - möchte Angela auch mit ihrer zweiten Borneo Reise und dieser Spendenaktion einen Beitrag zum Orang-Utan- und Regenwaldschutz leisten. Angelas Herz schlägt für den Tierschutz, ihr Gottichind und Pilzrisotto alla Mamma. Auf das Wandern in den Bergen, ihren gewohnten Sport und ihren geschätzten Burgdorfer Freundeskreis muss sie im Januar 2018 allerdings verzichten. Stattdessen wird sie von folgenden gleichgesinnten Volontären begleitet und tatkräftig unterstützt: 
+
+
+
+
+

@@ -1,0 +1,345 @@
+---
+- path: "/2018/01/22/IMG-20180122-WA0042-1.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0006.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0012.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0000.jpg"
+  width: '533'
+  height: '800'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0008.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0042.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0038.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0035.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/22/IMG-20180122-WA0029.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/19/IMG-20180117-WA0076.jpg"
+  width: '800'
+  height: '450'
+  preview: true
+- path: "/2018/01/19/IMG-20180117-WA0073.jpg"
+  width: '800'
+  height: '450'
+  preview: true
+- path: "/2018/01/19/IMG-20180117-WA0062.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2018/01/19/IMG-20180119-WA0006.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/14/IMG-20180111-WA0002 (1).jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/14/Flyeraktion_zugeschnitten.png"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/14/Abreise 1.jpg"
+  width: '800'
+  height: '643'
+  preview: false
+- path: "/2018/01/14/IMG-20180107-WA0004_quer.jpg"
+  width: '800'
+  height: '561'
+  preview: false
+- path: "/2018/01/15/IMG-20180115-WA0007.jpg"
+  width: '800'
+  height: '428'
+  preview: false
+- path: "/2018/01/15/IMG-20180115-WA0008.jpg"
+  width: '800'
+  height: '448'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0047.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180118-WA0061.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0021.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0098.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0072.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0079.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0115-1.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/01/18/IMG-20180118-WA0042.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0037.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0048.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0044.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0046.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0084.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0064.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0071.jpg"
+  width: '800'
+  height: '602'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0013.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/01/18/IMG-20180117-WA0077.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/01/18/IMG-20180116-WA0043.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0031.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0095.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0064.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0032.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0047.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0078.jpg"
+  width: '800'
+  height: '700'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0040.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0086.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0103.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0070.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0041.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0040.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0075.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0057.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0065.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0052.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0060.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0045.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0029.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0030.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0063.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0112.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0035.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0113.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0034.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0058.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0044.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0045.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0050.jpg"
+  width: '448'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0055.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0062.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0042.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0039.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0020.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0099.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0073.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0073.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0099.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0076.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0054.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0065.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0100.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0094.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0071.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0052.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0047.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180118-WA0044.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0014.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0028.jpg"
+  width: '800'
+  height: '533'
+  preview: false
