@@ -23,4 +23,4 @@ Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indone
 Wegen ihres schwindenden Lebensraumes kommen jedes Jahr schätzungsweise 3 000 Orang-Utans ums Leben. In den letzten 20 Jahren haben die Orang-Utans 55 Prozent ihres natürlichen Lebensraumes verloren. Ihr Bestand ist deshalb in den letzten 20 bis 30 Jahren um mehr als 80 Prozent geschrumpft. Schon unsere Kinder und Enkelkinder könnten Orang-Utans in freier Wildbahn nicht mehr erleben!
 
 
-{% include donate-group.html %}
+{% include donate-group-kuratle.html %}
