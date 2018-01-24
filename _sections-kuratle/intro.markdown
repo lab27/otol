@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Ein Regenwald für Georg - Hilf mit und erlebe, wie unser Engagement Wurzeln schlägt…
+title: Ein Regenwald für Georg
 anchor: intro
 date: 2018-01-24 07:28:13 +0000
 ---
@@ -10,6 +10,6 @@ Georg Kuratle verdankt sein Lebenswerk dem WALD. Wir alle sind mit dem Handel vo
 
 Ein Baum ist weit mehr als nur ein Stück Holz! Unsere Wälder sind die Lunge der Erde. Sie regeln das Weltklima und bieten Nahrung, Schutz und Heimat für unzählige Tiere und Pflanzen. Unter ihnen die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. Von Tag zu Tag schwindet jedoch ihr Lebensraum.
 
-Mit dieser Geburtstagsaktion unterstützen wir die One-Tree-One-Life-Kampagne der Borneo Orangutan Survival Schweiz. BOS forstet zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Hilfst Du mit? Zu je einem Franken kannst du Georg Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende.
+Mit dieser Geburtstagsaktion unterstützen wir die **One-Tree-One-Life-Kampagne** der **Borneo Orangutan Survival Schweiz**. BOS forstet zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Zu je einem Franken kannst du Georg Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende. Mach mit und erlebe, wir unser Engagement auf Borneo Wurzeln schlägt!
 
 {% include donate-group-kuratle.html %}
