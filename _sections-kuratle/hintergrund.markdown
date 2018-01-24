@@ -41,7 +41,11 @@ Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari wu
 
 Das Gebiet beheimatet keine wilde Orang-Utan Population. In Samboja Lestari werden aber traumatisierte, verletzte und verwaiste Orang-Utans rehabilitiert und auf ihre Auswilderung vorbereitet. Zudem sind viele der ursprünglichen Tierarten in den aufgeforsteten Regenwald zurückgekehrt. Heute ist das Gebiet rund um die BOS Rettungsstation eine der letzten, grünen Inseln in Ost-Kalimantan, die es zu erhalten gilt.
 
-{:figure .image.right} ![image-title-here](assets/img/sl-fire.jpg){:class="img-responsive"} _Quelle: Björn Vaughn, BPI_
+{:figure .image.right}
+
+ ![image-title-here](assets/img/sl-fire.jpg){:class="img-responsive"} 
+
+_Quelle: Björn Vaughn, BPI_
 
 **BOS Aufforstungsprojekt in Zentral-Kalimantan**
 
