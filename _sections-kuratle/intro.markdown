@@ -14,7 +14,7 @@ Ein Baum ist weit mehr als nur ein Stück Holz! Unsere Wälder sind die Lunge de
 
  
 
-Mit dieser Geburtstagsaktion unterstützen wir die One-Tree-One-Life-Kampagne der Borneo Orangutan Survival Schweiz. BOS forstet zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Hilfst Du mit? Zu je einem Franken kannst du Georg Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende.Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Ausserben bedroht“ geführt.
+Mit dieser Geburtstagsaktion unterstützen wir die One-Tree-One-Life-Kampagne der Borneo Orangutan Survival Schweiz. BOS forstet zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Hilfst Du mit? Zu je einem Franken kannst du Georg Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende.
 
 {: .image.left}
 ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
