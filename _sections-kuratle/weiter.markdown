@@ -11,7 +11,7 @@ Seit Dezember 2017 führt BOS Schweiz unter dem Titel One-Tree-One-Life eine Spe
 
 ![image-title-here](assets/img/portraits/angela_burri.jpg){:class="img-responsive"}
 
-Die One-Tree-One-Life Kampagne und die begleitende Volontärreise werden von Angela Burri, 27 Jahre alt, geleitet. Sie hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation in Samboja Lestari eingesetzt. Schon damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und deren Probleme aufmerksam und sammelte Spenden für die Aktion. Dabei und vor Ort wird sie in diesem Jahr tatkräftigt von sieben weiteren Freiwilligen unterstützt.
+Die One-Tree-One-Life Kampagne und die begleitende Volontärreise werden von Angela Burri, 27 Jahre alt, geleitet. Sie hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation in Samboja Lestari eingesetzt. Schon damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und deren Probleme aufmerksam und sammelte Spenden für die Aktion. In diesem Jahr wird sie tatkräftigt von sieben weiteren Freiwilligen unterstützt.
 
 Die Volontärinnen und Volontäre forsten nicht nur abgebrannte Regenwaldgebiete wieder auf und pflanzen u.a. die ersten Setzlinge des George-Kuratle-Geburtstagswaldes. Sie packen auch in anderen Bereichen der BOS Rettungsstation mit an (u.a. bei der Renaturierung von Pre-Release-Inseln, beim Anfertigen von Enrichment-Tools für die Orang-Utans oder beim Bau der neuen Malaienbärenanlage).
 
