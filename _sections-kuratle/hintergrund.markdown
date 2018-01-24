@@ -27,7 +27,11 @@ Die grossflächigen Brandrodungen und die damit einhergehenden alljährlichen Wa
 
 Die Hälfte aller tropischen Torfmoorwälder befindet sich in Indonesien. Diese Wälder sind die Lunge der Welt, regeln unser Weltklima und binden 42 000 Megatonnen CO2. Werden sie zerstört, gelangen Unmengen an CO2 in die Atmosphäre. Brennen Torfmoorwälder, setzten sie vier bis 40mal mehr CO2 frei, als Waldbrände in anderen tropischen Gebieten. Wegen der Brandrodungen kommt es in Indonesien alljährlich zu solch verheerenden Wald- und Torfbränden.
 
-{:figure .image.left} ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"} _Quelle: Björn Vaughn, BPI_
+{:figure .image.left}
+
+ ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
+
+_Quelle: Björn Vaughn, BPI_
 
 1997 brannten 1.5 Millionen Hektare Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8 000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so die Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche so gross wie die halbe Schweiz loderten und schwelten 127 000 Feuer. Sie setzten 16 Millionen Tonnen C02 pro Tag frei - mehr als die gesamte USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und BOS erlebte einen massiven Zustrom an Orang-Utans in die Rettungsstationen.
 
