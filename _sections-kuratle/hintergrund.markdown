@@ -9,7 +9,7 @@ Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzu
 
 {: .image.left}
 
-![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"} 
+![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
 
 _Quelle: Björn Vaughn, BPI_
 
@@ -17,7 +17,7 @@ Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indone
 
 {:figure .image.right}
 
- ![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"}
+![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"}
 
 _Quelle: Björn Vaughn, BPI_
 
@@ -29,13 +29,13 @@ Die Hälfte aller tropischen Torfmoorwälder befindet sich in Indonesien. Diese 
 
 {:figure .image.left}
 
- ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
+![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
 
 _Quelle: Björn Vaughn, BPI_
 
 1997 brannten 1.5 Millionen Hektare Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8 000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so die Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche so gross wie die halbe Schweiz loderten und schwelten 127 000 Feuer. Sie setzten 16 Millionen Tonnen C02 pro Tag frei - mehr als die gesamte USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und BOS erlebte einen massiven Zustrom an Orang-Utans in die Rettungsstationen.
 
-**BOS Aufforstungsprojekt in Ost-Kalimantan**
+**Aufforstung in Ost-Kalimantan**
 
 Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari wurden 2015 ein Opfer der Flammen. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
 
@@ -43,11 +43,11 @@ Das Gebiet beheimatet keine wilde Orang-Utan Population. In Samboja Lestari werd
 
 {:figure .image.right}
 
- ![image-title-here](assets/img/sl-fire.jpg){:class="img-responsive"} 
+![image-title-here](assets/img/sl-fire.jpg){:class="img-responsive"}
 
 _Quelle: Björn Vaughn, BPI_
 
-**BOS Aufforstungsprojekt in Zentral-Kalimantan**
+**Aufforstung in Zentral-Kalimantan**
 
 Auch in Zentral-Kalimantan forste BOS auf – in einem Gebiet, wo Ende der 90iger Jahre der indonesische Diktator Suharto sein „Mega Rice Project“ lancierte. Für dieses Vorhaben wurden landesweit über eine Million Hektare Torfmoorregenwald abgeholzt und alleine in Borneo rund 4 000 Kilometer Entwässerungskanäle gegraben. Das Projekt verfehlte sein Ziel, die Lebensmittelknappheit zu bekämpfen. Stattdessen wurde ein weltweit einzigartiges Ökosystem zerstört, das tausenden, teils stark bedrohten Arten ein Zuhause bot. Im Laufe der letzten 20 Jahre haben die Kanäle die einst feuchten Torfmoorböden weitgehend ausgetrocknet und so den natürlichen Brandschutz des Bodens zerstört.
 
