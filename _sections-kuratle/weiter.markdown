@@ -15,8 +15,12 @@ Die One-Tree-One-Life Kampagne und die begleitende Volontärreise werden von Ang
 
 Die Volontärinnen und Volontäre forsten nicht nur abgebrannte Regenwaldgebiete wieder auf und pflanzen u.a. die ersten Sertlinge des Georg-Kuratle-Geburtstagswaldes. Sie packen auch in anderen Bereichen der BOS Rettungsstation mit an (u.a. bei der Renaturierung von Pre-Release-Inseln, beim Anfertigen von Enrichment-Tools für die Orang-Utans oder beim Bau der neuen Malaienbärenanlage).
 
+![](/uploads/2018/01/18/IMG-20180117-WA0013.jpg)
+
 **Aufforstung – eine Wissenschaft für sich**
 
 Die Setzlinge werden auf BOS-eigenem oder auf BOS-verwaltetem Gebiet gepflanzt und/oder mit dem Einverständnis und der Hilfe der lokalen Bevölkerung auf ihrem Grund und Boden gesetzt. BOS achtet auf eine gute Mischung aus Nutzholz und Fruchtbäumen, aus schnell und langsam wachsenden Sorten. Schliesslich geht es um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die gepflanzt werden, sind einheimische und zum Teil bedrohte Sorten (z.B. iron tree/Ulin, Shorea-Sorten/Meranti oder der Kapur-Baum). Natürlich sind auch verschiedene Fruchtbäume, die den Orang-Utans als Nahrung dienen, dabei (z.B. Rambutan oder Durian).
+
+![](/uploads/2018/01/18/IMG-20180116-WA0044.jpg)
 
 Die Samen werden in der Regel lokal erworben und wenn möglich eigene Baumschulen aufgebaut, die die Setzlinge ziehen, die Bäume pflanzen und sich um denen Erhalt kümmern. Auch Brandschutzteams werden ausgebildet, um den Wald zu schützen. So entstehen wichtige Arbeitsplätze vor Ort. Insgesamt beschäftigt die BOS Stiftung über 400 Personen in Indonesien.
