@@ -9,11 +9,17 @@ Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzu
 
 {: .image.left}
 
- ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"} _Quelle: Björn Vaughn, BPI_
+![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"} 
+
+_Quelle: Björn Vaughn, BPI_
 
 Die meiste Zeit ihres Lebens verbringen Orang-Utans in den Baumkronen des Indonesischen Dschungels. Über Jahrtausende gewachsen, zählen diese Wälder zu den artenreichsten der Welt. Doch in wenigen Minuten werden tagtäglich Urwaldriesen gefällt, in Sekunden werden enorme Flächen brandgerodet, um unseren wachsenden Hunger nach Kohle, Tropenholz und vor allem Palmöl zu stillen. Plantagen entstehen, soweit das Auge reicht. Dieser massive Eingriff in die Natur vernichtet den natürlichen Lebensraum der Orang-Utans. Ganze Ökosysteme hängen von dieser Schlüsselart ab und gehen mit ihr zu Grunde.
 
-{:figure .image.right} ![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"} _Quelle: Björn Vaughn, BPI_
+{:figure .image.right}
+
+ ![image-title-here](assets/img/chainsaw.jpg){:class="img-responsive"}
+
+_Quelle: Björn Vaughn, BPI_
 
 Wegen ihres schwindenden Lebensraumes kommen jedes Jahr schätzungsweise 3 000 Orang-Utans ums Leben. In den letzten 20 Jahren haben die Orang-Utans 55 Prozent ihres natürlichen Lebensraumes verloren. Ihr Bestand ist deshalb in den letzten 20 bis 30 Jahren um mehr als 80 Prozent geschrumpft. Schon unsere Kinder und Enkelkinder könnten Orang-Utans in freier Wildbahn nicht mehr erleben!
 
