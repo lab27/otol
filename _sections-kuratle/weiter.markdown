@@ -1,8 +1,9 @@
 ---
 order: 2
 include: sections/reverse.html
-title:  "ANother title"
-anchor: "weiter"
+title: One-Tree-One-Life-Kampagne und Volontärreise
+anchor: weiter
+date: 2018-01-24 07:28:13 +0000
 ---
 Auch 300 Hektar Regenwald rund um die BOS Rettungsstation in Samboja Lestari fielen 2015 den Flammen zum Opfer. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
 
