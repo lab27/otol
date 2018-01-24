@@ -5,7 +5,7 @@ title: Orang-Utan-Schutz ist Regenwaldschutz und Klimaschutz
 anchor: hintergrund
 date: 2018-01-24 07:28:13 +0000
 ---
-Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Ausserben bedroht“ geführt. International wie national stehen sie unter strengem Schutz. Ihr Lebensraum in der Regel aber nicht. Das Überleben der Letzten dieser Art kann deshalb nur gelingen, wenn wir den Regenwald bewahren: Nur wenn wir ihn retten, retten wir die Orang-Utans und mit ihnen zahlreiche andere gefährdete und endemische Arten.
+Seit 2016 werden die Borneo Orang-Utans auf der Roten Liste der Weltnaturschutzunion (IUCN) als „akut vom Ausserben bedroht“ geführt. International wie national stehen sie unter strengem Schutz. Ihr Lebensraum in der Regel aber nicht. Das Überleben der Letzten dieser Art kann deshalb nur gelingen, wenn wir den Regenwald bewahren: Nur wenn wir ihn retten, retten wir die Orang-Utans und mit ihnen zahlreiche andere gefährdete und nur dort beheimatete Arten.
 
 {: .image.left}
 
