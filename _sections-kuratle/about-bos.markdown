@@ -6,7 +6,7 @@ date: 2018-01-24 07:28:13 +0000
 ---
 One-Tree-One-Life ist eine Kampagne der BOS Schweiz. Die gemeinnützige Organisation mit Sitz in Zürich setzt sich - gemeinsam mit ihren Partnerorganisationen, allen voran der BOS Stiftung in Indonesien, für den dauerhaften Schutz der letzten Orang-Utans und den Erhalt des tropischen Regenwaldes in Borneo ein.
 
-{: .image.left}
+{:figure .image.left}
 ![BOS HQ Zürich](assets/img/bos-hq.jpg){:class="img-responsive"}
 _Bild: Philipp Hoffman_
 
