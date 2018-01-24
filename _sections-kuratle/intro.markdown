@@ -1,6 +1,6 @@
 ---
 order: 0
-title: EIN REGENWALD FÜR GEORGE
+title: Wir schenken George Kuratle einen Wald! Hilfst Du mit?
 anchor: intro
 date: 2018-01-24 07:28:13 +0000
 ---
