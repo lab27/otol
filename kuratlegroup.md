@@ -1,5 +1,5 @@
 ---
-title: Ein Regenwald für Georg
+title: Ein Regenwald für George
 layout: kuratle
 permalink: "/kuratlegroup"
 ---
