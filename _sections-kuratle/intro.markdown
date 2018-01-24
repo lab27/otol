@@ -10,6 +10,6 @@ Georg Kuratle verdankt sein Lebenswerk dem Wald. Wir alle sind mit dem Handel vo
 
 Ein Baum ist weit mehr als nur ein Stück Holz! Unsere Wälder sind die Lunge der Erde. Sie regeln das Weltklima und bieten Nahrung, Schutz und Heimat für unzählige Tiere und Pflanzen. Unter ihnen die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. Von Tag zu Tag schwindet jedoch ihr Lebensraum.
 
-Mit dieser Geburtstagsaktion unterstützen wir die **One-Tree-One-Life-Kampagne** der **Borneo Orangutan Survival Schweiz**. BOS forstet zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Zu je 1 Franken kannst du Georg zum Geburtstag Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende. Mach mit und erlebe, wie unser Engagement auf Borneo Wurzeln schlägt...
+Mit dieser Geburtstagsaktion unterstützen wir die **One-Tree-One-Life-Kampagne** der **BOS Schweiz** (Borneo Orangutan Survival Schweiz). Im Rahmen dieser Kampagne forstet BOS zerstörte Regenwaldgebiete in Borneo, Indonesien wieder auf. Zu je 1 Franken kannst du Georg zum Geburtstag Setzlinge für seinen Wald schenken. Die Kuratle Group verdoppelt Deine Spende. Mach mit und erlebe, wie unser Engagement auf Borneo Wurzeln schlägt...
 
 {% include donate-group-kuratle.html %}
