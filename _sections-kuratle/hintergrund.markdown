@@ -37,7 +37,7 @@ _Quelle: Björn Vaughn, BPI_
 
 **AUFFORSTUNG IN OST-KALIMANTAN**
 
-Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari wurden 2015 ein Opfer der Flammen. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
+Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari wurden 2015 Opfer der Flammen. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
 
 Das Gebiet beheimatet keine wilde Orang-Utan Population. In Samboja Lestari werden aber traumatisierte, verletzte und verwaiste Orang-Utans rehabilitiert und auf ihre Auswilderung vorbereitet. Zudem sind viele der ursprünglichen Tierarten in den aufgeforsteten Regenwald zurückgekehrt. Heute ist das Gebiet rund um die BOS Rettungsstation eine der letzten, grünen Inseln in Ost-Kalimantan, die es zu erhalten gilt.
 
