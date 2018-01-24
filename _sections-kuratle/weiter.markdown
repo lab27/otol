@@ -23,4 +23,4 @@ Die Setzlinge werden auf BOS-eigenem oder auf BOS-verwaltetem Gebiet gepflanzt u
 
 ![](/uploads/2018/01/18/IMG-20180116-WA0044.jpg)
 
-Die Samen werden in der Regel lokal erworben und wenn möglich eigene Baumschulen aufgebaut, die die Setzlinge ziehen, die Bäume pflanzen und sich um denen Erhalt kümmern. Auch Brandschutzteams werden ausgebildet, um den Wald zu schützen. So entstehen wichtige Arbeitsplätze vor Ort. Insgesamt beschäftigt die BOS Stiftung über 400 Personen in Indonesien.
+Die Samen werden in der Regel lokal erworben und wenn möglich eigene Baumschulen aufgebaut, die die Setzlinge ziehen, die Bäume pflanzen und sich um deren Erhalt kümmern. Auch Brandschutzteams werden ausgebildet, um den Wald zu schützen. So entstehen wichtige Arbeitsplätze vor Ort. Insgesamt beschäftigt die BOS Stiftung über 400 Personen in Indonesien.
