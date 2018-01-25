@@ -11,6 +11,4 @@ Jedes Jahr werden allein auf Borneo 1.3 Mio. Hektar Regenwald vernichtet. Damit 
 
 Im Rahmen der One Tree One Life Kampagne forsten wir von BOS Schweiz gemeinsam mit Volontären zerstörte Regenwaldgebiete wieder auf. Möchtest auch Du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt!
 
-**ACHTUNG:** Zum Start der Volontärreise lancieren wir eine besondere Aktion:  **Die nächsten 7 Personen, die Setzlinge im Wert von 50 Franken oder mehr spenden, erhalten gratis einen Orang-Utan-Rucksack** **im limitierten** **One-Tree-One-Life-Design** (siehe unten) **dazu!** Die Rucksäcke werden Euch per Post zugeschickt. Also bitte „Versandadresse übermitteln“ bei Paypal aktivieren oder - falls ihr per Einzahlungsschein spendet - den Verwendungszweck One-Tree-One-Life angeben!
-
 {% include donate-group.html %}
