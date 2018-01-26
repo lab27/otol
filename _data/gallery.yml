@@ -1,4 +1,40 @@
 ---
+- path: "/2018/01/26/IMG-20180124-WA0064 (1).jpg"
+  width: '533'
+  height: '800'
+  preview: true
+- path: "/2018/01/26/IMG-20180126-WA0061.jpg"
+  width: '533'
+  height: '800'
+  preview: true
+- path: "/2018/01/26/IMG-20180124-WA0038 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/26/IMG-20180119-WA0002 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/26/IMG-20180124-WA0074 (1).jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/26/IMG-20180124-WA0055 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/26/IMG-20180123-WA0043 (1).jpg"
+  width: '533'
+  height: '800'
+  preview: true
+- path: "/2018/01/26/IMG-20180124-WA0069 (1).jpg"
+  width: '800'
+  height: '616'
+  preview: true
+- path: "/2018/01/26/IMG-20180123-WA0003 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2018/01/26/IMG-20180119-WA0004 (1).jpg"
   width: '800'
   height: '533'
@@ -14,39 +50,39 @@
 - path: "/2018/01/26/IMG-20180125-WA0006.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180124-WA0026.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0056.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180125-WA0002.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0059.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0011.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0000.jpg"
   width: '533'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0041.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0020.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0035.jpg"
   width: '600'
   height: '800'
