@@ -5,32 +5,92 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**26. und 27. Januar 2018:** 
+
+Unser Besuch in der BOS Rettungsstation in Samboja Lestari hat einen bleibenden Eindruck hinterlassen. Wir durften die Vorauswilderungsinseln sehen, die Waldschüler, wie sie am Nachmittag zurück in die Rettungsstation kommen und das neue Babyhaus. 
+
+Auch verpflegt wurden wir vor Ort. Im Hotel angekommen, machten wir noch Bekanntschaft mit einem riesigen Skorpion - Dschungel-Feeling pur.
+
+**26. Januar 2018:**
+
+**Abreise in Samboja Lestari** 
+
+Heute Morgen nahmen wir Abschied von Samboja Lestari. Ein letzter Blick von der Aussichtsplattform und los gings zum Flughafen nach Balikpapan. Um 6:20 Uhr heben wir ab Richtung Zentral-Kalimantan, denn der krönende Abschluss unserer Volontärreise soll ein Besuch in der zweiten BOS Rettungsstation in Nyaru Menteng sein.  
+
+**25. Januar 2018:** 
+
+**AKTUELLER SPENDENSTAND: 7360.87 Franken.** Herzlichen Dank für diese grossartige Unterstützung und die vielen lieben Kommentare, die ihr bei den Überweisungen mit eingebt! Sie werden uns immer weiter geleitet. 
+
+**Abschied von den BOS Mitarbeitenden**
+
+Ein herzliches Dankeschön an alle, die uns vor Ort betreut und begleitet haben!!! Der Abschied ist uns schwer gefallen – aber wir behalten euch und diese einmalige Erfahrung für immer in Erinnerung.
+
+**Enrichment-Rezept:**
+
+Erfahrung mit Werkzeug und in der Holzverarbeitung ist auch beim Enrichment gefragt. Eines unserer Enrichment-Rezepte: Kettensäge reparieren, ein grosses Stück Holz in Scheiben sägen, Löcher reinbohren und Popcorn in die Löcher stopfen. Abgerundet wird das Ganze mit einer Schicht Erdnussbutter. 
+
+Gemeinsam macht das Enrichment erst so richtig Spass. Wann hat man schon mal die die Gelegenheit für Bären und Orang-Utans zu kochen... Verstaut wird alles im grossen Kühlschrank, damit es frisch bleibt. Anschliessend dürfen wir zuschauen, wie das hausgemachte Essen verputzt wird. Die "Köche" sind zufrieden und die Orang-Utans auch! 
+
+**24. Januar 2018**
+
+Wir entschuldigen uns für die Sendepause. Leider war das Internet tagelang recht schlecht... Dafür jetzt ein geballtes update:
+
+**Besuch im Baby Haus in Samboja Lestari**
+
+Nachdem wir die Quarantäre hinter uns hatten, durften wir im Baby Haus vorbeischauen. Hier werden die Allerkleinsten von ihren Babysittern betreut. Für die Waisen fungieren sie als Ersatzmütter. Sie bringen ihnen alles bei, was sie sonst von ihren Müttern lernen würden. Konfiszierte Haustiere, Waldbrandopfer, Babys deren Mütter vor ihren Augen erschlagen wurden... sie alle finden hier einen sicheren Ort. 
+
+Weiter gehts mit der Walsschule. Jahrelang dauert die Rehabilitation, bis sie schliesslich auf eine der Vorauswilderungsinseln dürfen. Dort werden sie praktisch sich selbts überlassen und müssen zeigen, dass sie bereit sind für die Freiheit. Erst dann, findet eine Auswilderung in ein geschütztes Waldgebiet statt.
+
+**Ab dem 22. Januar 2018: Mitarbeit am Bärenprojekt**
+
+Das Thema Enrichment ist auch für die Bären relevant. Mit einfachen Hilfsmitteln wird sichergestellt, dass die Tiere am Tag beschäftigt bleiben und ihre Fertigkeiten weiterentwickeln. Die Bären sind deshalb daran gewöhnt, dass sie sich um ihr Fressen ein bisschen bemühen müssen.
+
+Ausserdem wurden in den alten, kleinen Aussengehegen Schaukeln, Unterstände, Klettervorrichtungen etc. für die Bären angebracht. Trotzdem: der Auslauf reichte nie für alle 44 Bären in der Rettungsstation. Sie konnten nur rotierend in die Aussengehege gelassen werden. Die Gehege waren insgesamt zu klein und boten kaum Schatten für die lichtempfindlichen Bären. Die Käfiganlagen mussten dringend erneuert und vergrössert werden. 
+
+Im Jahr 2016 legte BOS Schweiz den Startschuss für eine neue Bärenanlage. Drei riesige Aussengehege konnten aus Stiftungsgeldern finanziert werden. Bis heute unterstützt BOS Schweiz das Projekt unter der Leitung des Bärenexperten Patrick finanziell und tatkräftig. Der Plan: Auf einer insgesamt 16 000 Quadratmeter grossen Regenwaldfläche sollen ca. 15 grosse Aussengehege entstehen, in denen sich die Bären frei bewegen können. Neue Rückzugskäfige (z.B. für kranke Tiere) und Inftrastruktur gehören ebenfalls dazu. 
+
+Wer Patrick kennen gelernt hat der weiss: Die Bären sind bei ihm in guten Händen. Seit Langem gibt er alles, um ihre Situation zu verbessern. Lange unentgeltlich. Wir verneigen uns vor ihm, seiner Leidenschaft für das Projekt und seinem unermüdlichen Einsatz. Wir haben es am eigenen Leib erfahren, wie hart dieser Job ist und bitten alle, die das hier lesen, um Unterstützung! Mehr Informationen gibt es auf der BOS Schweiz Website unter "Bauprojekte".
+
+**Schweres Gerät für starke Männer**
+
+Schweisstreibend war die Arbeit bei den Bären… wir halfen mit, eines der alten Aussengehege zu renovieren. Die Frauen packten auch mit an – Landschaftsbau oder Tropenkoller?
+
+Ausserdem mussten die neuen Zäune der Gehege gestrichen werden. Vier Aussengehege stehen bereits, genauso wie ein Trainingsgehege, indem die Bären den Umgang mit dem elektrischen Zaun lernen.
+
+Füttern durften wir auch. Vor allem frische Früchte (Mangos, Ananas oder Bananen) lieben die Bären. Sie kratzen mit ihren Krallen das Fruchtfleisch weg und schlabbern dann genüsslich den süssen Saft. 
+
+**Am Abend**
+
+Nach einem anstrengenden Arbeitstag geht es entspannt in den Feierabend - mehr als verdient. Die Männer messen weiterhin ihre Kräfte. Die Frauen haben ihren Spass beim Uno Spielen. Dies sind die letzten Abende in der Lodge und die Wehmut erfasst uns bereits…
+
+**Romeo der Gemütliche...**
+
+Im Hintergrund sieht man hier wieder Romeo, der nach 24 Jahren in der Rettungsstation seine Freiheit und das Leben auf der Vorauswilderungsinsel in vollen Zügen geniesst. Entspannen, ausruhen, chillen – das ist sein Tagesprogramm. Unser Alltag ist manchmal so anstrengend, dass wir gerne mit ihm tauschen würden :)
+
+Übrigens wurde erst neulich eine der neuen, riesigen Vorauswilderungsinseln in Samboja Lestari eingeweiht. Die Inseln sind fast 10mal so gross wie Romeos Insel. Ihr Bau wird von der BOS Schweiz über Stiftungsgelder finanziert. Es dürfen sich also einige weitere Orang-Utans auf einen Vorauswilderungsplatz freuen und sich für einen Umzug Richtung Freiheit parat machen.
+
+**22. Januar 2018:**
+
 **AKTUELLER SPENDENSTAND: 6510.54 Franken. Merci für Eure Hilfe!**
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0038.jpg)
 
-**22. Januar 2018:**
+**Unser Wochenplan für den zweiten Arbeitsabschnitt:**
 
-440 Bäume haben wir bisher gepflanzt! Und wir sind noch nicht am Ende... Hier schonmal unser Wochenplan für die kommenden Tage:
+440 Bäume haben wir bisher gepflanzt! Und wir sind noch nicht am Ende... Hier schonmal unser Programm für die kommenden Tage:
 
 * **Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
-
-
 * **Dienstag**: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
-
-
 * **Mittwoch**: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
-
-
 * **Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
 
- ![](/uploads/2018/01/22/IMG-20180122-WA0042-1.jpg)
+![](/uploads/2018/01/22/IMG-20180122-WA0042-1.jpg)
 
- ![](/uploads/2018/01/22/IMG-20180122-WA0008.jpg)
+![](/uploads/2018/01/22/IMG-20180122-WA0008.jpg)
 
 **21. Januar 2018:**
 
-Wir gönnten uns einen Tag Wochenende – inklusive Ausflug nach Balikpapan, Internet im Kaffee (nachdem wir etwas länger von der Aussenwelt abgeschnitten waren) und ... 
+Wir gönnten uns einen Tag Wochenende – inklusive Ausflug nach Balikpapan, Internet im Kaffee (nachdem wir etwas länger von der Aussenwelt abgeschnitten waren) und ...
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0029.jpg)
 
@@ -38,13 +98,13 @@ Wir gönnten uns einen Tag Wochenende – inklusive Ausflug nach Balikpapan, Int
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0012.jpg)
 
-An den Abenden bietet sich die Samboja Lodge sonst auch zum Entspannen an: Beim Billard oder auf der Terrasse mit Blick über die getane Arbeit. Immer wieder treffen wir in der Lodge auf Touristen, die dorthin reisen und sich über die Arbeit der BOS Stiftung informieren. Und wir teilen uns den Tisch mit unseren Volontär-Kollegen aus Australien. 
+An den Abenden bietet sich die Samboja Lodge sonst auch zum Entspannen an: Beim Billard oder auf der Terrasse mit Blick über die getane Arbeit. Immer wieder treffen wir in der Lodge auf Touristen, die dorthin reisen und sich über die Arbeit der BOS Stiftung informieren. Und wir teilen uns den Tisch mit unseren Volontär-Kollegen aus Australien.
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0035.jpg)
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0046.jpg)
 
-Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform. Ganz Samboja Lestari kann man von dort überblicken. 
+Hier der imposante Eingangsbereich der Lodge. Von dort aus gelangt man über eine Metalltreppe bis ganz nach oben auf die Aussichtsplattform. Ganz Samboja Lestari kann man von dort überblicken.
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0000.jpg)
 
