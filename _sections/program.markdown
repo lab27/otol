@@ -7,29 +7,59 @@ anchor: programm
 ---
 **26. und 27. Januar 2018:** 
 
-Unser Besuch in der BOS Rettungsstation in Nyaru Menteng hat - ganz am Ende unserer Reise - nochmal einen bleibenden Eindruck hinterlassen. Wir durften die Vorauswilderungsinseln sehen, die Waldschüler, wie sie am Nachmittag zurück in die Rettungsstation kommen und das neue Baby Haus. 
+Unser Besuch in der BOS Rettungsstation in Nyaru Menteng hat - ganz am Ende unserer Reise - nochmal einen bleibenden Eindruck hinterlassen. 
 
-Auch verpflegt wurden wir vor Ort. Im Hotel angekommen, machten wir noch Bekanntschaft mit einem riesigen Skorpion - Dschungel-Feeling pur.
+![](/uploads/2018/01/26/IMG-20180126-WA0020.jpg)
+
+Vom Boot aus durften wir die Vorauswilderungsinseln sehen, die Waldschüler, wie sie am Nachmittag zurück in die Rettungsstation kommen, das neue Baby Haus und den Waldkindergarten besuchen. 
+
+![](/uploads/2018/01/26/IMG-20180126-WA0041.jpg)
+
+Auch verpflegt wurden wir vor Ort. Hmm... lecker Fisch :)
+
+![](/uploads/2018/01/26/IMG-20180126-WA0000.jpg)
+
+Im Hotel angekommen, machten wir noch Bekanntschaft mit einem riesigen Skorpion - Dschungel-Feeling pur.
+
+![](/uploads/2018/01/26/IMG-20180126-WA0035.jpg)
 
 **26. Januar 2018:**
 
 **Abreise in Samboja Lestari** 
 
-Heute Morgen nahmen wir Abschied von Samboja Lestari. Ein letzter Blick von der Aussichtsplattform und los gings zum Flughafen nach Balikpapan. Um 6:20 Uhr heben wir ab Richtung Zentral-Kalimantan, denn der krönende Abschluss unserer Volontärreise soll ein Besuch in der zweiten BOS Rettungsstation in Nyaru Menteng sein.  
+Heute Morgen nahmen wir Abschied von Samboja Lestari. Ein letzter Blick von der Aussichtsplattform und los gings zum Flughafen nach Balikpapan. 
+
+![](/uploads/2018/01/26/IMG-20180126-WA0011.jpg)
+
+Um 6:20 Uhr heben wir ab Richtung Zentral-Kalimantan, denn der krönende Abschluss unserer Volontärreise soll ein Besuch in der zweiten BOS Rettungsstation in Nyaru Menteng sein.  
 
 **25. Januar 2018:** 
 
 **AKTUELLER SPENDENSTAND: 7360.87 Franken.** Herzlichen Dank für diese grossartige Unterstützung und die vielen lieben Kommentare, die ihr bei den Überweisungen mit eingebt! Sie werden uns immer weiter geleitet. 
 
+![](/uploads/2018/01/26/IMG-20180126-WA0059.jpg)
+
 **Abschied von den BOS Mitarbeitenden**
 
 Ein herzliches Dankeschön an alle, die uns vor Ort betreut und begleitet haben!!! Der Abschied ist uns schwer gefallen – aber wir behalten euch und diese einmalige Erfahrung für immer in Erinnerung.
+
+![](/uploads/2018/01/26/IMG-20180126-WA0056.jpg)
 
 **Enrichment-Rezept:**
 
 Erfahrung mit Werkzeug und in der Holzverarbeitung ist auch beim Enrichment gefragt. Eines unserer Enrichment-Rezepte: Kettensäge reparieren, ein grosses Stück Holz in Scheiben sägen, Löcher reinbohren und Popcorn in die Löcher stopfen. Abgerundet wird das Ganze mit einer Schicht Erdnussbutter. 
 
-Gemeinsam macht das Enrichment erst so richtig Spass. Wann hat man schon mal die die Gelegenheit für Bären und Orang-Utans zu kochen... Verstaut wird alles im grossen Kühlschrank, damit es frisch bleibt. Anschliessend dürfen wir zuschauen, wie das hausgemachte Essen verputzt wird. Die "Köche" sind zufrieden und die Orang-Utans auch! 
+![](/uploads/2018/01/26/IMG-20180125-WA0002.jpg)
+
+![](/uploads/2018/01/26/IMG-20180124-WA0026.jpg)
+
+Gemeinsam macht das Enrichment erst so richtig Spass. Wann hat man schon mal die die Gelegenheit für Bären und Orang-Utans zu kochen... 
+
+![](/uploads/2018/01/26/IMG-20180125-WA0006.jpg)
+
+Verstaut wird alles im grossen Kühlschrank, damit es frisch bleibt. Anschliessend dürfen wir zuschauen, wie das hausgemachte Essen verputzt wird. Die "Köche" sind zufrieden und die Orang-Utans auch! 
+
+![](/uploads/2018/01/26/IMG-20180124-WA0033 (1).jpg)
 
 **24. Januar 2018**
 
@@ -39,33 +69,59 @@ Wir entschuldigen uns für die Sendepause. Leider war das Internet tagelang rech
 
 Nachdem wir die Quarantäre hinter uns hatten, durften wir im Baby Haus vorbeischauen. Hier werden die Allerkleinsten von ihren Babysittern betreut. Für die Waisen fungieren sie als Ersatzmütter. Sie bringen ihnen alles bei, was sie sonst von ihren Müttern lernen würden. Konfiszierte Haustiere, Waldbrandopfer, Babys deren Mütter vor ihren Augen erschlagen wurden... sie alle finden hier einen sicheren Ort. 
 
+![](/uploads/2018/01/26/IMG-20180126-WA0029.jpg)
+
 Weiter gehts mit der Walsschule. Jahrelang dauert die Rehabilitation, bis sie schliesslich auf eine der Vorauswilderungsinseln dürfen. Dort werden sie praktisch sich selbts überlassen und müssen zeigen, dass sie bereit sind für die Freiheit. Erst dann, findet eine Auswilderung in ein geschütztes Waldgebiet statt.
 
 **Ab dem 22. Januar 2018: Mitarbeit am Bärenprojekt**
 
 Das Thema Enrichment ist auch für die Bären relevant. Mit einfachen Hilfsmitteln wird sichergestellt, dass die Tiere am Tag beschäftigt bleiben und ihre Fertigkeiten weiterentwickeln. Die Bären sind deshalb daran gewöhnt, dass sie sich um ihr Fressen ein bisschen bemühen müssen.
 
+![](/uploads/2018/01/26/IMG-20180119-WA0004 (1).jpg)
+
 Ausserdem wurden in den alten, kleinen Aussengehegen Schaukeln, Unterstände, Klettervorrichtungen etc. für die Bären angebracht. Trotzdem: der Auslauf reichte nie für alle 44 Bären in der Rettungsstation. Sie konnten nur rotierend in die Aussengehege gelassen werden. Die Gehege waren insgesamt zu klein und boten kaum Schatten für die lichtempfindlichen Bären. Die Käfiganlagen mussten dringend erneuert und vergrössert werden. 
+
+![](/uploads/2018/01/26/IMG-20180119-WA0002 (1).jpg)
 
 Im Jahr 2016 legte BOS Schweiz den Startschuss für eine neue Bärenanlage. Drei riesige Aussengehege konnten aus Stiftungsgeldern finanziert werden. Bis heute unterstützt BOS Schweiz das Projekt unter der Leitung des Bärenexperten Patrick finanziell und tatkräftig. Der Plan: Auf einer insgesamt 16 000 Quadratmeter grossen Regenwaldfläche sollen ca. 15 grosse Aussengehege entstehen, in denen sich die Bären frei bewegen können. Neue Rückzugskäfige (z.B. für kranke Tiere) und Inftrastruktur gehören ebenfalls dazu. 
 
+![](/uploads/2018/01/26/IMG-20180126-WA0061.jpg)
+
 Wer Patrick kennen gelernt hat der weiss: Die Bären sind bei ihm in guten Händen. Seit Langem gibt er alles, um ihre Situation zu verbessern. Lange unentgeltlich. Wir verneigen uns vor ihm, seiner Leidenschaft für das Projekt und seinem unermüdlichen Einsatz. Wir haben es am eigenen Leib erfahren, wie hart dieser Job ist und bitten alle, die das hier lesen, um Unterstützung! Mehr Informationen gibt es auf der BOS Schweiz Website unter "Bauprojekte".
+
+![](/uploads/2018/01/26/IMG-20180124-WA0069 (1).jpg)
 
 **Schweres Gerät für starke Männer**
 
-Schweisstreibend war die Arbeit bei den Bären… wir halfen mit, eines der alten Aussengehege zu renovieren. Die Frauen packten auch mit an – Landschaftsbau oder Tropenkoller?
+Schweisstreibend war die Arbeit bei den Bären… wir halfen mit, eines der alten Aussengehege zu renovieren. 
+
+![](/uploads/2018/01/26/IMG-20180124-WA0055 (1).jpg)
+
+Die Frauen packten auch mit an – Landschaftsbau oder Tropenkoller?
+
+![](/uploads/2018/01/26/IMG-20180124-WA0064 (1).jpg)
 
 Ausserdem mussten die neuen Zäune der Gehege gestrichen werden. Vier Aussengehege stehen bereits, genauso wie ein Trainingsgehege, indem die Bären den Umgang mit dem elektrischen Zaun lernen.
 
+![](/uploads/2018/01/26/IMG-20180123-WA0003 (1).jpg)
+
 Füttern durften wir auch. Vor allem frische Früchte (Mangos, Ananas oder Bananen) lieben die Bären. Sie kratzen mit ihren Krallen das Fruchtfleisch weg und schlabbern dann genüsslich den süssen Saft. 
+
+![](/uploads/2018/01/26/IMG-20180124-WA0038 (1).jpg)
 
 **Am Abend**
 
-Nach einem anstrengenden Arbeitstag geht es entspannt in den Feierabend - mehr als verdient. Die Männer messen weiterhin ihre Kräfte. Die Frauen haben ihren Spass beim Uno Spielen. Dies sind die letzten Abende in der Lodge und die Wehmut erfasst uns bereits…
+Nach einem anstrengenden Arbeitstag geht es entspannt in den Feierabend - mehr als verdient. Die Männer messen weiterhin ihre Kräfte. Die Frauen haben ihren Spass beim Uno Spielen. 
+
+![](/uploads/2018/01/26/IMG-20180124-WA0074 (1).jpg)
+
+Dies sind die letzten Abende in der Lodge und die Wehmut erfasst uns bereits…
 
 **Romeo der Gemütliche...**
 
 Im Hintergrund sieht man hier wieder Romeo, der nach 24 Jahren in der Rettungsstation seine Freiheit und das Leben auf der Vorauswilderungsinsel in vollen Zügen geniesst. Entspannen, ausruhen, chillen – das ist sein Tagesprogramm. Unser Alltag ist manchmal so anstrengend, dass wir gerne mit ihm tauschen würden :)
+
+![](/uploads/2018/01/26/IMG-20180123-WA0043 (1).jpg)
 
 Übrigens wurde erst neulich eine der neuen, riesigen Vorauswilderungsinseln in Samboja Lestari eingeweiht. Die Inseln sind fast 10mal so gross wie Romeos Insel. Ihr Bau wird von der BOS Schweiz über Stiftungsgelder finanziert. Es dürfen sich also einige weitere Orang-Utans auf einen Vorauswilderungsplatz freuen und sich für einen Umzug Richtung Freiheit parat machen.
 
