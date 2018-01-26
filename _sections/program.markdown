@@ -7,7 +7,7 @@ anchor: programm
 ---
 **26. und 27. Januar 2018:** 
 
-Unser Besuch in der BOS Rettungsstation in Nyaru Menteng am Ende unserer Reise hat einen bleibenden Eindruck hinterlassen. Wir durften die Vorauswilderungsinseln sehen, die Waldschüler, wie sie am Nachmittag zurück in die Rettungsstation kommen und das neue Babyhaus. 
+Unser Besuch in der BOS Rettungsstation in Nyaru Menteng hat - ganz am Ende unserer Reise - nochmal einen bleibenden Eindruck hinterlassen. Wir durften die Vorauswilderungsinseln sehen, die Waldschüler, wie sie am Nachmittag zurück in die Rettungsstation kommen und das neue Baby Haus. 
 
 Auch verpflegt wurden wir vor Ort. Im Hotel angekommen, machten wir noch Bekanntschaft mit einem riesigen Skorpion - Dschungel-Feeling pur.
 
