@@ -5,6 +5,14 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**27. Januar 2018:**
+
+Wir machen uns auf den Heimweg von Borneo über Jakarta/Java nach Singapur. Dort sind wir mittleweile gut angekommen.  Wir nutzen die Gelegenheit für das vielleicht letzte Gruppenbild, bevor unsere Füsse wieder Schweizer Boden betreten werden:
+
+![](/uploads/2018/01/27/IMG-20180127-WA0026.jpg)
+
+Hier haben wir mehrere Stunden Aufenthalt, bevor unser Flieger nach Zürich abhebt. Stadtbummel ist angesagt... Wir freuen uns alle schon riesig auf unserer Familien, Kinder, Freunde, guten Kaffee, unsere eigenen Betten und darauf, diese Kampagne von der Schweiz aus zu einem sehr guten Ende zu bringen! 
+
 **26. und 27. Januar 2018:**
 
 Unser Besuch in der BOS Rettungsstation in Nyaru Menteng hat - ganz am Ende unserer Reise - nochmal einen bleibenden Eindruck hinterlassen.
@@ -15,7 +23,15 @@ Vom Boot aus durften wir die Vorauswilderungsinseln sehen, die Waldschüler, wie
 
 ![](/uploads/2018/01/26/IMG-20180126-WA0041.jpg)
 
-Auch verpflegt wurden wir vor Ort. Hmm... lecker Fisch :)
+Auch einige der Tiere, die BOS Schweiz als [Paten-Otang-Utans](http://www.bos-schweiz.ch/de/helfen/orangutanpatenschaft.htm) im Programm hat (z.B. Valentino, Cinta oder Jumbo), besuchen hier in Nyaru Menteng die Waldschule. Stundenlang könnte man ihnen zuschauen, ohne dass einem langweilig wird. 
+
+![](/uploads/2018/01/27/IMG-20180127-WA0009.jpg)
+
+Wie kleine Kinder blödeln sie rum,  über, Termiten aus Baumstämmen zu stochern, spielen und raufen miteinander oder versuchen, ihre Babysitter auszutricksen... wenn keiner schaut, robbt sich Cinta auf allen Vieren liegend immer weiter nach vorne - bis sie von Ihren Betreuerinnen wieder zurück gescheucht wird. Der Kontakt mit Menschen und v.a. Besuchern wird hier minimiert. Mundschutz ist obligatorisch, auch wenn man die Quarantäre schon hinter sich hat. 
+
+![](/uploads/2018/01/27/IMG-20180127-WA0017.jpg)
+
+Ach ja: verpflegt wurden wir vor Ort natürlich auch. Hmm... lecker Fisch :)
 
 ![](/uploads/2018/01/26/IMG-20180126-WA0000.jpg)
 
