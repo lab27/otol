@@ -135,10 +135,13 @@ Im Hintergrund sieht man hier wieder Romeo, der nach 24 Jahren in der Rettungsst
 
 440 Bäume haben wir bisher gepflanzt! Und wir sind noch nicht am Ende... Hier schonmal unser Programm für die kommenden Tage:
 
-* **Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
-* **Dienstag**: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
-* **Mittwoch**: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
-* **Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
+**Montag**: vormittags Bäume pflanzen; nachmittags Mitarbeit am Bärengehege
+
+**Dienstag**: vormittags Mitarbeit am Bärengehege; nachmittags Mithilfe bei den Special Cages und im Baby-Haus
+
+**Mittwoch**: vormittags Orang-Utan Käfige reinigen und Enrichment für die Orang-Utans; nachmittags Bäume pflanzen
+
+**Donnerstag**: vormittags PR-Arbeit und Fototermin mit Nicola; nachmittags Enrichment für die Orang-Utans
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0042-1.jpg)
 
