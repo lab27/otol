@@ -53,7 +53,7 @@ Erfahrung mit Werkzeug und in der Holzverarbeitung sind auch beim Enrichment gef
 
 ![](/uploads/2018/01/26/IMG-20180124-WA0026.jpg)
 
-Gemeinsam macht das Enrichment erst so richtig Spass. Wann hat man schon mal die die Gelegenheit für Bären und Orang-Utans zu kochen...
+Gemeinsam macht das Enrichment erst so richtig Spass. Wann hat man schon mal die Gelegenheit für Bären und Orang-Utans zu kochen...
 
 ![](/uploads/2018/01/26/IMG-20180125-WA0006.jpg)
 
