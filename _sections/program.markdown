@@ -87,7 +87,7 @@ Im Jahr 2016 legte BOS Schweiz den Startschuss für eine neue Bärenanlage. Drei
 
 ![](/uploads/2018/01/26/IMG-20180126-WA0061.jpg)
 
-Wer Patrick kennen gelernt hat der weiss: Die Bären sind bei ihm in guten Händen. Seit Langem gibt er alles, um ihre Situation zu verbessern. Lange unentgeltlich. Wir verneigen uns vor ihm, seiner Leidenschaft für das Projekt und seinem unermüdlichen Einsatz. Wir haben es am eigenen Leib erfahren, wie hart dieser Job ist und bitten alle, die das hier lesen, um Unterstützung! Mehr Informationen gibt es auf der BOS Schweiz Website unter "Bauprojekte".
+Wer Patrick kennengelernt hat der weiss: Die Bären sind bei ihm in guten Händen. Seit Langem gibt er alles, um ihre Situation zu verbessern. Lange unentgeltlich. Wir verneigen uns vor ihm, seiner Leidenschaft für das Projekt und seinem unermüdlichen Einsatz. Wir haben es am eigenen Leib erfahren, wie hart dieser Job ist und bitten alle, die das hier lesen, um Unterstützung! Mehr Informationen gibt es auf der BOS Schweiz Website unter "[Bauprojekte](http://www.bos-schweiz.ch/de/rettungszentren/bauprojekte/malaienbaeren-anlage.htm "Bauprojekte")".
 
 ![](/uploads/2018/01/26/IMG-20180124-WA0069 (1).jpg)
 
