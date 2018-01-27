@@ -111,7 +111,7 @@ Füttern durften wir auch. Vor allem frische Früchte (Mangos, Ananas oder Banan
 
 **Am Abend**
 
-Nach einem anstrengenden Arbeitstag geht es entspannt in den Feierabend - mehr als verdient. Die Männer messen weiterhin ihre Kräfte. Die Frauen haben ihren Spass beim Uno Spielen.
+Nach einem anstrengenden Arbeitstag geht es entspannt in den Feierabend - mehr als verdient. Die Männer messen weiterhin ihre Kräfte beim Billiard. Die Frauen haben ihren Spass beim Uno Spielen.
 
 ![](/uploads/2018/01/26/IMG-20180124-WA0074 (1).jpg)
 
