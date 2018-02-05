@@ -1,4 +1,8 @@
 ---
+- path: "/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg"
+  width: '800'
+  height: '531'
+  preview: true
 - path: "/2018/01/27/IMG-20180127-WA0026.jpg"
   width: '800'
   height: '533'
@@ -46,7 +50,7 @@
 - path: "/2018/01/26/IMG-20180124-WA0069 (1).jpg"
   width: '800'
   height: '616'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180123-WA0003 (1).jpg"
   width: '800'
   height: '533'
