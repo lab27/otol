@@ -5,13 +5,27 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**Veranstaltungshinweis: Vortrag im Botanischen Garten Zürich** 
+
+Alle Interessierten laden wir herzlich ein zu einer eindrücklichen Video-Präsentation: Am **Sa. 10.2.2018** (ab **14:15 Uhr**) spricht Sophia Benz (CEO, BOS Schweiz) zum Thema **_„Die letzten Orang-Utans - Regenwaldzerstörung, die Folgen und was wir dagegen tun können“_** im Grossen Saal des Botanischen Gartens in Zürich. Am 15.2. folgt Angelas Vortrag speziell zur One-Tree-One-Life Kampagne... dazu dann bei Zeiten mehr. 
+
+**05. Februar 2018:**
+
+**AKTUELLER SPENDENSTAND: CHF 12,503.87**  Die Orang-Utans brauchen den Regenwald und der Regenwald braucht die Orang-Utans! Herzlichen Dank, dass wir mit eurer Hilfe neuen Lebensraum diese uns andere bedrohte Arten schaffen können!
+
+![](/uploads/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg)**31. Januar 2018: Geburtstagswald für George Kuratle**
+
+Die One-Tree-One-Life-Kampagne hat einen **neuen Sponsor** gefunden: Die **Kuratle Group**! Anlässlich des 65. Geburtstages des Firmengründers haben sich die Mitarbeitenden dazu entschieden, Setzlinge im Rahmen der One-Tree-One-Life Kampagne zu spenden und so einen Geburtstagswald auf Borneo entstehen zu lassen. Das Unternehmen verdoppelt die Spenden. George Kuratle verdankt sein Lebenswerk dem Wald. Er und seine Mitarbeitenden sind mit dem Handel von Holzwerkstoffen gross geworden und/oder verdienen ihren Lebensunterhalt damit. Mit dieser Geburtstagsaktion möchten sie ihre Wertschätzung für diese Ressource und für einen verantwortungsvollen und nachhaltigen Umgang mit ihr zum Ausdruck bringen. Eine wirklich schöne Idee!
+
+![](/uploads/2018/02/05/6 Mei - Napri by Indrayana.JPG)
+
 **29. Januar 2018:** 
 
-Gestern sind wir alle wieder heil gelandet in Zürich! Zum Abschluss der Volontärreise diese grossartige Meldung: **WIR HABEN DIE 10 000 FRANKEN HÜRDE GEKNACKT!** 
+Gestern sind wir alle wieder heil gelandet in Zürich! Zum Abschluss der Volontärreise diese grossartige Meldung: **WIR HABEN DIE 10 000 FRANKEN HÜRDE GEKNACKT!**
 
-**AKTUELLER SPENDENSTAND heute: CHF 10 185.87 !!!**
+**AKTUELLER SPENDENSTAND: CHF 10 185.87 !!!**
 
-Herzlichen Dank an alle unsere Unterstützerinnen und Unterstützer!  
+Herzlichen Dank an alle unsere Unterstützerinnen und Unterstützer!
 
 Die Volontärreise ist zwar zu Ende. Die One-Tree-One-Life-Kampagne aber noch lange nicht! Wir halten euch auch weiterhin auf dem Laufenden. Tragt euch dafür am Besten in den Newsletter ein!
 
