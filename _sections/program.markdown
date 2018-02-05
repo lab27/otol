@@ -11,9 +11,13 @@ Alle Interessierten laden wir herzlich ein zu einer eindrücklichen Video-Präse
 
 **05. Februar 2018:**
 
-**AKTUELLER SPENDENSTAND: CHF 12,503.87**  Die Orang-Utans brauchen den Regenwald und der Regenwald braucht die Orang-Utans! Herzlichen Dank, dass wir mit eurer Hilfe neuen Lebensraum diese uns andere bedrohte Arten schaffen können!
+**AKTUELLER SPENDENSTAND: CHF 12,503.87**  
 
-![](/uploads/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg)**31. Januar 2018: Geburtstagswald für George Kuratle**
+Die Orang-Utans brauchen den Regenwald und der Regenwald braucht die Orang-Utans! Herzlichen Dank, dass wir mit Eurer Hilfe neuen Lebensraum für diese uns andere bedrohte Arten schaffen können!
+
+![](/uploads/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg)
+
+**31. Januar 2018: Geburtstagswald für George Kuratle**
 
 Die One-Tree-One-Life-Kampagne hat einen **neuen Sponsor** gefunden: Die **Kuratle Group**! Anlässlich des 65. Geburtstages des Firmengründers haben sich die Mitarbeitenden dazu entschieden, Setzlinge im Rahmen der One-Tree-One-Life Kampagne zu spenden und so einen Geburtstagswald auf Borneo entstehen zu lassen. Das Unternehmen verdoppelt die Spenden. George Kuratle verdankt sein Lebenswerk dem Wald. Er und seine Mitarbeitenden sind mit dem Handel von Holzwerkstoffen gross geworden und/oder verdienen ihren Lebensunterhalt damit. Mit dieser Geburtstagsaktion möchten sie ihre Wertschätzung für diese Ressource und für einen verantwortungsvollen und nachhaltigen Umgang mit ihr zum Ausdruck bringen. Eine wirklich schöne Idee!
 
