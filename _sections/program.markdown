@@ -5,6 +5,10 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**21. März 2018:**
+
+Nicht vergessen: Am 21. März ist der **Internationale Tag des Waldes**! Ein Guter Anlass und höchste Zeit, etwas gegen die Regenwaldzerstörung zu unternehmen und z.B. Setzlinge zu spenden oder als Volontär vor Ort mit anzupacken... hast Du Interesse, bei unserer nächsten Volontärreise dabei zu sein? Dann melde Dich unter info(at)bos-schweiz.ch
+
 **19. März 2018:**
 
 **AKTUELLER SPENDENSTAND: CHF 19'946.50**
