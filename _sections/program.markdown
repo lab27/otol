@@ -5,13 +5,21 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**19. März 2018:**
+
+**AKTUELLER SPENDENSTAND: CHF 19'946.50**
+
+**15. Februar 2018:** 
+
+Heute waren wir bei der Eröffnungsveranstaltung des **Filmfestivals Nebenrolle Natur** in Zürich präsent. Gezeigt wurde der Film mit dem Titel **"Geschwister der Bäume"**, der die Regenwaldabholzung und Landrechtsproblematik in Papua Neuguinea thematisierte. Elisabeth Labens von BOS Schweiz war - nebst einer Vertreterin von Greenpeace - als Referentin geladen. OTOL Volontäre betreuten den BOS-Info-Tisch. Mittlerweile sind wir fleissig dabei, Volontäre für die nächste Reise zu rekrutieren... auch auf dieser Veranstaltung gab es reges Interesse dafür.
+
 **Veranstaltungshinweis: Vortrag im Botanischen Garten Zürich**
 
 Alle Interessierten laden wir herzlich ein zu einer eindrücklichen Video-Präsentation: Am **Sa. 10.2.2018** (ab **14:15 Uhr**) spricht Sophia Benz (CEO, BOS Schweiz) zum Thema **_„Die letzten Orang-Utans - Regenwaldzerstörung, die Folgen und was wir dagegen tun können“_** im Grossen Saal des Botanischen Gartens in Zürich. Am 15.2. folgt Angelas Vortrag speziell zur One-Tree-One-Life Kampagne... dazu dann bei Zeiten mehr.
 
 **05. Februar 2018:**
 
-**AKTUELLER SPENDENSTAND: CHF 12,503.87**
+**AKTUELLER SPENDENSTAND: CHF 12'503.87**
 
 Die Orang-Utans brauchen den Regenwald und der Regenwald braucht die Orang-Utans! Herzlichen Dank, dass wir mit Eurer Hilfe neuen Lebensraum für diese uns andere bedrohte Arten schaffen können!
 
@@ -25,9 +33,9 @@ Die One-Tree-One-Life-Kampagne hat eine **neue Sponsorin:** Die **Kuratle Group*
 
 **29. Januar 2018:**
 
-Gestern sind wir alle wieder heil gelandet in Zürich! Zum Abschluss der Volontärreise diese grossartige Meldung: **WIR HABEN DIE 10 000 FRANKEN HÜRDE GEKNACKT!**
+Gestern sind wir alle wieder heil gelandet in Zürich! Zum Abschluss der Volontärreise diese grossartige Meldung: **WIR HABEN DIE 10'000 FRANKEN HÜRDE GEKNACKT!**
 
-**AKTUELLER SPENDENSTAND: CHF 10 185.87 !!!**
+**AKTUELLER SPENDENSTAND: CHF 10'185.87 !!!**
 
 Herzlichen Dank an alle unsere Unterstützerinnen und Unterstützer!
 
@@ -171,7 +179,7 @@ Im Hintergrund sieht man hier wieder Romeo, der nach 24 Jahren in der Rettungsst
 
 **22. Januar 2018:**
 
-**AKTUELLER SPENDENSTAND: 6510.54 Franken. Merci für Eure Hilfe!**
+**AKTUELLER SPENDENSTAND: 6'510.54 Franken. Merci für Eure Hilfe!**
 
 ![](/uploads/2018/01/22/IMG-20180122-WA0038.jpg)
 
@@ -229,7 +237,7 @@ Unser erster Arbeitsabschnitt neigt sich damit bereits dem Ende zu. Nach dem Woc
 
 ![](/uploads/2018/01/19/IMG-20180117-WA0076.jpg)
 
-**AKTUELLER SPENDENSTAND: 6210.54** **Franken.** Merci für die Unterstützung! PS: Bitte gebt, falls ihr direkt auf das BOS Schweiz Spendenkonto überweist, immer _One Tree One Life_ als Verwendungszweck an!![](/uploads/2018/01/18/IMG-20180117-WA0071-1.jpg)
+**AKTUELLER SPENDENSTAND: 6'210.54** **Franken.** Merci für die Unterstützung! PS: Bitte gebt, falls ihr direkt auf das BOS Schweiz Spendenkonto überweist, immer _One Tree One Life_ als Verwendungszweck an!![](/uploads/2018/01/18/IMG-20180117-WA0071-1.jpg)
 
 **18. Januar 2018: Arbeit macht müde**
 
@@ -303,7 +311,7 @@ Unsere Rucksäcke sind bereits gepackt und hoffentlich alle mit uns im Flieger.�
 
 ![](/uploads/2018/01/14/IMG-20180107-WA0004_quer.jpg)
 
-**AKTUELLER SPENDENSTAND: 4952.67 Franken.** Merci an alle, die uns bereits vor unserem Abflug so grosszügig unterstützt haben!
+**AKTUELLER SPENDENSTAND: 4'952.67 Franken.** Merci an alle, die uns bereits vor unserem Abflug so grosszügig unterstützt haben!
 
 **14. Januar 2018: Indonesien - wir kommen!**
 
