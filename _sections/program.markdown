@@ -17,9 +17,11 @@ Nicht vergessen: Am 21. März ist der **Internationale Tag des Waldes**! Ein Gut
 
 Heute waren wir bei der Eröffnungsveranstaltung des **Filmfestivals Nebenrolle Natur** in Zürich präsent. Gezeigt wurde der Film mit dem Titel **"Geschwister der Bäume"**, der die Regenwaldabholzung und Landrechtsproblematik in Papua Neuguinea thematisierte. Elisabeth Labens von BOS Schweiz war - nebst einer Vertreterin von Greenpeace - als Referentin geladen. OTOL Volontäre betreuten den BOS-Info-Tisch. Mittlerweile sind wir fleissig dabei, Volontäre für die nächste Reise zu rekrutieren... auch auf dieser Veranstaltung gab es reges Interesse dafür.
 
-**Veranstaltungshinweis: Vortrag im Botanischen Garten Zürich**
+**Veranstaltungshinweis: BOS und One Tree One Life zu Gast im Botanischen Garten Zürich**
 
-Alle Interessierten laden wir herzlich ein zu einer eindrücklichen Video-Präsentation: Am **Sa. 10.2.2018** (ab **14:15 Uhr**) spricht Sophia Benz (CEO, BOS Schweiz) zum Thema **_„Die letzten Orang-Utans - Regenwaldzerstörung, die Folgen und was wir dagegen tun können“_** im Grossen Saal des Botanischen Gartens in Zürich. Am 15.2. folgt Angelas Vortrag speziell zur One-Tree-One-Life Kampagne... dazu dann bei Zeiten mehr.
+Alle Interessierten laden wir herzlich ein zu einer eindrücklichen Video-Präsentation: Am **Sa. 10.2.2018** (ab **14:15 Uhr**) spricht Sophia Benz (CEO, BOS Schweiz) zum Thema **_„Die letzten Orang-Utans - Regenwaldzerstörung, die Folgen und was wir dagegen tun können“_** im Grossen Saal des Botanischen Gartens in Zürich. 
+
+Am **15.2.2018** folgt **Angela Burris** Vortrag speziell zur One-Tree-One-Life Kampagne. Angela wird über ihre persönliche Motivation für das Projekt sprechen und natürlich darüber, was vor Ort genau geleistet wurde... Titel des Vortrages ist entsprechend **_„One-Tree-One-Life - Aufforstung in Borneo, Indonesien“_** .
 
 **05. Februar 2018:**
 
