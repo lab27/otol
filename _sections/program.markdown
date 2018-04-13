@@ -5,9 +5,21 @@ title: Aktivitäten und Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
 ---
+**13. April 2018:**
+
+**AKTUELLER SPENDENSTAND: WIR HABEN DIE 20'000 FRANKEN HÜRDE GEKNACKT! BISHER GINGEN 20'447.17 FRANKEN FÜR SETZLINGE EIN!**
+
+Die Kuratle AG und ihre Mitarbeitenden haben insgesamt 12'000 Franken für George Kuratles Geburtstagswald gespendet. Das reicht für 12 000 Setzlinge! Herzlichen Dank!
+
+**29. März 2018:**
+
+Unser Volontär und ehrenamtliches Vorstandsmitglied - Rudolf Mögli - macht kräftig Werbung für BOS Schweiz und die OTOL-Kampagne unter seinen Coop-Kolleg/innen. Viele Spenden, ein neues Mitglied und neue Pateneltern haben wir so gewonnen. Anlässlich des Naturaplan-Jubiläums  übermittelten ihm die Mitarbeiter/innen des Sprachendienstes folgendes Bild:
+
+![](/uploads/2018/04/13/IMG_20180327_093926 (2).jpg)
+
 **21. März 2018:**
 
-Nicht vergessen: Am 21. März ist der **Internationale Tag des Waldes**! Ein Guter Anlass und höchste Zeit, etwas gegen die Regenwaldzerstörung zu tun - z.B. auf dieser Seite für die Aufforstung zu spenden, Setzlinge zu verschenken oder als Volontär/in vor Ort mit anzupacken. Hast Du Interesse, bei unserer nächsten Volontärreise dabei zu sein? Dann melde Dich unter info(at)bos-schweiz.ch  
+Nicht vergessen: Am 21. März ist der **Internationale Tag des Waldes**! Ein Guter Anlass und höchste Zeit, etwas gegen die Regenwaldzerstörung zu tun - z.B. auf dieser Seite für die Aufforstung zu spenden, Setzlinge zu verschenken oder als Volontär/in vor Ort mit anzupacken. Hast Du Interesse, bei unserer nächsten Volontärreise dabei zu sein? Dann melde Dich unter info(at)bos-schweiz.ch
 
 **19. März 2018:**
 
