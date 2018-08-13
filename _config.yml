@@ -17,6 +17,7 @@ plugins:
 collections:
   - sections
   - sections-kuratle
+  - sections-nikin
 
 exclude:
   - Gemfile
