@@ -22,3 +22,7 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# so I can check it on my phone:
+host: 0.0.0.0
+port: 4000

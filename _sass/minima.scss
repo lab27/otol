@@ -254,6 +254,10 @@ main.game {
         display: flex;
         color: $bright-green;
         margin-top: 2rem;
+        width: 100%;
+        justify-content: center;
+        flex-flow: row wrap;
+
         @include mq($from: superwide) {
             flex-flow: column;
             align-items: flex-start;
@@ -283,6 +287,13 @@ main.game {
             margin-right: .5rem;
             .nikin & {
                 margin-left: .5rem;
+            }
+        }
+        .button-wrapper {
+            flex: 0 1 50%;
+            margin-bottom: .5rem;
+            @include mq($from: tablet) {
+                flex: 0 1 calc(100%/3);
             }
         }
     }
