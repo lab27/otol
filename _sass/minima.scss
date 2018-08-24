@@ -245,7 +245,7 @@ main.game {
     }
     @include mq($from:superwide) {
         position: fixed;
-        top: $spacing-unit/2;
+        top: $spacing-unit;
         right: 1rem;
         width: 21rem;
         justify-content: flex-end;
@@ -257,7 +257,6 @@ main.game {
         width: 100%;
         justify-content: center;
         flex-flow: row wrap;
-
         @include mq($from: superwide) {
             flex-flow: column;
             align-items: flex-start;
@@ -343,7 +342,11 @@ section {
         }
     }
     p a {
-        color: darken($dark-gray, 40%);
+        box-shadow: inset 0 -3px 0 rgba($warm-green, .5);
+        &:hover {
+            box-shadow: inset 0 -3px 0 rgba($warm-green, 1);
+            text-decoration: none;
+        }
     }
 }
 
