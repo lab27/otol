@@ -37,8 +37,7 @@ function adjustView() {
 }
 
 window.addEventListener("resize", adjustView);
-scatterLeaves()
-checkButtonPlacement()
+window.onload = adjustView
 
 // Accepts any class name
 var rellax = new Rellax('.rellax');
