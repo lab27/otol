@@ -11,4 +11,4 @@ Jedes Jahr werden allein auf Borneo 1.3 Mio. Hektar Regenwald vernichtet. Damit 
 
 Im Rahmen der One Tree One Life Kampagne forsten wir von BOS Schweiz gemeinsam mit Volontären zerstörte Regenwaldgebiete wieder auf. Möchtest auch Du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann spende oder verschenke Setzlinge und erlebe, wie Dein Engagement in Borneo Wurzeln schlägt!
 
-{% include donate-group.html %}
+{% include donate-group.html buttons=site.data.donate_buttons.main %}

@@ -25,4 +25,4 @@ Baum (Setzling + 5-Jahre Pflege) erwerben oder verschenken. Oder soll es gleich 
 (5 Bäume für knapp 40 Franken) oder gar ein Regenwald (ab 10 Bäume für 80 Franken aufwärts)
 sein? Mach mit und erlebe, wie Dein Engagement auf Borneo Wurzeln schlägt!
 
-{% include donate-group-nikin.html %}
+{% include donate-group.html buttons=site.data.donate_buttons.nikin %}
