@@ -231,6 +231,10 @@ main.game {
         // margin: 1rem -.5rem;
         flex-flow: column wrap;
         margin-top: 0;
+
+        &--inline {
+          flex-flow: row wrap;
+        }
     }
     .button-wrapper {
         padding: .5rem;
@@ -249,6 +253,14 @@ main.game {
         right: 1rem;
         width: 21rem;
         justify-content: flex-end;
+
+        &--inline {
+          position: relative;
+          top: inherit;
+          width: 100%;
+          right: inherit;
+          justify-content: inherit;
+        }
     }
     .social {
         display: flex;
