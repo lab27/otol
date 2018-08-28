@@ -28,23 +28,23 @@ main:
   - label: '1 Setzling - CHF 1.00'
     icon: sprout1
     code: DZE9PJBJY7V4L
-    class: cta-button
+    class: "cta-button gift"
   - label: '1 Baum - CHF 7.65'
-    icon: sprout2
+    icon: tree-small
     code: KZMMT5FAGTV2E
-    class: cta-button
+    class: "cta-button gift"
   - label: '5 Bäume - CHF 38.25'
-    icon: sprout3
+    icon: tree-medium
     code: UNQ2LMAAA8L4A
-    class: cta-button
+    class: "cta-button gift"
   - label: '10 Bäume - CHF 76.50'
-    icon: sprout3
+    icon: tree-large
     code: UNQ2LMAAA8L4A
-    class: cta-button
+    class: "cta-button gift"
   - label: 'beliebiger Betrag'
     icon: sprout3
     code: UNQ2LMAAA8L4A
-    class: cta-button
+    class: "cta-button gift"
   - label: 'Bäume verschenken*'
     icon: gift
     code: ZSFY59NSAL3NN
