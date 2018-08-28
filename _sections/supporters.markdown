@@ -5,6 +5,6 @@ title:  "Unterstützerinnen der One Tree One Life Kampagne"
 anchor: "unterstuezerinnen"
 ---
 {% for partner in site.data.partners %}
-- [{{partner.name}}]({{partner.link}})
+- [{{partner.name}}]({{partner.link}}){:target="_blank"}
 
 {% endfor %}
