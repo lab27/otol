@@ -17,8 +17,27 @@ function scatterLeaves() {
   }
 }
 
-window.addEventListener("resize", scatterLeaves);
-scatterLeaves()
+// checks to see if the window is tall enough to display the donate-group
+// if not, it inlines the donate-group
+function checkButtonPlacement() {
+  const windowHeight = window.innerHeight||e.clientHeight||g.clientHeight;
+  const donateGroupInlineClass = 'donate-group--inline'
+  const buttonGroup = document.querySelectorAll('.donate-group')[0]
+
+  if (windowHeight <= buttonGroup.clientHeight) {
+    buttonGroup.classList.add(donateGroupInlineClass)
+  } else {
+    buttonGroup.classList.remove(donateGroupInlineClass)
+  }
+}
+
+function adjustView() {
+  scatterLeaves()
+  checkButtonPlacement()
+}
+
+window.addEventListener("resize", adjustView);
+window.onload = adjustView
 
 // Accepts any class name
 var rellax = new Rellax('.rellax');
