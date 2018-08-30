@@ -1,51 +1,52 @@
+---
 nikin:
-  - label: '1 Baum - CHF 7.65'
-    code: NFHY9KTRNP3QU
-    icon: tree-small
-    class: "cta-button gift"
-  - label: '5 Bäume - CHF 38.25'
-    code: 55HAFKN58FARQ
-    icon: tree-medium
-    class: cta-button gift
-  - label: '10 Bäume - CHF 76.50'
-    code: SD5FQV77F4AQU
-    icon: tree-large
-    class: cta-button gift
-  - label: 'beliebiger Betrag'
-    code: T7WCHGP3FTHFQ
-    icon: sprout3
-    class: cta-button gift
-  - label: 'Bäume verschenken*'
-    code: TCE9469S63S4S
-    icon: gift-solid
-    class: cta-button gift
+- label: 1 Baum - CHF 7.65
+  code: NFHY9KTRNP3QU
+  icon: tree-small
+  class: cta-button gift
+- label: 5 Bäume - CHF 38.25
+  code: 55HAFKN58FARQ
+  icon: tree-medium
+  class: cta-button gift
+- label: 10 Bäume - CHF 76.50
+  code: SD5FQV77F4AQU
+  icon: tree-large
+  class: cta-button gift
+- label: beliebiger Betrag
+  code: T7WCHGP3FTHFQ
+  icon: sprout3
+  class: cta-button gift
+- label: Bäume verschenken*
+  code: TCE9469S63S4S
+  icon: gift-solid
+  class: cta-button gift
 kuratle:
-  - label: '1 Setzling - CHF 1.00'
-    icon: sprout1
-    code: DZE9PJBJY7V4L
-    class: cta-button
+- label: 1 Setzling - CHF 1.00
+  icon: sprout1
+  code: DZE9PJBJY7V4L
+  class: cta-button
 main:
-  - label: '1 Setzling - CHF 1.00'
-    icon: sprout1
-    code: DZE9PJBJY7V4L
-    class: cta-button
-  - label: '1 Baum - CHF 7.65'
-    icon: sprout2
-    code: KZMMT5FAGTV2E
-    class: cta-button
-  - label: '5 Bäume - CHF 38.25'
-    icon: sprout3
-    code: UNQ2LMAAA8L4A
-    class: cta-button
-  - label: '10 Bäume - CHF 76.50'
-    icon: sprout3
-    code: UNQ2LMAAA8L4A
-    class: cta-button
-  - label: 'beliebiger Betrag'
-    icon: sprout3
-    code: UNQ2LMAAA8L4A
-    class: cta-button
-  - label: 'Bäume verschenken*'
-    icon: gift
-    code: ZSFY59NSAL3NN
-    class: cta-button gift
+- label: 1 Setzling - CHF 1.00
+  icon: sprout1
+  code: 6YGTFXSRFXNHN
+  class: cta-button
+- label: 1 Baum - CHF 7.65
+  icon: sprout2
+  code: KZMMT5FAGTV2E
+  class: cta-button
+- label: 5 Bäume - CHF 38.25
+  icon: sprout3
+  code: UNQ2LMAAA8L4A
+  class: cta-button
+- label: 10 Bäume - CHF 76.50
+  icon: sprout3
+  code: UNQ2LMAAA8L4A
+  class: cta-button
+- label: beliebiger Betrag
+  icon: sprout3
+  code: UNQ2LMAAA8L4A
+  class: cta-button
+- label: Bäume verschenken*
+  icon: gift
+  code: ZSFY59NSAL3NN
+  class: cta-button gift
