@@ -35,9 +35,9 @@ main:
   code: 452F3APT45BC2
   class: cta-button gift
 - label: 5 Bäume - CHF 38.25
-  icon: sprout3
+  icon: tree-medium
   code: K4BNAVHHCHABW
-  class: cta-button
+  class: cta-button gift
 - label: 10 Bäume - CHF 76.50
   icon: sprout3
   code: 48HMCHMQFCK4J
