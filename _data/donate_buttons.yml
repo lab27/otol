@@ -29,7 +29,7 @@ main:
 - label: 1 Setzling - CHF 1.00
   icon: sprout1
   code: 6YGTFXSRFXNHN
-  class: cta-button
+  class: cta-button gift
 - label: 1 Baum - CHF 7.65
   icon: tree-small
   code: 452F3APT45BC2
