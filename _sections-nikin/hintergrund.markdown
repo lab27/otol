@@ -29,7 +29,7 @@ _Quelle: Björn Vaughn, BPI_
 
 1997 brannten 1.5 Millionen Hektare Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8 000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so die Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche so gross wie die halbe Schweiz loderten und schwelten 127 000 Feuer. Sie setzten 16 Millionen Tonnen C02 pro Tag frei - mehr als die gesamte USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und BOS erlebte einen massiven Zustrom an Orang-Utans in den Rettungsstationen.
 
-#### AUFFORSTUNG IN OST-KALIMANTAN
+### AUFFORSTUNG IN OST-KALIMANTAN
 
 Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari wurden 2015 Opfer der Flammen. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
 
