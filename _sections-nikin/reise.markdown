@@ -1,9 +1,10 @@
 ---
 order: 2
 include: sections/normal.html
-title: One Tree One Life Kampagne
+title: One-Tree-One-Life Kampagne
 anchor: kampagne-reise
 date: 2018-03-19 09:41:10 +0000
+
 ---
 Seit Dezember 2017 führt BOS Schweiz unter dem Titel One-Tree-One-Life eine Spendenkampagne durch. Ziel der Initiative ist es, möglichst viel Geld für die BOS-Aufforstungsprojekte in Ost- und in Zentral-Kalimantan zu sammeln. Ein Teil der Setzlinge wurde im Januar 2018 von Volontären aus der Schweiz eigenhändig in Samboja Lestari gepflanzt. Das soll erst der Anfang gewesen sein!
 
