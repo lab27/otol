@@ -5,7 +5,7 @@ anchor: intro
 date: 2018-08-13 13:08:13 +0000
 
 ---
-[NIKIN](https://en.nikin.ch/) und die [Borneo Orangutan Survival (BOS) Schweiz](https://bos-schweiz.ch) teilen ihre Liebe zu den Bäumen. Aus dieser
+[NIKIN](https://nikin.ch/) und die [Borneo Orangutan Survival (BOS) Schweiz](https://bos-schweiz.ch) teilen ihre Liebe zu den Bäumen. Aus dieser
 Gemeinsamkeit soll hier eine Partnerschaft und in Indonesien ein Regenwald erwachsen. Hilfst Du
 mit?
 
