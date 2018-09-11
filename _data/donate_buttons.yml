@@ -1,6 +1,6 @@
 ---
 nikin:
-- label: '1 Baum - CHF 7.65 '
+- label: '1 Baum - CHF 7.65* '
   code: RWAMJMGNSRNA8
   icon: tree-small
   class: cta-button gift
@@ -16,7 +16,7 @@ nikin:
   code: T7WCHGP3FTHFQ
   icon: sprout3
   class: cta-button gift
-- label: Bäume inkl. Pflege verschenken*
+- label: Bäume mit Urkunde verschenken
   code: TCE9469S63S4S
   icon: gift-solid
   class: cta-button gift
