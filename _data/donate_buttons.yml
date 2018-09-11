@@ -34,7 +34,7 @@ main:
   icon: tree-small
   code: 452F3APT45BC2
   class: cta-button gift
-- label: 5 Bäume - CHF 38.25
+- label: 5 Bäume - CHF 38.25 *
   icon: tree-medium
   code: K4BNAVHHCHABW
   class: cta-button gift
