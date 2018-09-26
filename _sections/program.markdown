@@ -14,4 +14,4 @@ Ende Oktober startet unsere zweite Volontärsgruppe von Zürich aus nach Borneo.
 
 ![](/uploads/2018/01/26/IMG-20180126-WA0059.jpg)... und auch diese beiden Wiederholungstäterinnen :)
 
-![](/uploads/2018/01/22/IMG-20180122-WA0006.jpg)Welche Aktivitäten wir vor- und nachbereitend zur Reise im Rahmen der gemeinsamen Spendenkampagne planen, besprechen wir aktuell gemeinsam mit den Volontären.
+![](/uploads/2018/01/22/IMG-20180122-WA0006.jpg)Welche Aktivitäten wir vor- und nachbereitend zur Reise im Rahmen der gemeinsamen Spendenkampagne planen, besprechen wir aktuell gemeinsam mit den Volontären. Fest steht aber, dass die Volontärinnen und Volontäre vor Ort nicht nur abgebrannte Regenwaldgebiete wieder aufforsten und einen Teil der hier gespendeten Setzlinge selbst pflanzen. Sie packen auch in anderen Bereichen der BOS-Rettungsstation mit an, z.B. bei der Renaturierung von Pre-Release-Inseln, beim Anfertigen von Enrichment-Tools für die Orang-Utans oder beim Bau der neuen Malaienbärenanlage. Mehr dazu in Kürze ...
