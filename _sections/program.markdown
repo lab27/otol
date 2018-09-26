@@ -6,7 +6,7 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**August 2018:**
+**August / September 2018:**
 
 **AM 29. OKTOBER GEHT ES LOS! UND VORHER GIBT'S NOCH VIEL ZU TUN...**
 
@@ -14,4 +14,4 @@ Ende Oktober startet unsere zweite Volontärsgruppe von Zürich aus nach Borneo.
 
 ![](/uploads/2018/01/26/IMG-20180126-WA0059.jpg)... und auch diese beiden Wiederholungstäterinnen :)
 
-![](/uploads/2018/01/22/IMG-20180122-WA0006.jpg)Welche Aktivitäten wir vor- und nachbereitend planen besprechen wir gemeinsam bei einem ersten Vorbereitungsstreffen am 1.9. im Orang-Utan-Häuschen in Zürich. Willkommen an Bord!
+![](/uploads/2018/01/22/IMG-20180122-WA0006.jpg)Welche Aktivitäten wir vor- und nachbereitend zur Reise im Rahmen der gemeinsamen Spendenkampagne planen, besprechen wir aktuell gemeinsam mit den Volontären.  
