@@ -1,7 +1,7 @@
 ---
 order: 5
 include: sections/normal.html
-title: 'NIKIN als Partner der One-Tree-One-Life Kampagne '
+title: 'NIKIN als Partner '
 anchor: nikin-partner
 date: 2018-03-19 09:41:10 +0000
 
