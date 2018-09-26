@@ -1,4 +1,8 @@
 ---
+- path: "/2018/09/26/Ilonka_Galliard.jpg"
+  width: '173'
+  height: '173'
+  preview: true
 - path: "/2018/09/26/Beate_Jarosch_gross.jpg"
   width: '419'
   height: '539'
@@ -46,7 +50,7 @@
 - path: "/2018/01/22/IMG-20180122-WA0042.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/22/IMG-20180122-WA0038.jpg"
   width: '800'
   height: '600'
