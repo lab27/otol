@@ -1,7 +1,7 @@
 ---
 order: 7
 include: sections/normal.html
-title: Unterstützerinnen der One-Tree-One-Life-Kampagne
+title: Unterstützerinnen
 anchor: unterstuezerinnen
 
 ---
