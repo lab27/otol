@@ -41,13 +41,23 @@
       sowie das Ausmass der Regenwaldzerstörung für das Anlegen von Palmölplantagen,
       berührte uns so sehr, dass wir letztes Jahr bereits an einer Volontärreise der
       BOS Schweiz teilnahmen.
-  motivation: 'Nach unserer ersten Volontärreise im Januar waren wir überwältigt von
-    den vielen Eindrücken. Uns wurde die Problematik mit der Regenwaldzerstörung bewusster
-    denn je, denn jetzt hatten wir sie mit eigenen Augen gesehen. Deswegen möchten
-    wir wieder vor Ort mit anpacken und die BOS-Mitarbeitenden dort weiter unterstützen.
-    Ausserdem unterstützten wir den Verein BOS Schweiz in Zürich. Auf die zweite Reise
-    mit Anschi freuen wir uns mega. Auch die riesigen Insekten und Schlangen vor Ort
-    können uns von dieser zweiten Reise nicht abhalten. '
+  motivation: |-
+    Nach meiner ersten Volontärreise im Januar war ich überwältigt von den vielen Eindrücken. Mir wurde die Problematik mit der Regenwaldzerstörung bewusster denn je. Deswegen möchte ich wieder vor Ort mit anpacken und die BOS-Mitarbeitenden dort weiter unterstützen. Ausserdem unterstützte ich den Verein BOS Schweiz in Zürich. Auf die zweite Reise mit Anschi freue ich mich mega! Auch die riesigen Insekten und Schlangen vor Ort können mich nicht abschrecken (Sahra).
+
+    Ich werde meine erste Reise in die BOS-Rettungsstationen und die Arbeit, die wir dort geleistet haben, nie vergessen. Das Leid der Orang-Utans ist real und betrifft uns alle. Deswegen bin ich bereit, nochmals hin zu fliegen, um mit vollem Einsatz aufzuforsten. Die Kampagne der BOS liegt mir am Herzen (Angela).
+- name: Vera Viel
+  image: "/uploads/2018/09/26/Vera_Viel.jpg"
+  details:
+  - title: Hobbys
+    info: Handwerken, Schrauben & Bauen, Harley fahren und Abenteuerreisen
+  - title: Was ich mag
+    info: Tattoos, Tiki, Custom Art Work & Tiere
+  - title: Was ich nicht mag
+    info: Unzuverlässige und oberflächliche Menschen
+  motivation: Zum einen will ich einen Beitrag leisten und die BOS unterstützen und
+    dabei meine handwerklichen Fähigkeiten einbringen. Zum anderen trete ich mit diesem
+    Volontariat eine besondere Reise an in ein Gebiet, das ich noch nie bereist habe.
+    Ich kann mir gut vorstellen, dass diese Erfahrung unvergesslich sein wird.
 - name: Ruedi Mögli
   image: ruedi_moegli.jpg
   details:
@@ -82,16 +92,3 @@
     Schweiz und die Projekte persönlich kennen zu lernen. Spannend finde ich, diese
     Erfahrung mit Gleichgesinnten zu machen, die alle einen ganz unterschiedlichen
     Hintergrund haben. Das ist eine super Chance, auch den eigenen Horizont zu erweitern.
-- name: Patrick Hilfiker
-  image: patrick_hilfiker.jpg
-  details:
-  - title: Hobbys
-    info: Handwerken, Schrauben & Bauen, Harley fahren und Abenteuerreisen
-  - title: Was ich mag
-    info: Tattoos, Tiki, Custom Art Work & Tiere
-  - title: Was ich nicht mag
-    info: Unzuverlässige und oberflächliche Menschen
-  motivation: Zum einen will ich einen Beitrag leisten und die BOS unterstützen und
-    dabei meine handwerklichen Fähigkeiten einbringen. Zum anderen trete ich mit diesem
-    Volontariat eine besondere Reise an in ein Gebiet, das ich noch nie bereist habe.
-    Ich kann mir gut vorstellen, dass diese Erfahrung unvergesslich sein wird.
