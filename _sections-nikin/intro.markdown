@@ -1,6 +1,6 @@
 ---
 order: 0
-title: Der beste Zeitpunkt einen Baum zu pflanzen ist ... genau jetzt!
+title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 anchor: intro
 date: 2018-08-13 13:08:13 +0000
 
