@@ -1,7 +1,7 @@
 ---
 order: 3
 include: sections/reverse.html
-title: Die Volontäre 2018
+title: Volontäre 2018
 anchor: die-voluntaere
 
 ---
