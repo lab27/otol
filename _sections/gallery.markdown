@@ -1,7 +1,7 @@
 ---
 order: 5
 include: sections/normal.html
-title: 'Bilder der letzten Volontärreise '
+title: Bilder
 anchor: bilder
 
 ---
