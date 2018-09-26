@@ -48,16 +48,13 @@
 - name: Vera Viel
   image: "/uploads/2018/09/26/Vera_Viel.jpg"
   details:
-  - title: Hobbys
-    info: Handwerken, Schrauben & Bauen, Harley fahren und Abenteuerreisen
   - title: Was ich mag
-    info: Tattoos, Tiki, Custom Art Work & Tiere
+    info: ''
   - title: Was ich nicht mag
     info: Unzuverlässige und oberflächliche Menschen
-  motivation: Zum einen will ich einen Beitrag leisten und die BOS unterstützen und
-    dabei meine handwerklichen Fähigkeiten einbringen. Zum anderen trete ich mit diesem
-    Volontariat eine besondere Reise an in ein Gebiet, das ich noch nie bereist habe.
-    Ich kann mir gut vorstellen, dass diese Erfahrung unvergesslich sein wird.
+  motivation: Den Regenwald und seine Bewohner zu schützen ist mein Kindheitstraum.
+    Ich freue mich endlich, mir diesen Traum zu erfüllen und mich zugleich sinnvoll
+    zu engagieren und vor Ort nützliche Arbeit zu leisten.
 - name: Ruedi Mögli
   image: ruedi_moegli.jpg
   details:
