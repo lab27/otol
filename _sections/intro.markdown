@@ -1,7 +1,7 @@
 ---
 order: 0
 include: sections/normal.html
-title: Der beste Zeitpunkt einen Baum zu pflanzen ist ... genau jetzt!
+title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 date: 2018-01-02 15:16:24 +0000
 anchor: intro
 
