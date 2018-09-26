@@ -1,15 +1,4 @@
 ---
-- name: Ilonka Galliard
-  image: ''
-  details:
-  - title: Beruflicher Hintergrund und Expertise
-    info: In das One-Tree-One-Life-Team bringe ich meine Erfahrung und mein Netzwerk
-      in den Bereichen Marketing / Creative Producing ein, genauso wie meine Leidenschaft
-      für Umweltthemen und den Tierschutz.
-  motivation: Ich freue mich sehr, dass meine tatkräftige Unterstützung dazu beiträgt,
-    dass die Orang-Utans in ihre natürliche Umgebung zurückkehren können. Ungeduldig
-    warte ich auf das Treffen mit ihnen. Ich hoffe auch stark, dass ich keine Schlangen
-    in meinem Bett treffe.
 - name: Roger Ryner
   image: "/uploads/2018/09/26/Roger_Ryner.jpeg"
   details:
@@ -95,3 +84,14 @@
     auf unseren Besuch in der zweiten BOS-Rettungsstation Nyaru Menteng, wo ich bisher
     noch nie war. Und dass ich wieder mit der australischen Partnerorganisation der
     BOS Schweiz vor Ort zusammen arbeiten kann. '
+- name: Ilonka Galliard
+  image: "/uploads/2018/09/26/Ilonka_Galliard.jpg"
+  details:
+  - title: Beruflicher Hintergrund und Expertise
+    info: In das One-Tree-One-Life-Team bringe ich meine Erfahrung und mein Netzwerk
+      in den Bereichen Marketing / Creative Producing ein, genauso wie meine Leidenschaft
+      für Umweltthemen und den Tierschutz.
+  motivation: Ich freue mich sehr, dass meine tatkräftige Unterstützung dazu beiträgt,
+    dass die Orang-Utans in ihre natürliche Umgebung zurückkehren können. Ungeduldig
+    warte ich auf das Treffen mit ihnen. Ich hoffe auch stark, dass ich keine Schlangen
+    in meinem Bett treffe.
