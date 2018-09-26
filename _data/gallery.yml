@@ -1,4 +1,8 @@
 ---
+- path: "/2018/09/26/Vera_Viel_klein.jpg"
+  width: '741'
+  height: '556'
+  preview: true
 - path: "/2018/09/26/Valerie_Bader_klein.jpg"
   width: '800'
   height: '739'
@@ -46,7 +50,7 @@
 - path: "/2018/01/19/IMG-20180117-WA0076.jpg"
   width: '800'
   height: '450'
-  preview: true
+  preview: false
 - path: "/2018/01/22/IMG-20180122-WA0012.jpg"
   width: '800'
   height: '533'
