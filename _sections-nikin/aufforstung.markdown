@@ -1,10 +1,10 @@
 ---
 order: 3
-title: Aufforstung – eine Wissenschaft für sich
+title: Was pflanzen wir?
 anchor: aufforstung
 date: 2018-08-13 13:08:13 +0000
----
 
+---
 Die Setzlinge werden auf BOS-eigenem oder auf BOS-verwaltetem Gebiet gepflanzt und/oder mit dem Einverständnis und der Hilfe der lokalen Bevölkerung auf ihrem Grund und Boden gesetzt. BOS achtet auf eine gute Mischung aus Nutzholz und Fruchtbäumen, aus schnell und langsam wachsenden Sorten. Schliesslich geht es um die Qualität des Waldes, der entstehen soll. Alle Setzlinge, die gepflanzt werden, sind einheimische und zum Teil bedrohte Sorten wie iron tree (Ulin), Shorea-Sorten (Meranti) oder der Kapur-Bäume. Natürlich sind auch verschiedene Fruchtbäume dabei, die den Orang-Utans als Nahrung dienen, z.B. Rambutan oder Durian.
 
 {:figure .image.right}
