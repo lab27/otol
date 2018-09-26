@@ -1,4 +1,8 @@
 ---
+- path: "/2018/09/26/Valerie_Bader_klein.jpg"
+  width: '800'
+  height: '739'
+  preview: true
 - path: "/2018/09/26/Roger_Ryner_klein.jpeg"
   width: '725'
   height: '565'
@@ -46,7 +50,7 @@
 - path: "/2018/01/22/IMG-20180122-WA0012.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2018/01/22/IMG-20180122-WA0008.jpg"
   width: '800'
   height: '533'
