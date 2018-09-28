@@ -1,4 +1,8 @@
 ---
+- path: "/2018/09/28/Raphael_Schnüriger.jpg"
+  width: '800'
+  height: '640'
+  preview: true
 - path: "/2018/09/26/Beate_Jarosch_quer_klein.JPG"
   width: '800'
   height: '439'
@@ -46,7 +50,7 @@
 - path: "/2018/01/19/IMG-20180119-WA0006.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2018/01/19/IMG-20180117-WA0062.jpg"
   width: '600'
   height: '800'
