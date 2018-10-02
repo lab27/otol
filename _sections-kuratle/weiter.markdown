@@ -4,6 +4,7 @@ include: sections/reverse.html
 title: One-Tree-One-Life-Kampagne
 anchor: weiter
 date: 2018-01-24 07:28:13 +0000
+
 ---
 Seit Dezember 2017 führt BOS Schweiz unter dem Titel One-Tree-One-Life eine Spendenkampagne durch. Ziel der Initiative ist es, möglichst viel Geld für die beiden Aufforstungsprojekte in Ost- und in Zentral-Kalimantan zu sammeln. Ein Teil der Setzlinge wird im Januar 2018 von BOS Volontären aus der Schweiz eigenhändig in Samboja Lestari gepflanzt.
 
@@ -25,3 +26,5 @@ Die Setzlinge werden auf BOS-eigenem oder auf BOS-verwaltetem Gebiet gepflanzt u
 ![](/uploads/2018/01/18/IMG-20180116-WA0044.jpg)
 
 Die Samen werden in der Regel lokal erworben und wenn möglich eigene Baumschulen aufgebaut, die die Setzlinge ziehen, die Bäume pflanzen und sich um deren Erhalt kümmern. Auch Brandschutzteams werden ausgebildet, um den Wald zu schützen. So entstehen wichtige Arbeitsplätze vor Ort. Insgesamt beschäftigt die BOS Stiftung über 400 Personen in Indonesien.
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="[https://view.genial.ly/5b27ea60e32b5270bc7e3255](https://view.genial.ly/5b27ea60e32b5270bc7e3255 "https://view.genial.ly/5b27ea60e32b5270bc7e3255")" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
