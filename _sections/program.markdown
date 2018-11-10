@@ -42,7 +42,7 @@ Manchmal wollen wir das gar nicht so genau wissen... Hier in der Schweiz erreich
 
 ![](/uploads/2018/11/10/IMG-20181104-WA0001.jpg)
 
-![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre, die die Quarantänezeit von 10 Tagen in Indonesien, 5 Tage in Borneo ja noch nicht hinter sich haben, zu sehen.
+![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre zu sehen, die am Anfang ihres Aufenthaltes sonst noch nicht in die Nähe der Tiere dürfen. Erst wenn die Quarantänezeit von 10 Tagen in Indonesien und 5 Tagen in Borneo vorbei ist, geht es Richtung Käfiganlagen... 
 
 ![](/uploads/2018/11/10/IMG-20181102-WA0007-1.jpg)Auf einer der Inseln befindet sich aktuell sogar eine Mutter mit ihrem Baby, das hier in Samboja Lestari - trotz aller Verhütungsversuche - geboren wurde. Im Gegensatz zu den Orang-Utan-Waisen in der Station, hat dieses Baby aber noch seine Mutter, von der er/sie alles lernen kann für die Wildnis. Wenn alles gut geht, werden sie gemeinsam ausgewildert werden.
 
