@@ -8,7 +8,9 @@ anchor: programm
 ---
 **9.11.2018: Bäume Bäume und nochmals Bäume...**
 
-![](/uploads/2018/11/10/IMG-20181109-WA0008.jpg)Bevor wir hier etwas ausführlicher über unsere Aufforstungsaktivitäten in Samboja Lestari berichten werden eine kurze Auflistung derjenigen Sorten, die wir genau an dieser Stelle pflanzen: Gepflanzt wird eine Mischung aus Nutzhölzern und Fruchtbäumen (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie schnell und langsam wachsende Sorten. Alle Setzlinge sind einheimische und oft bedrohte Sorten. Hier ein Überblick:
+Bevor wir hier etwas ausführlicher über unsere Aufforstungsaktivitäten in Samboja Lestari berichten, kommt hier eine kurze Auflistung derjenigen Sorten, die wir genau an dieser Stelle pflanzen:
+
+![](/uploads/2018/11/10/IMG-20181109-WA0008.jpg)Wir setzten eine gute Mischung aus Nutzhölzern und Fruchtbäumen (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie schnell und langsam wachsende Sorten. Alle Setzlinge sind einheimische und in der Regel bedrohte Sorten. Hier ein Überblick von Agus, dem Leiter der Rettungsstation:
 
 **Timber/wooden tree:**
 
@@ -26,13 +28,13 @@ anchor: programm
 
 2\. Durian: edible fruits; orangutan loves it
 
-3\. Local durian: a local and endangered species of durian from Borneo; orangutans eat it
+3\. Local Durian: a local and endangered species of Durian from Borneo; orangutans eat it
 
 4\. Langsat: local fruit; orangutans eat it
 
 5\. Rambai: local fruit; very sour taste; orangutans also eat it
 
-6\. Some more local fruit trees such as guava, jackfruit, breadfruit etc.![](/uploads/2018/11/10/IMG-20181109-WA0002.jpg)Die Setzlinge werden in der lokalen Baumschule gezogen oder lokal eingekauft. In der Regel werden sie natürlich von lokalen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken.
+6\. Some more local fruit trees such as guava, jackfruit, breadfruit etc.![](/uploads/2018/11/10/IMG-20181109-WA0002.jpg)Die Setzlinge werden in der lokalen Baumschule gezogen oder vor Ort eingekauft. In der Regel werden sie natürlich von einheimischen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken.
 
 ![](/uploads/2018/11/10/IMG-20181110-WA0002.jpg)**8.11.2018: was kreucht and fleucht denn da?**
 
