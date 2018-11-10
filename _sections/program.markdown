@@ -6,7 +6,7 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**9.11.2018: Bäume Bäume und nochmal Bäume...**
+**9.11.2018: Bäume Bäume und nochmals Bäume...**
 
 ![](/uploads/2018/11/10/IMG-20181109-WA0008.jpg)Bevor wir hier etwas ausführlicher über unsere Aufforstungsaktivitäten in Samboja Lestari berichten werden eine kurze Auflistung derjenigen Sorten, die wir genau an dieser Stelle pflanzen: Gepflanzt wird eine Mischung aus Nutzhölzern und Fruchtbäumen (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie schnell und langsam wachsende Sorten. Alle Setzlinge sind einheimische und oft bedrohte Sorten. Hier ein Überblick:
 
