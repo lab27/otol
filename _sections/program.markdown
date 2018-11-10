@@ -44,11 +44,11 @@ Manchmal wollen wir das gar nicht so genau wissen... Hier in der Schweiz erreich
 
 ![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre zu sehen, die am Anfang ihres Aufenthaltes sonst noch nicht in die Nähe der Tiere dürfen. Erst wenn die Quarantänezeit von 10 Tagen in Indonesien und 5 Tagen in Borneo vorbei ist, geht es Richtung Käfiganlagen... 
 
-![](/uploads/2018/11/10/IMG-20181102-WA0007-1.jpg)Auf einer der Inseln befindet sich aktuell sogar eine Mutter mit ihrem Baby, das hier in Samboja Lestari - trotz aller Verhütungsversuche - geboren wurde. Im Gegensatz zu den Orang-Utan-Waisen in der Station, hat dieses Baby aber noch seine Mutter, von der er/sie alles lernen kann für die Wildnis. Wenn alles gut geht, werden sie gemeinsam ausgewildert werden.
+![](/uploads/2018/11/10/IMG-20181102-WA0007-1.jpg)Auf einer der Inseln befindet sich aktuell sogar eine Mutter mit ihrem Baby, das hier in Samboja Lestari - trotz aller Verhütungsversuche - geboren wurde. Im Gegensatz zu den Orang-Utan-Waisen in der Station, hat dieses Baby aber noch seine Mutter, von der er/sie alles lernen kann für die Wildnis. 
 
 ![](/uploads/2018/11/10/IMG-20181102-WA0002.jpg)Die Quarantänezeit überbrücken können die Volontäre ausserdem damit, bei den Malaienbären zu arbeiten oder eben aufzuforsten.
 
-**4.11.2018: Ein Tag in der Stadt Balikpapan – Valerie Bader**
+![](/uploads/2018/11/10/IMG-20181103-WA0011.jpg)**4.11.2018: Ein Tag in der Stadt Balikpapan – Valerie Bader**
 
 An unserem ersten echten „day off“ ging es für indonesische Verhältnisse sehr pünktlich um halb 9 Uhr morgens mit dem Bus los nach Balikpapan. Für unsere Arbeit in den nächsten Wochen brauchten wir nämlich noch einiges an Material zum Basteln von Beschäftigungsmöglichkeiten für die Malaienbären und Orang-Utans. Ausschlafen lag für uns 8 Volontäre und unsere indonesischen Freunde Bari und Eyman also nicht drin. Eineinhalb Stunden ging es zuerst über holprigen Strassen, auf welchen erstaunlich wenig los war. Alle Achtung vor den indonesischen off-road-Autos, gegen die unsere Schweizer 4x4 gar nichts sind. Als wir uns der Stadt annäherten, nahm der Verkehr proportional zu. Wir befanden uns  voll in der indonesischen rush hour. Motorräder zischten von allen Seiten um uns herum und wir bewunderten jeden, der sich bei diesem Gewusel noch mit Todesmut über den Zebrastreifen traute. Wir ‚Bules’ (=Ausländer) trauten uns das nämlich nur mit Baris Hilfe und selbst dann nur nach dem Motto „Augen zu und durch“.![](/uploads/2018/11/10/IMG-20181104-WA0006.jpg)Nachdem wir Macheten, Schaufeln, Erdnussbutter und Wasser gekauft hatten (und natürlich auch ein paar lustige, essbare Kleinigkeiten für unsere Freunde zuhause in der Schweiz), besuchten wir eine Mall in Balikpapan. Ich hatte das Gefühl, in einem westlichen Land zu sein. Der Boden war blitzblank und die Früchte im Supermarkt sogar hübscher geordnet als bei uns im Globus.
 
@@ -58,11 +58,11 @@ Wir hielten am Strassenrand während der nachmittags rush hour an und gelangten 
 
 ![](/uploads/2018/11/10/IMG-20181104-WA0005.jpg)**1.11.2018 Abschied - Sophia Benz**
 
-Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nach Zürich. Im Abschluss an das alljährliche BOS Partners Meeting hatte ich mir noch kurz Zeit genommen, unsere BOS Schweiz Volontäre in Samboja Lestari zur begrüssen. Gemeinsam machten wir eine Tages Tour übers Gelände, klären erste Fragen und drehte erste Videi Sequenzen mit Björn, der vor Ort nicht nur die BOS Schweiz Projekte, sondern auch das Voilontariatsprogramm dokumentieren soll.
+Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nach Zürich. Im Anschluss an das alljährliche BOS Partners Meeting hatte ich mir noch kurz Zeit genommen, unsere BOS Schweiz Volontäre in Samboja Lestari zur begrüssen. Gemeinsam machten wir eine Tages-Tour übers Gelände, klären erste Fragen und drehte erste Video-Sequenzen mit Björn, der vor Ort nicht nur die BOS Schweiz Projekte, sondern auch das Voilontariatsprogramm dokumentieren soll.
 
-![](/uploads/2018/11/10/IMG-20181105-WA0021.jpg)Die beiden Angelas und Sahra wurden überschwenglich von alten Bekannten begrüsst, alle erfuhren, was es mit dem Enrichment auf sich hat, wir besichtigen das BOS Büro, blickten von der Terasse über den aufgeforsteten Regenwald und besichtigen die Stelle, wo unsere OTOL Volontäre aufforsten werden.
+![](/uploads/2018/11/10/IMG-20181105-WA0021.jpg)Die beiden Angelas und Sahra wurden überschwenglich von alten Bekannten begrüsst, alle erfuhren, was es mit dem Enrichment auf sich hat, wir besichtigten das BOS Büro, blickten von der Terasse über den aufgeforsteten Regenwald und besichtigen die Stelle, wo unsere OTOL Volontäre aufforsten werden.
 
-![](/uploads/2018/11/10/IMG-20181102-WA0014.jpg)Den ersten Arbeitseinsatz leisteten unsere Volontäre bei den Bären und bauten eine wunderbare Fütterungsplatform in einem der alten Aussengehege. Nur wer die bedingugen kennt weiss, wieviele Schweisstropfen dabei geflossen sein müssen... alle Achtung und liebe Grüsse zurück an euch aus der Schweiz!
+![](/uploads/2018/11/10/IMG-20181102-WA0014.jpg)Den ersten Arbeitseinsatz leisteten unsere Volontäre bei den Bären und bauten eine wunderbare Fütterungsplatform in einem der alten Aussengehege. Nur wer die erschwerten klimatischen Bedingugen kennt, weiss, wie viele Schweisstropfen dabei geflossen sein müssen... alle Achtung und liebe Grüsse zurück an euch aus der Schweiz!
 
 ![](/uploads/2018/11/10/IMG-20181105-WA0048.jpg)**29.10.2018 Erste Eindrücke - Vera Viel**
 
