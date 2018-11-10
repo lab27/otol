@@ -38,7 +38,9 @@ Bevor wir hier etwas ausführlicher über unsere Aufforstungsaktivitäten in Sam
 
 ![](/uploads/2018/11/10/IMG-20181110-WA0002.jpg)**8.11.2018: was kreucht and fleucht denn da?**
 
-Manchmal wollen wir das gar nicht so genau wissen... Uns erreichen Bilder von Skorpionen und Baumschlangen, wunderschönen Schmetterlingen und Geckos.![](/uploads/2018/11/10/IMG-20181104-WA0001.jpg)
+Manchmal wollen wir das gar nicht so genau wissen... Hier in der Schweiz erreichen uns jedenfalls regelmässig Bilder von Skorpionen und Baumschlangen, wunderschönen Schmetterlingen und harmlosen (aber lauten) Geckos.
+
+![](/uploads/2018/11/10/IMG-20181104-WA0001.jpg)
 
 ![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre, die die Quarantänezeit von 10 Tagen in Indonesien, 5 Tage in Borneo ja noch nicht hinter sich haben, zu sehen.
 
