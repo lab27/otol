@@ -14,19 +14,19 @@ Um für die Orang-Utans in der Rettungsstation für Unterhaltung und Training zu
 
 ![](/uploads/2018/11/11/IMG-20181105-WA0014.jpg)Den Bambus sägten wir in kleinere Stücke, die wir mit Leckereien (wie Erdnüsse, Kerne und Rosinen) befüllten. Diese werden zusammen mit einer frisch gekochten klebrigen Paste aus Kartoffeln, Kürbis oder Kasava an die Innenseite der Bambusrohre gestrichen. 
 
-![](/uploads/2018/11/11/IMG-20181105-WA0020.jpg)Die Orang-Utans müssen all ihre Geschicklichkeit unter Beweis stellen, um als Belohnung an die Leckereien zu kommen. Das Fördert ihre motorischen Fähigkeiten, hält vor allem diejenigen Tiere, die in den Käfigen gehalten werden müssen, bei Laune und sorgt für Abwechslung in der Ernährung!
+![](/uploads/2018/11/11/IMG-20181105-WA0020.jpg)Die Orang-Utans müssen all ihre Geschicklichkeit unter Beweis stellen, um als Belohnung an die Leckereien zu kommen. Das fördert ihre motorischen Fähigkeiten, hält vor allem diejenigen Tiere, die in den Käfigen gehalten werden müssen, bei Laune und sorgt für Abwechslung in der Ernährung!
 
 Fast schon kustvoll sehen auch diese Guetzli aus: 
 
-![](/uploads/2018/11/11/IMG-20181111-WA0013.jpg)Bei diesem Anblick überkommen uns beinahe Weihnachtsgefühle - wären da nicht die knapp 35 Grad Celsius bei gefühlten 100% Luftfeuchtigkeit ...
+![](/uploads/2018/11/11/IMG-20181111-WA0013.jpg)Bei ihrem Anblick überkommen uns beinahe Weihnachtsgefühle - wären da nicht die knapp 32 Grad Celsius bei gefühlten 100% Luftfeuchtigkeit...
 
-![](/uploads/2018/11/11/IMG-20181111-WA0016.jpg)Ebenfalls beliebt bei den Orangutans sind Samen oder Nüsse, die die Volontäre in alten Zeitungen oder Illustrierten verstecken. Jeschwieriger es ist und je länger es für die Tiere dauert, an die Leckerbissen zu kommen, umso besser.
+![](/uploads/2018/11/11/IMG-20181111-WA0016.jpg)Ebenfalls beliebt bei den Orang-Utans sind Samen oder Nüsse, die die Volontäre in alten Zeitungen oder Illustrierten verstecken. Je schwieriger es ist und je länger es für die Tiere dauert, an die Leckerbissen zu kommen, umso besser.
 
 ![](/uploads/2018/11/11/20181025_094355.jpg)Auch für die Maialienbären werden ähnliche Enrichtments angefertigt, die im Anschluss von uns verfüttert werden dürfen. Die Tiere dabei zu beobachten, wie sie sich an den Enrichments zu schaffen machen, ist der Lohn für all unsere Mühen!
 
 ![](/uploads/2018/11/11/IMG-20181103-WA0008.jpg)Für Abwechslung im Käfig-Alltag der Bären und Orang-Utans oder auf den Pre-Release Inseln sorgen ausserdem Hängematten, die wir aus Gummischläuchen oder alten Feuerwehrschläuchen anfertigen. 
 
-![](/uploads/2018/11/11/IMG-20181105-WA0026 (1).jpg)Selbst ist die Frau, wenn es schliesslich ums Anbringen der Materialien im Bärengehege geht. 
+![](/uploads/2018/11/11/IMG-20181105-WA0026 (1).jpg)Selbst ist die Frau, wenn es schliesslich ums Anbringen der Materialien im Bärengehege geht. Möge die Hängematte von langer Dauer sein und nicht sofort wieder in ihre Einzelteile zerlegt werden :)
 
 ![](/uploads/2018/11/11/IMG-20181105-WA0038.jpg)**10.11.2018: Pflanzen: Meine Emotionen - Vera Viel**
 
