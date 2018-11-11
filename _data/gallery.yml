@@ -203,10 +203,6 @@
   width: '800'
   height: '533'
   preview: false
-- path: "/2018/01/15/IMG-20180115-WA0008.jpg"
-  width: '800'
-  height: '448'
-  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0056.jpg"
   width: '800'
   height: '600'
@@ -242,8 +238,4 @@
 - path: "/2018/01/22/IMG-20180122-WA0006.jpg"
   width: '800'
   height: '533'
-  preview: false
-- path: "/2018/01/22/IMG-20180122-WA0038.jpg"
-  width: '800'
-  height: '600'
   preview: false
