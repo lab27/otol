@@ -6,7 +6,35 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**9.11.2018: Bäume Bäume und nochmals Bäume...**
+**11.11.2018: Bambus-Enrichments für die Orang-Utans - Sahra Schnüriger**
+
+Um für die Orang-Utans in der Rettungsstation für Unterhaltung und Training zu sorgen, werden Enrichments (Beschäftigungsmöglichkeiten) gebastelt. Wir Volontäre dürfen die indonesischen Pfleger dabei tatkräftig unterstützen. 
+
+![](/uploads/2018/11/11/IMG-20181105-WA0016.jpg)Eines dieser Enrichments haben wir heute gemacht. Dazu begaben wir uns zunächst in den nahegelegen Wald, um Bambus zu holen. Hier war voller Körpereinsatz mit der Machete gefragt, um die meterhohen Bambusrohre abzuschneiden. 
+
+![](/uploads/2018/11/11/IMG-20181105-WA0014.jpg)Den Bambus sägten wir in kleinere Stücke, die wir mit Leckereien (wie Erdnüsse, Kerne und Rosinen) befüllten. Diese werden zusammen mit einer frisch gekochten klebrigen Paste aus Kartoffeln, Kürbis oder Kasava an die Innenseite der Bambusrohre gestrichen. 
+
+![](/uploads/2018/11/11/IMG-20181105-WA0020.jpg)Die Orang-Utans müssen all ihre Geschicklichkeit unter Beweis stellen, um als Belohnung an die Leckereien zu kommen. Das Fördert ihre motorischen Fähigkeiten, hält vor allem diejenigen Tiere, die in den Käfigen gehalten werden müssen, bei Laune und sorgt für Abwechslung in der Ernährung!
+
+Fast schon kustvoll sehen auch diese Guetzli aus: 
+
+![](/uploads/2018/11/11/IMG-20181111-WA0013.jpg)Bei diesem Anblick überkommen uns beinahe Weihnachtsgefühle - wären da nicht die knapp 35 Grad Celsius bei gefühlten 100% Luftfeuchtigkeit ...
+
+![](/uploads/2018/11/11/IMG-20181111-WA0016.jpg)Ebenfalls beliebt bei den Orangutans sind Samen oder Nüsse, die die Volontäre in alten Zeitungen oder Illustrierten verstecken. Jeschwieriger es ist und je länger es für die Tiere dauert, an die Leckerbissen zu kommen, umso besser.
+
+![](/uploads/2018/11/11/20181025_094355.jpg)Auch für die Maialienbären werden ähnliche Enrichtments angefertigt, die im Anschluss von uns verfüttert werden dürfen. Die Tiere dabei zu beobachten, wie sie sich an den Enrichments zu schaffen machen, ist der Lohn für all unsere Mühen!
+
+![](/uploads/2018/11/11/IMG-20181103-WA0008.jpg)Für Abwechslung im Käfig-Alltag der Bären und Orang-Utans oder auf den Pre-Release Inseln sorgen ausserdem Hängematten, die wir aus Gummischläuchen oder alten Feuerwehrschläuchen anfertigen. 
+
+![](/uploads/2018/11/11/IMG-20181105-WA0026 (1).jpg)Selbst ist die Frau, wenn es schliesslich ums Anbringen der Materialien im Bärengehege geht. 
+
+![](/uploads/2018/11/11/IMG-20181105-WA0038.jpg)**10.11.2018: Pflanzen: Meine Emotionen - Vera Viel**
+
+Ich habe gehackt, geschwitzt und stehe nun vor diesem Loch in der orange-bräunlichen Erde. Endlich ist er da - dieser eine Moment, für den ich gekommen bin. Ein Bäumchen zu pflanzen... ein Bäumchen, das zu einem riesigen Baum werden soll. Ein Baum, der für die Zukunft von uns allen steht. Den Menschen, den Orang-Utans, den übrigen Bewohnern dieses bedrohten Regenwaldes. 
+
+![](/uploads/2018/11/11/IMG-20181109-WA0004.jpg)Ich fühle mich unglaublich glücklich - pflanzen für das Fortbestehen von uns allen! Dafür, dass die Hoffnung nie stirbt, dafür, dass wir vielleicht doch noch aufwachen und erkennen: Es gibt nichts Wichtigeres, als das alles zu behüten! 
+
+![](/uploads/2018/11/11/IMG-20181109-WA0015.jpg)**9.11.2018: Bäume Bäume und nochmals Bäume...**
 
 Bevor wir hier etwas ausführlicher über unsere Aufforstungsaktivitäten in Samboja Lestari berichten, kommt hier eine kurze Auflistung derjenigen Sorten, die wir genau an dieser Stelle pflanzen:
 
@@ -42,9 +70,9 @@ Manchmal wollen wir das gar nicht so genau wissen... Hier in der Schweiz erreich
 
 ![](/uploads/2018/11/10/IMG-20181104-WA0001.jpg)
 
-![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre zu sehen, die am Anfang ihres Aufenthaltes sonst noch nicht in die Nähe der Tiere dürfen. Erst wenn die Quarantänezeit von 10 Tagen in Indonesien und 5 Tagen in Borneo vorbei ist, geht es Richtung Käfiganlagen... 
+![](/uploads/2018/11/10/IMG-20181106-WA0000.jpg)Die absoluten Highlights sind aber die (nicht auswilderbaren) Orang-Utans auf den alten Pre-Release Inseln. Sie sind über den Wassergraben hinweg auch für unsere Volontäre zu sehen, die am Anfang ihres Aufenthaltes sonst noch nicht in die Nähe der Tiere dürfen. Erst wenn die Quarantänezeit von 10 Tagen in Indonesien und 5 Tagen in Borneo vorbei ist, geht es Richtung Käfiganlagen...
 
-![](/uploads/2018/11/10/IMG-20181102-WA0007-1.jpg)Auf einer der Inseln befindet sich aktuell sogar eine Mutter mit ihrem Baby, das hier in Samboja Lestari - trotz aller Verhütungsversuche - geboren wurde. Im Gegensatz zu den Orang-Utan-Waisen in der Station, hat dieses Baby aber noch seine Mutter, von der er/sie alles lernen kann für die Wildnis. 
+![](/uploads/2018/11/10/IMG-20181102-WA0007-1.jpg)Auf einer der Inseln befindet sich aktuell sogar eine Mutter mit ihrem Baby, das hier in Samboja Lestari - trotz aller Verhütungsversuche - geboren wurde. Im Gegensatz zu den Orang-Utan-Waisen in der Station, hat dieses Baby aber noch seine Mutter, von der er/sie alles lernen kann für die Wildnis.
 
 ![](/uploads/2018/11/10/IMG-20181102-WA0002.jpg)Die Quarantänezeit überbrücken können die Volontäre ausserdem damit, bei den Malaienbären zu arbeiten oder eben aufzuforsten.
 
@@ -66,7 +94,7 @@ Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nac
 
 ![](/uploads/2018/11/10/IMG-20181105-WA0048.jpg)**29.10.2018 Erste Eindrücke - Vera Viel**
 
-Ankunft in Balikpapan nach einem Flug, der erstaunlich gut über die Bühne gegangen ist. Woah!! Diese Wärme und Luftfeuchtigkeit! So intensiv hab ich mir das nicht vorgestellt. Aber was mich völlig aus den Socken gehauen hat, kam erst auf der Weiterfahrt nach Samboja Lestari: Abgas geschwängerte Luft, wie ich sie noch nie geatmet habe! Unglaublich, dass in dieser Luft Leben stattfinden kann. Dann ein echtes Aufatmen, als wir von der Hauptstrasse abbogen auf eine holperige Nebenstrasse, die das Wort „Strasse“ jedoch kaum verdient. Diese führt allerdings durch ein Regenwaldgebiet was wunderschön anzusehen ist. 
+Ankunft in Balikpapan nach einem Flug, der erstaunlich gut über die Bühne gegangen ist. Woah!! Diese Wärme und Luftfeuchtigkeit! So intensiv hab ich mir das nicht vorgestellt. Aber was mich völlig aus den Socken gehauen hat, kam erst auf der Weiterfahrt nach Samboja Lestari: Abgas geschwängerte Luft, wie ich sie noch nie geatmet habe! Unglaublich, dass in dieser Luft Leben stattfinden kann. Dann ein echtes Aufatmen, als wir von der Hauptstrasse abbogen auf eine holperige Nebenstrasse, die das Wort „Strasse“ jedoch kaum verdient. Diese führt allerdings durch ein Regenwaldgebiet was wunderschön anzusehen ist.
 
 ![](/uploads/2018/11/10/20181024_175710-1.jpg)Dieses intensive Grün, die Vielfalt der tropischen Pflanzen- ich habe es sofort geliebt und wusste augenblicklich, dass es richtig, das einzige Vernünftige ist,  sich für diesen Wald und seine Bewohner einzusetzen. Ich lebe zwar quasi am anderen Ende dieser Erde und doch brauche ich diesen Wald, diese Wälder, damit ich mein Leben in gewohnter Form weiterführen kann.
 
