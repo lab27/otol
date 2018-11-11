@@ -10,6 +10,7 @@ find uploads -type f > $TMP_IDX
 # exit early if uptodate
 cmp $TMP_IDX uploads.idx >/dev/null && exit 0
 
+echo 'find new'
 diff --old-line-format="" \
      --unchanged-line-format="" \
      uploads.idx $TMP_IDX | \
