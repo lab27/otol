@@ -1,0 +1,10 @@
+echo
+echo 'bundle exec jekyll serve'
+echo
+echo 'Rebuild gallery (delete images removed from uploads)'
+echo
+echo '  rm uploads.idx'
+echo '  touch uploads.idx'
+echo '  rm -rf gallery'
+echo '  ./process_all.sh'
+echo
