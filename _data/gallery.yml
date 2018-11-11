@@ -15,10 +15,6 @@
   width: '533'
   height: '800'
   preview: true
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0070.jpg"
-  width: '800'
-  height: '600'
-  preview: true
 - path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0075.jpg"
   width: '800'
   height: '533'
@@ -50,7 +46,7 @@
 - path: "/2018/09/26/Ilonka_Galliard.jpg"
   width: '173'
   height: '173'
-  preview: false
+  preview: true
 - path: "/2018/09/26/Beate_Jarosch_quer_klein.JPG"
   width: '800'
   height: '439'
@@ -222,10 +218,6 @@
 - path: "/2018/01/26/IMG-20180126-WA0059.jpg"
   width: '800'
   height: '600'
-  preview: false
-- path: "/2018/01/26/IMG-20180124-WA0064 (1).jpg"
-  width: '533'
-  height: '800'
   preview: false
 - path: "/2018/01/26/IMG-20180125-WA0006.jpg"
   width: '600'
