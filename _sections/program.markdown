@@ -1,6 +1,6 @@
 ---
 order: 3
-include: sections/reverse.html
+include: sections/alternate.html
 title: Programm 2018
 date: 2018-01-02 15:16:24 +0000
 anchor: programm
