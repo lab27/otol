@@ -1,6 +1,6 @@
 ---
 order: 5
-include: sections/normal.html
+include: sections/reverse.html
 title: Bilder
 anchor: bilder
 

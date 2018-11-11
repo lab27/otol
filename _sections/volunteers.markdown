@@ -1,6 +1,6 @@
 ---
 order: 4
-include: sections/reverse.html
+include: sections/normal.html
 title: Volontäre 2018
 anchor: die-voluntaere
 

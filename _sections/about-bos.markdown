@@ -1,6 +1,6 @@
 ---
 order: 6
-include: sections/alternate.html
+include: sections/normal.html
 title: Trägerorganisation
 anchor: die-traegerorganisation
 
