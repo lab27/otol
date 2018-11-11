@@ -1,69 +1,53 @@
 ---
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0039.jpg"
+- path: "/2018/09/26/Beate_Jarosch_quer_klein.JPG"
   width: '800'
-  height: '533'
-  preview: true
-- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0078.jpg"
-  width: '800'
-  height: '700'
-  preview: true
-- path: "/2018/09/28/Raphael_Schnüriger.jpg"
-  width: '800'
-  height: '640'
-  preview: true
-- path: "/2018/09/28/Seilpark Spinnennetz.jpg"
-  width: '800'
-  height: '533'
-  preview: true
-- path: "/2018/09/26/Roger_Ryner_klein.jpeg"
-  width: '725'
-  height: '565'
+  height: '439'
   preview: true
 - path: "/2018/09/26/Valerie_Bader_klein.jpg"
   width: '800'
   height: '739'
   preview: true
-- path: "/2018/09/26/Ilonka_Galliard.jpg"
-  width: '173'
-  height: '173'
-  preview: true
-- path: "/2018/09/26/Beate_Jarosch_quer_klein.JPG"
-  width: '800'
-  height: '439'
-  preview: true
 - path: "/2018/09/26/Angela_Sahra_Schnüriger.jpg"
   width: '800'
   height: '599'
   preview: true
-- path: "/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg"
-  width: '800'
-  height: '531'
-  preview: true
-- path: "/2018/02/05/6 Mei - Napri by Indrayana.JPG"
+- path: "/2018/09/28/Seilpark Spinnennetz.jpg"
   width: '800'
   height: '533'
   preview: true
-- path: "/2018/11/08/Ilonka.jpeg"
+- path: "/2018/09/28/Raphael_Schnüriger.jpg"
   width: '800'
-  height: '546'
+  height: '640'
   preview: true
-- path: "/2018/11/11/IMG-20181105-WA0040.jpg"
+- path: "/2018/01/22/IMG-20180122-WA0006.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/18/IMG-20180116-WA0044.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2018/01/24/16.JPG"
   width: '800'
   height: '600'
-  preview: false
+  preview: true
+- path: "/2018/01/26/IMG-20180126-WA0056.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/26/IMG-20180125-WA0006.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2018/01/26/IMG-20180126-WA0059.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2018/01/27/IMG-20180127-WA0009.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2018/11/11/IMG-20181109-WA0004.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/11/11/IMG-20181110-WA0003.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/11/11/IMG-20181109-WA0015.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2018/11/11/IMG-20181102-WA0001.jpg"
   width: '800'
   height: '533'
   preview: false
@@ -71,13 +55,105 @@
   width: '800'
   height: '533'
   preview: false
-- path: "/2018/11/11/IMG-20181105-WA0020.jpg"
-  width: '533'
-  height: '800'
+- path: "/2018/11/11/IMG-20181102-WA0001.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/11/IMG-20181110-WA0003.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/11/IMG-20181105-WA0016.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/11/IMG-20181105-WA0040.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/11/11/IMG-20181109-WA0015.jpg"
+  width: '800'
+  height: '600'
   preview: false
 - path: "/2018/11/11/IMG-20181111-WA0013.jpg"
   width: '800'
   height: '533'
+  preview: false
+- path: "/2018/11/11/IMG-20181105-WA0020.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/2018/11/08/Ilonka.jpeg"
+  width: '800'
+  height: '546'
+  preview: false
+- path: "/2018/11/10/IMG-20181104-WA0001.jpg"
+  width: '800'
+  height: '565'
+  preview: false
+- path: "/2018/11/10/20181024_175710-1.jpg"
+  width: '800'
+  height: '450'
+  preview: false
+- path: "/2018/11/10/IMG-20181105-WA0048.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/10/IMG-20181103-WA0011.jpg"
+  width: '800'
+  height: '565'
+  preview: false
+- path: "/2018/11/10/IMG-20181102-WA0002.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/10/IMG-20181104-WA0003.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/10/IMG-20181104-WA0005.jpg"
+  width: '800'
+  height: '552'
+  preview: false
+- path: "/2018/11/10/IMG-20181109-WA0007.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/10/IMG-20181104-WA0004.jpg"
+  width: '800'
+  height: '552'
+  preview: false
+- path: "/2018/11/10/20181024_175710.jpg"
+  width: '800'
+  height: '450'
+  preview: false
+- path: "/2018/11/10/IMG-20181109-WA0008.jpg"
+  width: '800'
+  height: '497'
+  preview: false
+- path: "/2018/11/10/IMG-20181104-WA0008.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/02/05/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella.jpg"
+  width: '800'
+  height: '531'
+  preview: false
+- path: "/2018/02/05/6 Mei - Napri by Indrayana.JPG"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180116-WA0078.jpg"
+  width: '800'
+  height: '700'
+  preview: false
+- path: "/OTOL Bilder von der Reise Selektion/IMG-20180117-WA0039.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/09/26/Roger_Ryner_klein.jpeg"
+  width: '725'
+  height: '565'
   preview: false
 - path: "/2018/11/11/IMG-20181103-WA0008.jpg"
   width: '600'
@@ -86,10 +162,6 @@
 - path: "/2018/11/11/IMG-20181105-WA0038.jpg"
   width: '600'
   height: '800'
-  preview: false
-- path: "/2018/11/11/IMG-20181105-WA0016.jpg"
-  width: '800'
-  height: '533'
   preview: false
 - path: "/2018/11/11/IMG-20181105-WA0026 (1).jpg"
   width: '800'
@@ -103,10 +175,6 @@
   width: '800'
   height: '450'
   preview: false
-- path: "/2018/11/10/IMG-20181103-WA0011.jpg"
-  width: '800'
-  height: '565'
-  preview: false
 - path: "/2018/11/10/IMG-20181102-WA0007-1.jpg"
   width: '800'
   height: '533'
@@ -114,10 +182,6 @@
 - path: "/2018/11/10/IMG-20181104-WA0006.jpg"
   width: '800'
   height: '552'
-  preview: false
-- path: "/2018/11/10/IMG-20181104-WA0003.jpg"
-  width: '800'
-  height: '533'
   preview: false
 - path: "/2018/11/10/IMG-20181102-WA0003.jpg"
   width: '800'
@@ -135,31 +199,7 @@
   width: '800'
   height: '599'
   preview: false
-- path: "/2018/11/10/20181024_175710-1.jpg"
-  width: '800'
-  height: '450'
-  preview: false
 - path: "/2018/11/10/IMG-20181109-WA0002.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/11/10/IMG-20181104-WA0005.jpg"
-  width: '800'
-  height: '552'
-  preview: false
-- path: "/2018/11/10/IMG-20181104-WA0008.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/11/10/IMG-20181109-WA0007.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/11/10/20181024_175710.jpg"
-  width: '800'
-  height: '450'
-  preview: false
-- path: "/2018/11/10/IMG-20181105-WA0048.jpg"
   width: '800'
   height: '533'
   preview: false
@@ -167,51 +207,11 @@
   width: '800'
   height: '566'
   preview: false
-- path: "/2018/11/10/IMG-20181109-WA0008.jpg"
-  width: '800'
-  height: '497'
-  preview: false
-- path: "/2018/11/10/IMG-20181102-WA0002.jpg"
-  width: '800'
-  height: '533'
-  preview: false
 - path: "/2018/11/10/IMG-20181102-WA0014.jpg"
   width: '600'
   height: '800'
   preview: false
-- path: "/2018/11/10/IMG-20181104-WA0001.jpg"
-  width: '800'
-  height: '565'
-  preview: false
-- path: "/2018/11/10/IMG-20181104-WA0004.jpg"
-  width: '800'
-  height: '552'
-  preview: false
-- path: "/2018/01/27/IMG-20180127-WA0009.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/01/26/IMG-20180126-WA0056.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2018/01/26/IMG-20180126-WA0059.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2018/01/26/IMG-20180125-WA0006.jpg"
-  width: '600'
-  height: '800'
-  preview: false
-- path: "/2018/01/24/16.JPG"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2018/01/18/IMG-20180116-WA0044.jpg"
-  width: '800'
-  height: '533'
-  preview: false
-- path: "/2018/01/22/IMG-20180122-WA0006.jpg"
-  width: '800'
-  height: '533'
+- path: "/2018/09/26/Ilonka_Galliard.jpg"
+  width: '173'
+  height: '173'
   preview: false
