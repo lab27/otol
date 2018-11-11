@@ -1,6 +1,6 @@
 ---
 order: 7
-include: sections/alternate.html
+include: sections/reverse.html
 title: Unterstützerinnen 2018
 anchor: unterstuezerinnen
 
