@@ -88,7 +88,7 @@ Wir hielten am Strassenrand während der nachmittags rush hour an und gelangten 
 
 ![](/uploads/2018/11/10/IMG-20181104-WA0005.jpg)**1.11.2018 Abschied - Sophia Benz**
 
-Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nach Zürich. Im Anschluss an das alljährliche BOS Partners Meeting hatte ich mir noch kurz Zeit genommen, unsere BOS Schweiz Volontäre in Samboja Lestari zur begrüssen. Gemeinsam machten wir eine Tages-Tour übers Gelände, klären erste Fragen und drehte erste Video-Sequenzen mit Björn, der vor Ort nicht nur die BOS Schweiz Projekte, sondern auch das Voilontariatsprogramm dokumentieren soll.
+Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nach Zürich. Im Anschluss an das alljährliche BOS Partners Meeting hatte ich mir noch kurz Zeit genommen, unsere BOS Schweiz Volontäre in Samboja Lestari zur begrüssen. Gemeinsam machten wir eine Tages-Tour übers Gelände, klären erste Fragen und drehte erste Video-Sequenzen mit Björn, der vor Ort nicht nur die BOS Schweiz Projekte, sondern auch das Volontärprogramm dokumentieren soll.
 
 ![](/uploads/2018/11/10/IMG-20181105-WA0021.jpg)Die beiden Angelas und Sahra wurden überschwenglich von alten Bekannten begrüsst, alle erfuhren, was es mit dem Enrichment auf sich hat, wir besichtigten das BOS Büro, blickten von der Terasse über den aufgeforsteten Regenwald und besichtigen die Stelle, wo unsere OTOL Volontäre aufforsten werden.
 
