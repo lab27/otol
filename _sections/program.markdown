@@ -6,7 +6,11 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**17.11.2018: Abendprogramm - Valerie Bader**
+**17.11.2018: Übernachten mitten im Regenwald – Angela Burri** 
+
+Die Nacht im Regenwald verbringen- kannst du dir das vorstellen? Ich jedenfalls wurde völlig überrascht von der unglaublichen Geräuschekulisse! Zikaden zirpen, Frösche quaken um die Wette, die dumpfen Flügelschläge der riesigen Nachtfalter, Regentropfen fallen von den Blättern auf die Erde, Orang-Utan-Laute in der Ferne und hin und wieder ein nervtötendes Surren eines blutsaugenden Moskitos. Ein Besuch der Samboja Lodge ist definitiv ein Erlebnis der besonderen Art.
+
+![](/uploads/2018/11/17/IMG-20181112-WA0000.jpg) **17.11.2018: Abendprogramm - Valerie Bader**
 
 Wenn sich die Sonne hier um sechs Uhr abends langsam senkt, heisst das aber noch nicht, dass wir Volontäre uns auch in unsere Betten bewegen. Unsere Volontärreise ähnelt dann einem Klassenlager: Es wird Uno und Billard gespielt, Lieder mit der Gitarre nachgesungen und über Gott und die Welt philosophiert. Auch das ein oder andere persönliche Liebesfiasko wurde schon genau durchgesprochen und mit 7 neuen Meinungen beleuchtet. Man fühlt sich (egal ob mans ist oder nicht) wieder richtig jung! 
 
