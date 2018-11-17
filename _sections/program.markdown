@@ -6,6 +6,16 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
+**15.11.2018:** **Bäume pflanzen - Angela Burri**
+
+Wie der Name der Kampagne „One Tree One Life“ bereits erahnen lässt, beschäftigen wir uns tagsüber oft mit dem Aufforsten des Regenwaldes. Da wir uns nicht in einem Primärregenwald befinden, ist es besonders wichtig, dass das Schutzgebiet Samboja Lestari stetig aufgeforstet und der Bestand erweitert wird. Doch wie genau geschieht das? 
+
+![](/uploads/2018/11/17/DSC00759.JPG)Das BOS-eigene Gelände wird in regelmässigen Abständen durch  das „Green-Team“ kontrolliert, welches hier für die Forstwirtschaft zuständig ist und auch die angegliederte Baumschule unterhält. Sollte dabei festgestellt werden, dass sich ungewollte Gäste wie hartnäckiger Farn oder Bodenschlingpflanzen eingenistet haben, welche den Boden unfruchtbar macht, kommen wir Volontäre ins Spiel. 
+
+![](/uploads/2018/11/17/DSC00788.JPG)Unsere Aufgabe besteht darin, diese Pflanzen zu entfernen und anschliessend, in 3 Meter Abständen, neue, sehr wertvolle Setzlinge (siehe Beitrag weiter unten) zu pflanzen. Auch deren Gedeihen muss überprüft werden und allenfalls Pflanzen, die nicht angehen, entfernt werden. 
+
+![](/uploads/2018/11/17/DSC00560.JPG)Damit die neuen Setzlinge wachsen können brauchen sie einen Schutz vor Sonne und Erosion - sprich eine bereits mit niedrigen Pflanzen und schnell wachsenden Hölzern überwucherte Fläche. Was für uns also bereits aussieht wie Dschungel, muss weichen oder wird veredelt. Hier soll ein Wald aus Fruchtbäumen, die seltene Arten anlocken sollen oder vom Aussterben bedrohten Baumsorten entstehen. In einigen Jahren wird dieser wertvolle Wald richtig leben und seine eigene Biodiversität entwickeln.  
+
 **11.11.2018: Bambus-Enrichments für die Orang-Utans - Sahra Schnüriger**
 
 Um für die Orang-Utans in der Rettungsstation für Unterhaltung und Training zu sorgen, werden Enrichments (Beschäftigungsmöglichkeiten) gebastelt. Wir Volontäre dürfen die indonesischen Pfleger dabei tatkräftig unterstützen.
