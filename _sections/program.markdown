@@ -6,7 +6,13 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**16.11.2018: Essen im Regenwald – Angela Schnüriger**
+**17.11.2018: Abendprogramm - Valerie Bader**
+
+Wenn sich die Sonne hier um sechs Uhr abends langsam senkt, heisst das aber noch nicht, dass wir Volontäre uns auch in unsere Betten bewegen. Unsere Volontärreise ähnelt dann einem Klassenlager: Es wird Uno und Billard gespielt, Lieder mit der Gitarre nachgesungen und über Gott und die Welt philosophiert. Auch das ein oder andere persönliche Liebesfiasko wurde schon genau durchgesprochen und mit 7 neuen Meinungen beleuchtet. Man fühlt sich (egal ob mans ist oder nicht) wieder richtig jung! 
+
+![](/uploads/2018/11/17/20181022_180827.jpg)In der Samboja Lodge gehen die Lichter an und wer noch Kraft in den Beinen hat erklimmt den Aussichtsturm der Lodge. Von dort aus geniessen wir den atmeberaubenden Blick über den noch jungen, mühsam aufgeforsteten Regenwald rings rum. Unter uns liegen die Pre-Release Inseln und die Klinik der Rettungsstation. Ab und zu hört man ein ausgewachsenes Orang-Utan-Männchen rufen. Ständig hört man den Lärm der Zirkaden. 
+
+![](/uploads/2018/11/17/DSC00751-1.JPG)**16.11.2018: Essen im Regenwald – Angela Schnüriger**
 
 Auch wenn man keinen Reis mag, ist man hier bestens versorgt. Das Essen in der Samboja Lodge ist einfach paradiesisch. Jeden Tag aufs Neue werden wir von unseren Köchen mit einem feinen und liebevoll angerichteten Buffet verwöhnt. Sei es mit einem feinen Zmorge mit frisch gepresstem Fruchtsaft oder mit leckeren indonesischen Gerichten zum Zmittag und Znacht. Und das alles in diesem Ambiente:
 
