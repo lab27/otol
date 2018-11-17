@@ -6,17 +6,19 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**17.11.2018: Übernachten mitten im Regenwald – Angela Burri** 
+**17.11.2018: Übernachten mitten im Regenwald – Angela Burri**
 
 Die Nacht im Regenwald verbringen- kannst du dir das vorstellen? Ich jedenfalls wurde völlig überrascht von der unglaublichen Geräuschekulisse! Zikaden zirpen, Frösche quaken um die Wette, die dumpfen Flügelschläge der riesigen Nachtfalter, Regentropfen fallen von den Blättern auf die Erde, Orang-Utan-Laute in der Ferne und hin und wieder ein nervtötendes Surren eines blutsaugenden Moskitos. Ein Besuch der Samboja Lodge ist definitiv ein Erlebnis der besonderen Art.
 
 ![](/uploads/2018/11/17/IMG-20181112-WA0000.jpg) **17.11.2018: Abendprogramm - Valerie Bader**
 
-Wenn sich die Sonne hier um sechs Uhr abends langsam senkt, heisst das aber noch nicht, dass wir Volontäre uns auch in unsere Betten bewegen. Unsere Volontärreise ähnelt dann einem Klassenlager: Es wird Uno und Billard gespielt, Lieder mit der Gitarre nachgesungen und über Gott und die Welt philosophiert. Auch das ein oder andere persönliche Liebesfiasko wurde schon genau durchgesprochen und mit 7 neuen Meinungen beleuchtet. Man fühlt sich (egal ob mans ist oder nicht) wieder richtig jung! 
+Wenn sich die Sonne hier um sechs Uhr abends langsam senkt, heisst das aber noch nicht, dass wir Volontäre uns auch in unsere Betten bewegen. Unsere Volontärreise ähnelt dann einem Klassenlager: Es wird Uno und Billard gespielt, Lieder mit der Gitarre nachgesungen und über Gott und die Welt philosophiert. Auch das ein oder andere persönliche Liebesfiasko wurde schon genau durchgesprochen und mit 7 neuen Meinungen beleuchtet. Man fühlt sich (egal ob mans ist oder nicht) wieder richtig jung!
 
-![](/uploads/2018/11/17/20181022_180827.jpg)In der Samboja Lodge gehen die Lichter an und wer noch Kraft in den Beinen hat erklimmt den Aussichtsturm der Lodge. Von dort aus geniessen wir den atmeberaubenden Blick über den noch jungen, mühsam aufgeforsteten Regenwald rings rum. Unter uns liegen die Pre-Release Inseln und die Klinik der Rettungsstation. Ab und zu hört man ein ausgewachsenes Orang-Utan-Männchen rufen. Ständig hört man den Lärm der Zirkaden. 
+![](/uploads/2018/11/17/20181022_180827.jpg)In der Samboja Lodge gehen die Lichter an und wer noch Kraft in den Beinen hat erklimmt den Aussichtsturm der Lodge. Von dort aus geniessen wir den atmeberaubenden Blick über den noch jungen, mühsam aufgeforsteten Regenwald rings rum. Unter uns liegen die Pre-Release Inseln und die Klinik der Rettungsstation. Ab und zu hört man ein ausgewachsenes Orang-Utan-Männchen rufen. Ständig hört man den Lärm der Zirkaden.
 
-![](/uploads/2018/11/17/DSC00751-1.JPG)**16.11.2018: Essen im Regenwald – Angela Schnüriger**
+![](/uploads/2018/11/17/DSC00751.JPG)
+
+**16.11.2018: Essen im Regenwald – Angela Schnüriger**
 
 Auch wenn man keinen Reis mag, ist man hier bestens versorgt. Das Essen in der Samboja Lodge ist einfach paradiesisch. Jeden Tag aufs Neue werden wir von unseren Köchen mit einem feinen und liebevoll angerichteten Buffet verwöhnt. Sei es mit einem feinen Zmorge mit frisch gepresstem Fruchtsaft oder mit leckeren indonesischen Gerichten zum Zmittag und Znacht. Und das alles in diesem Ambiente:
 
@@ -24,13 +26,13 @@ Auch wenn man keinen Reis mag, ist man hier bestens versorgt. Das Essen in der S
 
 **15.11.2018:** **Bäume pflanzen - Angela Burri**
 
-Wie der Name der Kampagne „One Tree One Life“ bereits erahnen lässt, beschäftigen wir uns tagsüber oft mit dem Aufforsten des Regenwaldes. Da wir uns nicht in einem Primärregenwald befinden, ist es besonders wichtig, dass das Schutzgebiet Samboja Lestari stetig aufgeforstet und der Bestand erweitert wird. Doch wie genau geschieht das? 
+Wie der Name der Kampagne „One Tree One Life“ bereits erahnen lässt, beschäftigen wir uns tagsüber oft mit dem Aufforsten des Regenwaldes. Da wir uns nicht in einem Primärregenwald befinden, ist es besonders wichtig, dass das Schutzgebiet Samboja Lestari stetig aufgeforstet und der Bestand erweitert wird. Doch wie genau geschieht das?
 
-![](/uploads/2018/11/17/DSC00759.JPG)Das BOS-eigene Gelände wird in regelmässigen Abständen durch  das „Green-Team“ kontrolliert, welches hier für die Forstwirtschaft zuständig ist und auch die angegliederte Baumschule unterhält. Sollte dabei festgestellt werden, dass sich ungewollte Gäste wie hartnäckiger Farn oder Bodenschlingpflanzen eingenistet haben, welche den Boden unfruchtbar macht, kommen wir Volontäre ins Spiel. 
+![](/uploads/2018/11/17/DSC00759.JPG)Das BOS-eigene Gelände wird in regelmässigen Abständen durch  das „Green-Team“ kontrolliert, welches hier für die Forstwirtschaft zuständig ist und auch die angegliederte Baumschule unterhält. Sollte dabei festgestellt werden, dass sich ungewollte Gäste wie hartnäckiger Farn oder Bodenschlingpflanzen eingenistet haben, welche den Boden unfruchtbar macht, kommen wir Volontäre ins Spiel.
 
-![](/uploads/2018/11/17/DSC00788.JPG)Unsere Aufgabe besteht darin, diese Pflanzen zu entfernen und anschliessend, in 3 Meter Abständen, neue, sehr wertvolle Setzlinge (siehe Beitrag weiter unten) zu pflanzen. Auch deren Gedeihen muss überprüft werden und allenfalls Pflanzen, die nicht angehen, entfernt werden. 
+![](/uploads/2018/11/17/DSC00788.JPG)Unsere Aufgabe besteht darin, diese Pflanzen zu entfernen und anschliessend, in 3 Meter Abständen, neue, sehr wertvolle Setzlinge (siehe Beitrag weiter unten) zu pflanzen. Auch deren Gedeihen muss überprüft werden und allenfalls Pflanzen, die nicht angehen, entfernt werden.
 
-![](/uploads/2018/11/17/DSC00560.JPG)Damit die neuen Setzlinge wachsen können brauchen sie einen Schutz vor Sonne und Erosion - sprich eine bereits mit niedrigen Pflanzen und schnell wachsenden Hölzern überwucherte Fläche. Was für uns also bereits aussieht wie Dschungel, muss weichen oder wird veredelt. Hier soll ein Wald aus Fruchtbäumen, die seltene Arten anlocken sollen oder vom Aussterben bedrohten Baumsorten entstehen. In einigen Jahren wird dieser wertvolle Wald richtig leben und seine eigene Biodiversität entwickeln.  
+![](/uploads/2018/11/17/DSC00560.JPG)Damit die neuen Setzlinge wachsen können brauchen sie einen Schutz vor Sonne und Erosion - sprich eine bereits mit niedrigen Pflanzen und schnell wachsenden Hölzern überwucherte Fläche. Was für uns also bereits aussieht wie Dschungel, muss weichen oder wird veredelt. Hier soll ein Wald aus Fruchtbäumen, die seltene Arten anlocken sollen oder vom Aussterben bedrohten Baumsorten entstehen. In einigen Jahren wird dieser wertvolle Wald richtig leben und seine eigene Biodiversität entwickeln.
 
 **11.11.2018: Bambus-Enrichments für die Orang-Utans - Sahra Schnüriger**
 
