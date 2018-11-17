@@ -6,6 +6,12 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
+**16.11.2018: Essen im Regenwald – Angela Schnüriger**
+
+Auch wenn man keinen Reis mag, ist man hier bestens versorgt. Das Essen in der Samboja Lodge ist einfach paradiesisch. Jeden Tag aufs Neue werden wir von unseren Köchen mit einem feinen und liebevoll angerichteten Buffet verwöhnt. Sei es mit einem feinen Zmorge mit frisch gepresstem Fruchtsaft oder mit leckeren indonesischen Gerichten zum Zmittag und Znacht. Und das alles in diesem Ambiente:
+
+![](/uploads/2018/11/17/DSC00730.JPG)Nicht zu vergessen unser Highlight: zum Dessert gibts feinste frische Ananans, Mango, Melone oder sonstige tropische süsse Früchte, so wie wir es uns in der Schweiz nur zu träumen wagen. Yummmm!
+
 **15.11.2018:** **Bäume pflanzen - Angela Burri**
 
 Wie der Name der Kampagne „One Tree One Life“ bereits erahnen lässt, beschäftigen wir uns tagsüber oft mit dem Aufforsten des Regenwaldes. Da wir uns nicht in einem Primärregenwald befinden, ist es besonders wichtig, dass das Schutzgebiet Samboja Lestari stetig aufgeforstet und der Bestand erweitert wird. Doch wie genau geschieht das? 
