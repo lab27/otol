@@ -40,7 +40,9 @@ Um für die Orang-Utans in der Rettungsstation für Unterhaltung und Training zu
 
 Fast schon kustvoll sehen auch diese Guetzli aus:
 
-![](/uploads/2018/11/11/IMG-20181111-WA0013.jpg)Bei ihrem Anblick überkommen uns beinahe Weihnachtsgefühle - wären da nicht die knapp 32 Grad Celsius bei gefühlten 100% Luftfeuchtigkeit...
+![](/uploads/2018/11/11/IMG-20181111-WA0013.jpg)Bei ihrem Anblick überkommen uns beinahe Weihnachtsgefühle - wären da nicht die knapp 32 Grad Celsius bei 80% Luftfeuchtigkeit...
+
+**Valerie** stellt klar: "Diese Leckereien nicht für uns gedacht. Die aus Haferbrei geformten Bällchen, hübsch verziert mit Rosinen, Sonnenblumenkernen und Nüssen, sind für unsere orangen Waldfreunde. Dafür backen wir doch gerne, mit oder ohne Jingle Bells".
 
 ![](/uploads/2018/11/11/IMG-20181111-WA0016.jpg)Ebenfalls beliebt bei den Orang-Utans sind Samen oder Nüsse, die die Volontäre in alten Zeitungen oder Illustrierten verstecken. Je schwieriger es ist und je länger es für die Tiere dauert, an die Leckerbissen zu kommen, umso besser.
 
