@@ -60,7 +60,7 @@ Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren d
 
 Diese Summe beinhaltet die Vorbereitung der Tiere (Quarantäne), die tiermedizinischen Kosten (Ärzte und Medikamente), den Transport (per Jeep, Boot, teilweise per Helikopter und zu Fuss), die Personalkosten für Träger und Fahrer, die Versorgung der Tiere und der  involvierten Personen während der tagelangen Reise, die Überwachung und Kontrolle der Tiere nach der Auswilderung usw. Hinzu kommt, dass die Tiere zuvor bis zu 10 Jahre lang auf ein Leben in der Freiheit vorbereitet, gepflegt und versorgt werden müssen. Von menschlichen Ersatzmüttern lernen die Orang-Utan-Waisen alles, was ihnen sonst ihre Müttern für ein Leben in der Wildnis beibringen würden.
 
-**DIE BEIDEN BOS-RETTUNGSSTATIONEN ZU BETREIBEN KOSTET MEHR ALS 2 MIO FRANKEN IM JAHR!** Bitte helft mit... Die Orang-Utans aber auch eure Kinder und Enkelkinder werden es euch danken!
+**MEHR ALS 2 MIO. FRANKEN KOSTETE ES PRO JAHR, DIE BEIDEN BOS-RETTUNGSSTATIONEN ZU BETREIBEN!**
 
 ![](/uploads/2018/11/22/_BOS5890 copy (1) - Kopie.jpg)**Babyhaus in Nyaru Menteng – Valerie Bader**
 
