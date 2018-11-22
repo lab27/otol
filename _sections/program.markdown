@@ -20,7 +20,7 @@ Diese Bilder sind definiv einen Post wert:
 
 **21.11.2018: Vision Rettungsstation ohne Käfige - Sophia Benz** 
 
-Ausserdem hat BOS sich zum Ziel gesetzt, zur weltweit einzigen **RETTUNGSSTATION OHNE KÄFIGE** zu werden. Im Idealfall würden gerettete Orang-Utan-Babies nur noch kurze Zeit im Baby-Haus verbringen, bevor sie im Waldkindergarten und in der Waldschule auf ein Leben in der Wildnis vorbereitet würden. Von dort aus würden sie nahtlos auf eine Pre-Relese Insel übergesiedelt. Wer sich dort in der quasi-Freiheit bewährt, würde zurückkehren in die Wildnis. Soweit die Theorie oder der Wunsch.
+Ausserdem hat BOS sich zum Ziel gesetzt, zur weltweit einzigen **RETTUNGSSTATION OHNE KÄFIGE** zu werden. Im Idealfall würden gerettete Orang-Utan-Babies nur noch kurze Zeit im Baby-Haus verbringen, bevor sie im Waldkindergarten und in der Waldschule auf ein Leben in der Wildnis vorbereitet würden. Von dort aus würden sie nahtlos auf eine pre-Release-Insel übergesiedelt. Wer sich dort in der quasi-Freiheit bewährt, würde zurückkehren in die Wildnis. Soweit die Theorie oder der Wunsch.
 
 ![](/uploads/2018/11/22/- Sawa dan Sawi.jpg)In der Praxis arbeiten wir fieberhaft an der Umsetzung dieser Vision, für die v.a. zwei Dinge nötig sind: **1.) weitere Pre-Release Inseln**, auf denen Orang-Utans die Freiheit üben können, und **2.) sichere und geeignete Auswilderungsgebiete.**  Lange Zeit mangelte es v.a. an Letzterem. Zehn Jahre lang konnte die BOS Foundation deshalb nicht auswildern. Gleichzeitg ströhmten immer mehr Neuankömmlinge in die Stationen. Tiere, die bereits auf die Auswilderung vorbereitet worden waren, mussten zurück in Gemeinschaftsgehege - auf die Gefahr hin, das bereits Erlernte dort wieder zu verlernen.  
 
