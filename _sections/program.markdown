@@ -8,7 +8,7 @@ anchor: programm
 ---
 **22.11.2018: Green Friday statt Black Friday**
 
-Lust aus dem **Black Friday** einen **Green Friday** zu machen? Dann unterstützt unsere Kampagne! Verschenkt doch Regenwald zu Weihnachten... Wider dem Kommerz - für die Nachhaltigkeit :)
+Lust aus dem Black Friday einen Green Friday zu machen? Dann unterstützt unsere Kampagne! Verschenkt doch Regenwald zu Weihnachten... Wider dem Kommerz - für die Nachhaltigkeit :)
 
 **22.11.2018: Voller Körpereinsatz in den Tropen - Sophia Benz**
 
