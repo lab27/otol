@@ -50,7 +50,7 @@ Wie jedes Jahr konnten unsere Volontäre ihren Aufenthalt um einen Ausflug in di
 
 Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. 
 
-![](/uploads/2018/11/22/20171109_085211.jpg)Mit kleinen Motorbooten ging es zunächst um Kaja Insel. Auf dieser Insel sind momentan 44 Orang-Utans, 50 finden darauf maximal Platz. Auf Bangamat Island sind momentan keine Orang-Utans untergebracht, da dort aufgeforstet wird. Die Vegetation muss sich von den Orang-Utans erholen. Unsere Boote hielt an diversen Fütterungsstationen. So konnten wir die wunderbaren Tiere aus der Ferne beobachten. Die noch grössere pre-Release Insel Salat Island liegt weiter entfernt von Nyaru Menteng. Dort finden nochmals bis zu 200 Tiere Platz.
+![](/uploads/2018/11/22/20171109_085211.jpg)Mit kleinen Motorbooten ging es zunächst um Kaja Insel. Auf dieser Insel sind momentan 44 Orang-Utans, 50 finden darauf maximal Platz. Auf Bangamat Island sind momentan keine Orang-Utans untergebracht, da dort aufgeforstet wird. Die Vegetation muss sich von den Orang-Utans erholen. Unsere Boote hielten an diversen Fütterungsstationen. So konnten wir die wunderbaren Tiere aus der Ferne beobachten. Die noch grössere pre-Release-Insel Salat Island liegt weiter entfernt von Nyaru Menteng. Dort finden nochmals bis zu 200 Tiere Platz.
 
 **Orang-Utans in Käfigen - Persöhnliche Eindrücke von Vera Viel**
 
