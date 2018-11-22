@@ -12,7 +12,7 @@ Lust aus dem Black Friday einen Green Friday zu machen? Dann unterstützt u
 
 **22.11.2018: Voller Körpereinsatz in den Tropen - Sophia Benz**
 
-Diese Bilder sind definiv einen Post wert: 
+Diese Bilder sind definitiv einen Post wert: 
 
 ![](/uploads/2018/11/22/IMG-20181122-WA0007.jpg)Nassgeschwitzt buddeln unsere Volontäre stundenlang einen Entwässerungskanal direkt beim Baby-Haus in Samboja Lestari. Schon ohne Mundschutz wäre das für viele von uns  konditionell ein Ding der Unmöglichkeit. Das verdient unsere volle Anerkennung!!! 
 
