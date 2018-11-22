@@ -42,13 +42,15 @@ Die BOSF konnte, mit finanzieller Unterstützung einiger BOS-Partner, das hierf�
 
 Herzlichen Dank an alle, die uns bis dato unterstützt haben! Gerade jetzt in der Vorweihnachtszeit macht es umso mehr Sinn, **Bäume** zu **pflanzen statt Christbäume** zu **fällen** :)
 
-**18./19.11.2018: Besuch der BOS-Rettungsstation in Nyaru Menteng - Sophia Benz** 
+![](/uploads/2018/11/22/DSC00555.JPG)**18./19.11.2018: Besuch der BOS-Rettungsstation Nyaru Menteng - Sophia Benz** 
 
 Wie jedes Jahr konnten unsere Volontäre ihren Aufenthalt um einen Ausflug in die zweite BOS-Rettungsstation in Nyaru Menteng, Zentral-Kalimantan ergänzen. Dort leben wesentlich mehr Orang-Utans (ca. 350 Stück) als in Samboja Lestari (ca. 145 Orang-Utans). Auch die meisten BOS Schweiz-Patentiere finden sich dort. Auf dem Programm standen eine ganze Reihe von Programmpunkten, die ihre Spuren hinterlassen haben:
 
 **Ausflug zu den Pre-Release Inseln - Sarah Schnüriger**
 
-Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. Mit kleinen Motorbooten ging es zunächst um Kaja Insel. ![](/uploads/2018/11/22/20171109_085211.jpg)Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. Mit kleinen Motorbooten ging es zunächst um Kaja Insel. Auf dieser Insel sind momentan 44 Orang-Utans, 50 finden darauf maximal Platz. Auf Bangamat Island sind momentan keine Orang-Utans untergebracht, da dort aufgeforstet wird. Die Vegetation muss sich von den Orang-Utans erholen. Unsere Boote hielt an diversen Fütterungsstationen. So konnten wir die wunderbaren Tiere aus der Ferne beobachten. Die noch grössere pre-Release Insel Salat Island liegt weiter entfernt von Nyaru Menteng. Dort finden nochmals bis zu 200 Tiere Platz.
+Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. 
+
+![](/uploads/2018/11/22/20171109_085211.jpg)Mit kleinen Motorbooten ging es zunächst um Kaja Insel. Auf dieser Insel sind momentan 44 Orang-Utans, 50 finden darauf maximal Platz. Auf Bangamat Island sind momentan keine Orang-Utans untergebracht, da dort aufgeforstet wird. Die Vegetation muss sich von den Orang-Utans erholen. Unsere Boote hielt an diversen Fütterungsstationen. So konnten wir die wunderbaren Tiere aus der Ferne beobachten. Die noch grössere pre-Release Insel Salat Island liegt weiter entfernt von Nyaru Menteng. Dort finden nochmals bis zu 200 Tiere Platz.
 
 **Orang-Utans in Käfigen - Persöhnliche Eindrücke von Vera Viel**
 
