@@ -64,9 +64,7 @@ Diese Summe beinhaltet die Vorbereitung der Tiere (Quarantäne), die tiermedizin
 
 Bitte helft mit. Die Orang-Utans aber auch eure eigenen Kinder und Enkelkinder werden es euch danken!
 
-![](/uploads/2018/11/22/_BOS5890 copy (1) - Kopie.jpg)
-
-**Babyhaus in Nyaru Menteng – Valerie Bader**
+![](/uploads/2018/11/22/Danke.jpg)**Babyhaus in Nyaru Menteng – Valerie Bader**
 
 Wenn es etwas gibt, das mir von dieser Reise immer in Erinnerung bleiben wird, so sind es die Augen der kleinen Orang-Utan-Babies. Die dunklen Äuglein, umrahmt von langen Wimpern, schauen einen mit so viel Hoffnung an, dass man dahin schmelzen könnte. Jedes Mal aufs Neue. Um auf gleicher Höhe mit den Babies zu sein, knieten wir uns also hin und kamen vor Entzücken fast nicht weiter. Ein Kleines wurde in einer winzigen Hängematte geschaukelt, ein Zweites übte sich im Bananen essen, ein Drittes hing kopfüber von einem Reifen. 
 
