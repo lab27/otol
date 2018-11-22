@@ -6,25 +6,97 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**17.11.2018: Übernachten mitten im Regenwald – Angela Burri**
+**22.11.2018: Green Friday statt Black Friday**
+
+Lust aus dem **Black Friday** einen **Green Friday** zu machen? Dann unterstützt unsere Kampagne! Verschenkt doch Regenwald zu Weihnachten... Wider dem Kommerz - für die Nachhaltigkeit :)
+
+**22.11.2018: Voller Körpereinsatz in den Tropen - Sophia Benz**
+
+Diese Bilder sind definiv einen Post wert: 
+
+![](/uploads/2018/11/22/IMG-20181122-WA0007.jpg)Nassgeschwitzt buddeln unsere Volontäre stundenlang einen Entwässerungskanal direkt beim Baby-Haus in Samboja Lestari. Schon ohne Mundschutz wäre das für viele konditionell ein Ding der Unmöglichkeit. Das verdient unsere volle Anerkennung!!! 
+
+![](/uploads/2018/11/22/IMG-20181122-WA0009.jpg)Bei so viel "girl power" staunen auch Tony und Tom (rechts im Bild) von BOS Australien. Die beiden sind gerade zufällig ebenfalls in der Rettungsstation, um das neue Solar-Projekt zu planen. Ein Teil der Station (die Special Care Unit) wird bereits per Solarstrom betrieben. In Zukunft möchte BOS komplett auf die Dieselgeneratoren verzichten und so bis zu 80'000 USD im Jahr einsparen (!) Tony kümmert sich um die technische Umsetzung. Das finale Fördergesuch werden wir dann bei uns in der Schweiz einreichen. Wer Sponsoren oder Stiftungen kennt, die sich für dieses Thema interessieren könnten, bitte unbedingt melden (info@bos-schweoz.ch)!
+
+**21.11.2018: Vision Rettungsstation ohne Käfige - Sophia Benz** 
+
+Ausserdem hat BOS sich zum Ziel gesetzt, zur weltweit einzigen **RETTUNGSSTATION OHNE KÄFIGE** zu werden. Im Idealfall würden gerettete Orang-Utan-Babies nur noch kurze Zeit im Baby-Haus verbringen, bevor sie im Waldkindergarten und in der Waldschule auf ein Leben in der Wildnis vorbereitet würden. Von dort aus würden sie nahtlos auf eine Pre-Relese Insel übergesiedelt. Wer sich dort in der quasi-Freiheit bewährt, würde zurückkehren in die Wildnis. Soweit die Theorie oder der Wunsch.
+
+![](/uploads/2018/11/22/- Sawa dan Sawi.jpg)In der Praxis arbeiten wir fieberhaft an der Umsetzung dieser Vision, für die v.a. zwei Dinge nötig sind: **1.) weitere Pre-Release Inseln**, auf denen Orang-Utans die Freiheit üben können, und **2.) sichere und geeignete Auswilderungsgebiete.**  Lange Zeit mangelte es v.a. an Letzterem. Zehn Jahre lang konnte die BOS Foundation deshalb nicht auswildern. Gleichzeitg ströhmten immer mehr Neuankömmlinge in die Stationen. Tiere, die bereits auf die Auswilderung vorbereitet worden waren, mussten zurück in Gemeinschaftsgehege - auf die Gefahr hin, das bereits Erlernte dort wieder zu verlernen.  
+
+![](/uploads/2018/11/22/IMG-20181118-WA0013.jpg)Auch wenn heute immer noch viel zu viele Orang-Utans in Käfigen leben müssen, wurden in den letzten Jahren riesige Fortschritte bei der Umsetzung dieser Vision erzielt: **Seit 2012 konnte BOS knapp 380 rehabilitierte Orang-Utans zurück in die Freiheit schicken!** Mit **Kehje Sewen** erwarb die BOS Foundation ein eigenes, 86 450 Hektare grosses Schutzgebiet, das - neben zwei weiteren Auswilderungegebieten - heute von der Stiftung genutzt und in diesem Fall auch verwaltet wird. Mehr als 1 Mio Franken kostet die Konzession und auch das Management ist mit kostspieligen Auflagen verbunden. Diese Kosten, sowie ein Grossteil der Logistikkosten für die Auswilderungen nach Kehje Sewen wurden aus der Schweiz über Stiftungsgelder finanziert. 
+
+Ein **neues Auswilderungsgebiet**, das einen Korridor zwischen KJ7 und einem weiter nördlich gelegenen Naturschutzgebiet schaffen wird, erwirbt die BOS Foundation zur Zeit. Dieses Vorhaben, sowie der **Bau von mehreren grossen Pre-Release Inseln** in Samboja Lestari fallen ebenfalls unter das BOS-Schweiz finanzierte Ost-Kalimantan-Projekt. 
+
+![](/uploads/2018/11/22/20171103_170505.jpg)Gemeinsam mit den anderen BOS-Partnern konnte **Salat Island** (655 Hektare gross) als Pre-Release-Gebiet in Zentral-Kalimantan gesichert und ausgebaut werden. Die ersten Auswilderungskandidaten sind dorthin umgezogen, genauso wie die ersten nicht-auswilderbaren Orang-Utans, die dort ein artgerechtes, natürliches Zuhause finden sollen. Diese Tiere sind zu alt oder körperlich beeinträchtig und können nie mehr in den Regenwald zurück kehren. Ohne Projekte wie dieses, würde ihnen bis ans Ende ihrer Tage Käfighaltung drohen. 
+
+![](/uploads/2018/11/22/3.jpg)**Romeo**, ein Hebatitis-infiziertes ausgewachsenes Orang-Utan-Männchen hat den Schritt auf seine eigene Pre-Release-Insel bereits geschafft. Mehr als 20 Jahre verbrachte er zuvor auf Grund seiner Krankheit im Käfig, nachdem er aus einem Zoo in Taiwan gerettet wurde. Wegen einer Handverletzung musste er neulich für kurze Zeit zurück in eines der individual cages in Samboja Lestari. Darüber war er sichtlich verärgert. Doch kurze Zeit später konnte er zurück auf seine Insel.
+
+**Hui** steht ein Umzug auf eine Insel noch bevor. In Nyaru Menteng ist er das schwerste und grösste Männchen. Als er seinen Käfig bezog, passte er noch durch die Gittertüre. Heute müsste der Käfig aufgeschnitten werden, um Hui daraus zu befreien. Für ihn und viele Andere werden weitere natürliche oder künstlich angelegte Inseln benötigt. 
+
+![](/uploads/2018/11/22/IMG-20181118-WA0011.jpg)
+
+Die BOSF konnte, mit finanzieller Unterstützung einiger BOS-Partner, das hierfür benötigte Land bereits sicherstellen. Der Bau der Inseln, der Aufbau der Inftrastruktur und der Transfer der Tiere stehen aber noch an. **Bitte unterstützt uns dabei, diesen Tieren, die viel zu lange in den Käfigen ausharren mussten und für die eine Auswilderung keine Option ist, ein besseres Leben zu bieten!** Sie haben eine traumatische Vergangenheit, sind krank, oft aggressiv oder haben bereits aufgegeben. In ihren Augen kann man Verzweiflung und Traurigkeit ablesen. Ihr Schicksal spiegelt die ganze Misere des Orang-Utan-Sterbens wider. Sie haben ein Leben in einer natürlichen Umgebung mehr als verdient!
+
+**20.11.2018: AKTUELLE SPENDENSTAND: CHF 6'911.66** 
+
+Herzlichen Dank an alle, die uns bis dato unterstützt haben! Gerade jetzt in der Vorweihnachtszeit macht es umso mehr Sinn, **Bäume** zu **pflanzen statt Christbäume** zu **fällen** :)
+
+**18./19.11.2018: Besuch der BOS-Rettungsstation in Nyaru Menteng - Sophia Benz** 
+
+Wie jedes Jahr konnten unsere Volontäre ihren Aufenthalt um einen Ausflug in die zweite BOS-Rettungsstation in Nyaru Menteng, Zentral-Kalimantan ergänzen. Dort leben wesentlich mehr Orang-Utans (ca. 350 Stück) als in Samboja Lestari (ca. 145 Orang-Utans). Auch die meisten BOS Schweiz-Patentiere finden sich dort. Auf dem Programm standen eine ganze Reihe von Programmpunkten, die ihre Spuren hinterlassen haben:
+
+**Ausflug zu den Pre-Release Inseln - Sarah Schnüriger**
+
+Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. Mit kleinen Motorbooten ging es zunächst um Kaja Insel. ![](/uploads/2018/11/22/20171109_085211.jpg)Der erste Stopp auf unserem Ausflug zur Rettungsstation in Nyaru Menteng waren die zwei grossen pre-Release Inseln (Kaja und Bangamat Island). Die Orang-Utans üben auf diesen Inseln das Überleben in der Wildnis. Sie liegen nur ungefähr 15 Minuten Autofahrt von der Station entfernt. Mit kleinen Motorbooten ging es zunächst um Kaja Insel. Auf dieser Insel sind momentan 44 Orang-Utans, 50 finden darauf maximal Platz. Auf Bangamat Island sind momentan keine Orang-Utans untergebracht, da dort aufgeforstet wird. Die Vegetation muss sich von den Orang-Utans erholen. Unsere Boote hielt an diversen Fütterungsstationen. So konnten wir die wunderbaren Tiere aus der Ferne beobachten. Die noch grössere pre-Release Insel Salat Island liegt weiter entfernt von Nyaru Menteng. Dort finden nochmals bis zu 200 Tiere Platz.
+
+**Orang-Utans in Käfigen - Persöhnliche Eindrücke von Vera Viel**
+
+![](/uploads/2018/11/22/BOSF-Partners-2018_Photo Flow-2261 (1).jpg)Wir wurden darauf vorbereitet, dass das nicht einfach anzusehen ist. Hat leider nichts genutzt. Bei den ersten Cages angekommen, konnte ich bereits den Tränenstrom nicht mehr zurück halten. Es fühlte sich an, als ob meine eigene Familie in Käfigen sitzen müsste. Ich habe in die Augen dieser Orang-Utans gesehen und schäme mich - nicht dafür, dass ich weine - dafür dass ich der menschlichen Rasse angehöre! Dafür, dass wir ihnen ihre Lebensgrundlage nehmen, nur um überall auf der Welt möglichst billig konsumieren zu können. Aber damit nicht genug. Wir sägen gleichzeitig an dem Ast, auf dem wir Menschen sitzen. Es gibt nur diese eine Erde. Wir atmen alle dieselbe Luft. Wir alle brauchen Freiheit. Dieser eine Blick wird mich mein ganzes Leben nicht mehr loslassen. Bitte helft mit, diesen unglaublichen Menschenaffen ihren Platz in Freiheit zurückzugeben.
+
+**EINE EINZIGE AUSWILDERUNG KOSTET BIS ZU 10'000 FRANKEN!**
+
+Diese Summe beinhaltet die Vorbereitung der Tiere (Quarantäne), die tiermedizinischen Kosten (Ärzte und Medikamente), der Transport (per Jeep, Boot, teilweise per Helikopter und zu Fuss, Personalkosten für Träger und Fahrer, die Versorgung der Tiere und involvierten Personen während der tagelangen Reise, die Überwachung und Kontrolle der Tiere nach der Auswilderung usw. Hinzu kommt, dass die Tiere zuvor jahrelang auf ein Leben in der Freiheit vorbereitet, gepflegt und versorgt werden müssen.
+
+**DIE BEIDEN BOS-RETTUNGSSTATIONEN ZU BETREIBEN KOSTET MEHR ALS 2 MIO FRANKEN IM JAHR!** Bitte helft mit... Die Orang-Utans aber auch eure Kinder und Enkelkinder werden es euch danken!
+
+![](/uploads/2018/11/22/_BOS5890 copy (1) - Kopie.jpg)**Babyhaus in Nyaru Menteng – Valerie Bader**
+
+Wenn es etwas gibt, das mir von dieser Reise immer in Erinnerung bleiben wird, so sind es die Augen der kleinen Orang-Utan-Babies. Die dunklen Äuglein, umrahmt von langen Wimpern, schauen einen mit so viel Hoffnung an, dass man dahin schmelzen könnte. Jedes Mal aufs Neue. Um auf gleicher Höhe mit den Babies zu sein, knieten wir uns also hin und kamen vor Entzücken fast nicht weiter. Ein Kleines wurde in einer winzigen Hängematte geschaukelt, ein Zweites übte sich im Bananen essen, ein Drittes hing kopfüber von einem Reifen. 
+
+![](/uploads/2018/11/22/IMG-20181116-WA0007.jpg)Eines stand ganz nah bei den Gitterstäben und beobachtete uns neugierig. Topan ist ihr Name. Sie wurde mit einem Körpergewicht von nur 1,5 kg und völlig dehydriert im Oktober 2017 gerettet. Ihr Gesundheitszustand war damals kritisch. 
+
+![](/uploads/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg)Ich sah dieses Baby und da war ich mich klar, dass ich mir als Weihnachtsgeschenk eine Patenschaft für sie wünsche. Ich möchte sehen, wie sie ein grosser Affe wird, wie sie zuerst in die Forest School kommt, dann auf die Release-Insel, dann in Quarantäne und schlussendlich in der Wildnis eine eigene Familie gründet. Fern ab von Palmölplantagen, sodass ihre Kinder nicht das gleiche durchmachen müssen wie sie, sondern einfach frei sein können. Heute jedenfalls geht es Topan schon viel besser...
+
+![](/uploads/2018/11/22/BPI_Partners_Topan_2018-6745.jpg)
+
+**Waldschüler und Patentiere stellen sich vor - Sophia Benz**
+
+Wenn sich der Tag langsam neigt und es Nachmittag bzw. früher Abend wird, kann man als Volontär in Nyaru Menteng miterleben, wie die Waldschüler aus dem Dschungel rund um die Rettungsstation kommen und sich - bevor es in die Schlafkäfige geht - noch auf dem Spielplatz vergnügen. Wie kleine Kinder tollen sie herum. Man könnte endlos einfach nur da sitzen und diesen Anblick geniessen...
+
+![](/uploads/2018/11/22/IMG-20181118-WA0029.jpg)**Besichtigung eines Permakultur-Projektes - Sophia Benz**
+
+Ebenfalls beeindruckend ist der Besuch eines lokalen Permakultur-Projektes und seiner Betreiber/in (Frederika und Jeladi). Sie berichten - aus voller Überzeugung und sehr überzeugend - von ihren erfolgreichen Bemühungen, lokale Kleinbauern in dieser Anbauweise zu unterrichten. Mit ihren Mitarbeitenden betreiben die beiden zudem eine Wurmfarm und stellen Humus für Aufforstungsprojekte zur Verfügung, sie produzieren Kokosnuss-Öl und Seifen. Das macht Lust auf eine Zusammenarbeit - v.a. im Rahmen der Community Development Projekte, die BOS mit lokalen Gruppen rund um die BOS Rettungsstationen und Auswilderungsgebiete betreibt. 
+
+![](/uploads/2018/11/22/IMG-20181119-WA0007 (1).jpg)Den Ausflug nach Nyaru Menteng haben alle genossen. Ein letztes Gruppenbild, denn dann fliegt ein Teil der Volontäre zurück nach Ost-Kalimantan. Vera, Ilonka und Roger reisen von hier aus zurück in die Schweiz.  
+
+![](/uploads/2018/11/22/IMG-20181118-WA0039.jpg)**17.11.2018: Übernachten mitten im Regenwald – Angela Burri**
 
 Die Nacht im Regenwald verbringen- kannst du dir das vorstellen? Ich jedenfalls wurde völlig überrascht von der unglaublichen Geräuschekulisse! Zikaden zirpen, Frösche quaken um die Wette, die dumpfen Flügelschläge der riesigen Nachtfalter, Regentropfen fallen von den Blättern auf die Erde, Orang-Utan-Laute in der Ferne und hin und wieder ein nervtötendes Surren eines blutsaugenden Moskitos. Ein Besuch der Samboja Lodge ist definitiv ein Erlebnis der besonderen Art.
 
-![](/uploads/2018/11/17/IMG-20181112-WA0000.jpg) **17.11.2018: Abendprogramm - Valerie Bader**
+![](/uploads/2018/11/17/IMG-20181112-WA0000.jpg)**17.11.2018: Abendprogramm - Valerie Bader**
 
 Wenn sich die Sonne hier um sechs Uhr abends langsam senkt, heisst das aber noch nicht, dass wir Volontäre uns auch in unsere Betten bewegen. Unsere Volontärreise ähnelt dann einem Klassenlager: Es wird Uno und Billard gespielt, Lieder mit der Gitarre nachgesungen und über Gott und die Welt philosophiert. Auch das ein oder andere persönliche Liebesfiasko wurde schon genau durchgesprochen und mit 7 neuen Meinungen beleuchtet. Man fühlt sich (egal ob mans ist oder nicht) wieder richtig jung!
 
 ![](/uploads/2018/11/17/20181022_180827.jpg)In der Samboja Lodge gehen die Lichter an und wer noch Kraft in den Beinen hat erklimmt den Aussichtsturm der Lodge. Von dort aus geniessen wir den atmeberaubenden Blick über den noch jungen, mühsam aufgeforsteten Regenwald rings rum. Unter uns liegen die Pre-Release Inseln und die Klinik der Rettungsstation. Ab und zu hört man ein ausgewachsenes Orang-Utan-Männchen rufen. Ständig hört man den Lärm der Zirkaden.
 
-![](/uploads/2018/11/17/DSC00751.JPG)
-
-**16.11.2018: Essen im Regenwald – Angela Schnüriger**
+![](/uploads/2018/11/17/DSC00751.JPG)**16.11.2018: Essen im Regenwald – Angela Schnüriger**
 
 Auch wenn man keinen Reis mag, ist man hier bestens versorgt. Das Essen in der Samboja Lodge ist einfach paradiesisch. Jeden Tag aufs Neue werden wir von unseren Köchen mit einem feinen und liebevoll angerichteten Buffet verwöhnt. Sei es mit einem feinen Zmorge mit frisch gepresstem Fruchtsaft oder mit leckeren indonesischen Gerichten zum Zmittag und Znacht. Und das alles in diesem Ambiente:
 
-![](/uploads/2018/11/17/DSC00730.JPG)Nicht zu vergessen unser Highlight: zum Dessert gibts feinste frische Ananans, Mango, Melone oder sonstige tropische süsse Früchte, so wie wir es uns in der Schweiz nur zu träumen wagen. Yummmm!
+![](/uploads/2018/11/17/DSC00730.JPG)Nicht zu vergessen unser Highlight: zum Dessert gibts feinste frische Dragon Fruit, Ananans, Mango, Melone oder sonstige tropische süsse Früchte, so wie wir es uns in der Schweiz nur zu träumen wagen. Yummmm!
 
-**15.11.2018:** **Bäume pflanzen - Angela Burri**
+![](/uploads/2018/11/22/IMG-20181119-WA0014.jpg)**15.11.2018:** **Bäume pflanzen - Angela Burri**
 
 Wie der Name der Kampagne „One Tree One Life“ bereits erahnen lässt, beschäftigen wir uns tagsüber oft mit dem Aufforsten des Regenwaldes. Da wir uns nicht in einem Primärregenwald befinden, ist es besonders wichtig, dass das Schutzgebiet Samboja Lestari stetig aufgeforstet und der Bestand erweitert wird. Doch wie genau geschieht das?
 
