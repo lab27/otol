@@ -70,7 +70,7 @@ Wenn es etwas gibt, das mir von dieser Reise immer in Erinnerung bleiben wird, s
 
 ![](/uploads/2018/11/22/IMG-20181116-WA0007.jpg)Eines stand ganz nah bei den Gitterstäben und beobachtete uns neugierig. Topan ist ihr Name. Sie wurde mit einem Körpergewicht von nur 1,5 kg und völlig dehydriert im Oktober 2017 gerettet. Ihr Gesundheitszustand war damals kritisch. 
 
-![](/uploads/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg)Ich sah dieses Baby und da war ich mich klar, dass ich mir als Weihnachtsgeschenk eine Patenschaft für sie wünsche. Ich möchte sehen, wie sie ein grosser Affe wird, wie sie zuerst in die Forest School kommt, dann auf die Release-Insel, dann in Quarantäne und schlussendlich in der Wildnis eine eigene Familie gründet. Fern ab von Palmölplantagen, sodass ihre Kinder nicht das gleiche durchmachen müssen wie sie, sondern einfach frei sein können. Heute jedenfalls geht es Topan schon viel besser...
+![](/uploads/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg)Ich sah dieses Baby und da war ich mich klar, dass ich mir als Weihnachtsgeschenk eine Patenschaft für sie wünsche. Ich möchte sehen, wie sie ein grosser Affe wird, wie sie zuerst in die Forest School kommt, dann auf die pre-Release-Insel, dann in Quarantäne und schlussendlich in der Wildnis eine eigene Familie gründet. Fern ab von Palmölplantagen, sodass ihre Kinder nicht das gleiche durchmachen müssen wie sie, sondern einfach frei sein können. Heute jedenfalls geht es Topan schon viel besser...
 
 ![](/uploads/2018/11/22/BPI_Partners_Topan_2018-6745.jpg)
 
