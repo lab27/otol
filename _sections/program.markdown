@@ -36,7 +36,7 @@ Ein **neues Auswilderungsgebiet**, das einen Korridor zwischen KJ7 und einem wei
 
 ![](/uploads/2018/11/22/IMG-20181118-WA0011.jpg)
 
-Die BOSF konnte, mit finanzieller Unterstützung einiger BOS-Partner, das hierfür benötigte Land bereits sicherstellen. Der Bau der Inseln, der Aufbau der Inftrastruktur und der Transfer der Tiere stehen aber noch an. **Bitte unterstützt uns dabei, diesen Tieren, die viel zu lange in den Käfigen ausharren mussten und für die eine Auswilderung keine Option ist, ein besseres Leben zu bieten!** Sie haben eine traumatische Vergangenheit, sind krank, oft aggressiv oder haben bereits aufgegeben. In ihren Augen kann man Verzweiflung und Traurigkeit ablesen. Ihr Schicksal spiegelt die ganze Misere des Orang-Utan-Sterbens wider. Sie haben ein Leben in einer natürlichen Umgebung mehr als verdient!
+Die BOSF konnte, mit finanzieller Unterstützung einiger BOS-Partner, das hierfür benötigte Land bereits sicherstellen. Der Bau der Inseln, der Aufbau der Infrastruktur und der Transfer der Tiere stehen aber noch an. **Bitte unterstützt uns dabei, diesen Tieren, die viel zu lange in den Käfigen ausharren mussten und für die eine Auswilderung keine Option ist, ein besseres Leben zu bieten!** Sie haben eine traumatische Vergangenheit, sind krank, oft aggressiv oder haben bereits aufgegeben. In ihren Augen kann man Verzweiflung und Traurigkeit ablesen. Ihr Schicksal spiegelt die ganze Misere des Orang-Utan-Sterbens wider. Sie haben ein Leben in einer natürlichen Umgebung mehr als verdient!
 
 **20.11.2018: AKTUELLE SPENDENSTAND: CHF 6'911.66**
 
