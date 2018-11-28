@@ -32,7 +32,7 @@ Ein **neues Auswilderungsgebiet**, das einen Korridor zwischen KJ7 und einem wei
 
 ![](/uploads/2018/11/22/3.jpg)**Romeo**, ein Hebatitis-infiziertes ausgewachsenes Orang-Utan-Männchen hat den Schritt auf seine eigene Pre-Release-Insel bereits geschafft. Mehr als 20 Jahre verbrachte er zuvor auf Grund seiner Krankheit im Käfig, nachdem er aus einem Zoo in Taiwan gerettet wurde. Wegen einer Handverletzung musste er neulich für kurze Zeit zurück in eines der individual cages in Samboja Lestari. Darüber war er sichtlich verärgert. Doch kurze Zeit später konnte er zurück auf seine Insel.
 
-**Hui** steht ein Umzug auf eine Insel noch bevor. In Nyaru Menteng ist er das schwerste und grösste Männchen. Als er seinen Käfig bezog, passte er noch durch die Gittertüre. Heute müsste der Käfig aufgeschnitten werden, um Hui daraus zu befreien. Für ihn und viele Andere werden weitere natürliche oder künstlich angelegte Inseln benötigt.
+**Hiu** steht ein Umzug auf eine Insel noch bevor. In Nyaru Menteng ist er das schwerste und grösste Männchen. Als er seinen Käfig bezog, passte er noch durch die Gittertüre. Heute müsste der Käfig aufgeschnitten werden, um Hui daraus zu befreien. Für ihn und viele Andere werden weitere natürliche oder künstlich angelegte Inseln benötigt.
 
 ![](/uploads/2018/11/22/IMG-20181118-WA0011.jpg)
 
