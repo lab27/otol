@@ -12,7 +12,13 @@ Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und 
 
 **4.12.2018: AKTUELLER SPENDENSTAND: 12'395.51 Franken** 
 
-Herzlichen Dank an alle, die unsere Reise verfolgt haben und für unser Anliegen nach wie vor spenden. Die ONE-TREE-ONE-LIFE-Kampagne läuft auf Hochtouren! Spendet weiterhin Setzlinge oder verschenkt Bäume, statt Christbäume zu fällen :)  
+Herzlichen Dank an alle, die unsere Reise verfolgt haben und für unser Anliegen nach wie vor spenden. Die ONE-TREE-ONE-LIFE-Kampagne läuft auf Hochtouren! **Spendet weiterhin Setzlinge oder verschenkt Bäume, statt Christbäume zu fällen** :) 
+
+**3.12.2018: Setzlinge spenden beim Wollmützen kaufen** 
+
+Wer bei **nikin.ch** - unserem Hauptsponsor in diesem Jahr - eine Wollmütze der Linie **"Treeanie Slack Coal"** bestellt spendet automatisch einen Setzling für die ONE-TREE-ONE-LIFE...
+
+![](/uploads/2018/12/05/Lay1_Nikin_OTOL_BOS_A4_1.jpg)
 
 **26.11.2018: Heimflug**
 
