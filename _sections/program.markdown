@@ -6,6 +6,18 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
+**5.12.2018: Orang-Utan-Themenwoche im Radio Zürisee**
+
+Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo. Nicht verpassen! 
+
+**4.12.2018: AKTUELLER SPENDENSTAND: 12'395.51 Franken** 
+
+Herzlichen Dank an alle, die unsere Reise verfolgt haben und für unser Anliegen nach wie vor spenden. Die ONE-TREE-ONE-LIFE-Kampagne läuft auf Hochtouren! Spendet weiterhin Setzlinge oder verschenkt Bäume, statt Christbäume zu fällen :)  
+
+**26.11.2018: Heimflug**
+
+Heute fliegen auch die letzten BOS Schweiz Volontäre zurück in die kalte Schweiz...
+
 **22.11.2018: Green Friday statt Black Friday**
 
 Lust aus dem Black Friday einen Green Friday zu machen? Dann unterstützt unsere Kampagne! Verschenkt doch Regenwald zu Weihnachten... Wider dem Kommerz - für die Nachhaltigkeit :)
