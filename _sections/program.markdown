@@ -18,9 +18,7 @@ Herzlichen Dank an einen Grossspender, der uns 1000 Bäume im Wert von 7'650 Fra
 
 Am 14.12. durften wir einen kleinen Info-Stand aufbauen bei der Weihnachtsfeier unseres Hauptsponsors der ersten One-Tree-One-Life-Kampagne - der Kuratle AG. Auch den [aktuellen Namenswettbewerb](http://www.bos-schweiz.ch/de/mediathek/aktuell/name-gesucht.htm) für ein in der Wildnis geborenes Baby konnten wir dort bewerben. Zudem informierten wir über unsere Aufforstungsaktivitäten in der zwieten Runde der Kampagne. Das Ganze in der wunderschönen Umweltarena Spreitenbach - was will man mehr :)
 
-![](/uploads/2018/12/18/20181214_174118.jpg)
-
-**5.12.2018: Orang-Utan-Themenwoche im Radio Zürisee**
+![](/uploads/2018/12/18/20181214_174118.jpg)**5.12.2018: Orang-Utan-Themenwoche im Radio Zürisee**
 
 Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo. 
 
