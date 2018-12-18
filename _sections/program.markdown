@@ -6,17 +6,31 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
+**Orang-Utan-Themenwoche auf Radio Zürisee verpasst?** 
+
+Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... dort sammeln wir auch weitere Radio/TV-Beiträge von Roger, der uns v.a. in letzter Zeit sehr intensiv unterstützt. Merci dafür! 
+
+**AKTUELLER SPENDENSTAND: eindrückliche 18'613.11 Franken**
+
+Herzlichen Dank an einen Grossspender, der uns 1000 Bäume im Wert von 7'650 Franken  gespendet hat! Vielleicht schaffen wir es ja noch vor Weihnachten, die 20'000 Franken-Marke zu knacken...
+
+**14.12.2018: BOS Schweiz zu Gast auf der Weihnachtsfeier der Kuratle AG**
+
+Am 14.12. durften wir einen kleinen Info-Stand aufbauen bei der Weihnachtsfeier unseres Hauptsponsors der ersten One-Tree-One-Life-Kampagne - der Kuratle AG. Auch den [aktuellen Namenswettbewerb](http://www.bos-schweiz.ch/de/mediathek/aktuell/name-gesucht.htm) für ein in der Wildnis geborenes Baby konnten wir dort bewerben. Zudem informierten wir über unsere Aufforstungsaktivitäten in der zwieten Runde der Kampagne. Das Ganze in der wunderschönen Umweltarena Spreitenbach - was will man mehr :)
+
+![](/uploads/2018/12/18/20181214_174118.jpg)
+
 **5.12.2018: Orang-Utan-Themenwoche im Radio Zürisee**
 
-Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo. Nicht verpassen! 
+Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo. 
 
-**4.12.2018: AKTUELLER SPENDENSTAND: 12'395.51 Franken** 
+**4.12.2018: AKTUELLER SPENDENSTAND: 12'395.51 Franken**
 
-Herzlichen Dank an alle, die unsere Reise verfolgt haben und für unser Anliegen nach wie vor spenden. Die ONE-TREE-ONE-LIFE-Kampagne läuft auf Hochtouren! **Spendet weiterhin Setzlinge oder verschenkt Bäume, statt Christbäume zu fällen** :) 
+Herzlichen Dank an alle, die unsere Reise verfolgt haben und für unser Anliegen nach wie vor spenden. Die ONE-TREE-ONE-LIFE-Kampagne läuft auf Hochtouren! **Spendet weiterhin Setzlinge oder verschenkt Bäume, statt Christbäume zu fällen** :)
 
-**3.12.2018: Setzlinge spenden beim Wollmützen kaufen** 
+**3.12.2018: Setzlinge spenden beim Wollmützen kaufen**
 
-Wer bei **nikin.ch** - unserem Hauptsponsor in diesem Jahr - eine **Wollmütze** der Linie **"Treeanie Slack Coal"** bestellt spendet automatisch einen Setzling für die ONE-TREE-ONE-LIFE... 
+Wer bei **nikin.ch** - unserem Hauptsponsor in diesem Jahr - eine **Wollmütze** der Linie **"Treeanie Slack Coal"** bestellt spendet automatisch einen Setzling für die ONE-TREE-ONE-LIFE...
 
 ![](/uploads/2018/12/05/Lay2_Nikin_OTOL_BOS_A4_2.jpg)
 
