@@ -6,9 +6,17 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**Orang-Utan-Themenwoche auf Radio Zürisee verpasst?** 
+**AKTUELLER SPENDENSTAND: 28'333,01 Franken**
 
-Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... dort sammeln wir auch weitere Radio/TV-Beiträge von Roger, der uns v.a. in letzter Zeit sehr intensiv unterstützt. Merci dafür! 
+In den letzten Wochen hat der One-Tree-One-Life-Spendenstand nochmal ordentlich zugelegt, dank einiger grösserer Weihnachts- und Neujahrsspenden. Herzlichen Dank an alle, die ans Bäumepflanzen und Setzlingeverschenken gedacht haben! 
+
+Beim Nachtreffen der Volontärreise haben wir uns zudem an die vielen schönen gemeinsamen Erlebnisse erinnert, überlegt, wie die Kampagne und die Reise in Zukunft weiter entwicklet werden könnten und was noch auf dem Programm für die nächsten Monate stehen soll. Die Volontäre bleiben involviert - von Flyeraktionen über Kinderworkshop, Fundraising und Infoveranstaltungen gibt es unzählige Möglichkeiten mit zu wirken. 
+
+Im Sommer ist u.a. ein Besuch auf dem Asia Festival in Bern und neu auch in Zürich geplant. Das Festival spendet in diesem Jahr zu Gunsten von BOS Schweiz und überlässt uns einen Info-/Merchandisestand. Mit den Sponsoren der nächsten Runde sprechen wir bereits. Auch Personen, die im kommenden Herbst gerne mit BOS Schweiz nach Borneo reisen und Teil der One-Tree-One-Life werden möchten, wenden sich bitte an info@bos-schweiz.ch!
+
+**Orang-Utan-Themenwoche auf Radio Zürisee verpasst?**
+
+Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... dort sammeln wir auch weitere Radio/TV-Beiträge von Roger, der uns v.a. in letzter Zeit sehr intensiv unterstützt. Merci dafür!
 
 **AKTUELLER SPENDENSTAND: eindrückliche 18'613.11 Franken**
 
@@ -20,7 +28,7 @@ Am 14.12. durften wir einen kleinen Info-Stand aufbauen bei der Weihnachtsfeier 
 
 ![](/uploads/2018/12/18/20181214_174118.jpg)**5.12.2018: Orang-Utan-Themenwoche im Radio Zürisee**
 
-Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo. 
+Ab dem 10.12. läuft auf Radio Zürisee eine Themenwoche zu den Orang-Utans und Roger Rhyners Volontärreise nach Borneo.
 
 **4.12.2018: AKTUELLER SPENDENSTAND: 12'395.51 Franken**
 
