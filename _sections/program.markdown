@@ -6,11 +6,11 @@ date: 2018-01-02 15:16:24 +0000
 anchor: programm
 
 ---
-**AKTUELLER SPENDENSTAND: 28'333,01 Franken**
+**AKTUELLER SPENDENSTAND: 30'321.56 Franken**
 
-In den letzten Wochen hat der One-Tree-One-Life-Spendenstand nochmal ordentlich zugelegt, dank einiger grösserer Weihnachts- und Neujahrsspenden. Herzlichen Dank an alle, die ans Bäumepflanzen und Setzlingeverschenken gedacht haben! 
+In den letzten Wochen hat der One-Tree-One-Life-Spendenstand nochmal ordentlich zugelegt, dank einiger grösserer Weihnachts- und Neujahrsspenden. Herzlichen Dank an alle, die ans Bäumepflanzen und Setzlingeverschenken gedacht haben!
 
-Beim Nachtreffen der Volontärreise haben wir uns zudem an die vielen schönen gemeinsamen Erlebnisse erinnert, überlegt, wie die Kampagne und die Reise in Zukunft weiter entwicklet werden könnten und was noch auf dem Programm für die nächsten Monate stehen soll. Die Volontäre bleiben involviert - von Flyeraktionen über Kinderworkshop, Fundraising und Infoveranstaltungen gibt es unzählige Möglichkeiten mit zu wirken. 
+Beim Nachtreffen der Volontärreise haben wir uns zudem an die vielen schönen gemeinsamen Erlebnisse erinnert, überlegt, wie die Kampagne und die Reise in Zukunft weiter entwicklet werden könnten und was noch auf dem Programm für die nächsten Monate stehen soll. Die Volontäre bleiben involviert - von Flyeraktionen über Kinderworkshop, Fundraising und Infoveranstaltungen gibt es unzählige Möglichkeiten mit zu wirken.
 
 Im Sommer ist u.a. ein Besuch auf dem Asia Festival in Bern und neu auch in Zürich geplant. Das Festival spendet in diesem Jahr zu Gunsten von BOS Schweiz und überlässt uns einen Info-/Merchandisestand. Mit den Sponsoren der nächsten Runde sprechen wir bereits. Auch Personen, die im kommenden Herbst gerne mit BOS Schweiz nach Borneo reisen und Teil der One-Tree-One-Life werden möchten, wenden sich bitte an info@bos-schweiz.ch!
 
