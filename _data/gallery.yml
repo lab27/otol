@@ -39,14 +39,26 @@
   width: '800'
   height: '533'
   preview: true
+- path: "/2018/12/05/Lay1_Nikin_OTOL_BOS_A4_1.jpg"
+  width: '800'
+  height: '565'
+  preview: true
+- path: "/2018/12/05/Lay2_Nikin_OTOL_BOS_A4_2.jpg"
+  width: '800'
+  height: '565'
+  preview: true
+- path: "/2018/12/18/20181214_174118.jpg"
+  width: '800'
+  height: '600'
+  preview: false
 - path: "/2018/11/08/Ilonka.jpeg"
   width: '800'
   height: '546'
-  preview: true
+  preview: false
 - path: "/2018/11/11/IMG-20181105-WA0040.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/11/11/IMG-20181111-WA0011.jpg"
   width: '533'
   height: '800'
@@ -194,6 +206,82 @@
 - path: "/2018/11/10/IMG-20181104-WA0004.jpg"
   width: '800'
   height: '552'
+  preview: false
+- path: "/2018/11/22/20171103_170505.jpg"
+  width: '800'
+  height: '450'
+  preview: false
+- path: "/2018/11/22/IMG-20181102-WA0007.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/22/3.jpg"
+  width: '800'
+  height: '521'
+  preview: false
+- path: "/2018/11/22/DSC00555.JPG"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/22/20171109_085211.jpg"
+  width: '800'
+  height: '450'
+  preview: false
+- path: "/2018/11/22/IMG-20181116-WA0007.jpg"
+  width: '534'
+  height: '800'
+  preview: false
+- path: "/2018/11/22/IMG-20181118-WA0013.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/2018/11/22/IMG-20181119-WA0014.jpg"
+  width: '600'
+  height: '800'
+  preview: false
+- path: "/2018/11/22/IMG-20181118-WA0039.jpg"
+  width: '800'
+  height: '449'
+  preview: false
+- path: "/2018/11/22/Danke.jpg"
+  width: '800'
+  height: '536'
+  preview: false
+- path: "/2018/11/22/BPI_Partners_Topan_2018-6745.jpg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/2018/11/22/- Sawa dan Sawi.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/22/IMG-20181118-WA0011.jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/22/BOSF-Partners-2018_Photo Flow-2261 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: false
+- path: "/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg"
+  width: '533'
+  height: '800'
+  preview: false
+- path: "/2018/11/22/IMG-20181119-WA0007 (1).jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/11/22/IMG-20181122-WA0007.jpg"
+  width: '800'
+  height: '600'
+  preview: false
+- path: "/2018/11/22/IMG-20181122-WA0009.jpg"
+  width: '800'
+  height: '601'
+  preview: false
+- path: "/2018/11/22/IMG-20181118-WA0029.jpg"
+  width: '800'
+  height: '449'
   preview: false
 - path: "/2018/11/17/DSC00726.JPG"
   width: '800'
