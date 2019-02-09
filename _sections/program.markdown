@@ -62,7 +62,9 @@ Ausserdem hat BOS sich zum Ziel gesetzt, zur weltweit einzigen **RETTUNGSSTATION
 
 ![](/gallery/full/2018/11/22/- Sawa dan Sawi.jpg)In der Praxis arbeiten wir fieberhaft an der Umsetzung dieser Vision, für die v.a. zwei Dinge nötig sind: **1.) weitere pre-Release-Inseln**, auf denen Orang-Utans die Freiheit üben können, und **2.) sichere und geeignete Auswilderungsgebiete.**  Lange Zeit mangelte es v.a. an Letzterem. Zehn Jahre lang konnte die BOS Foundation deshalb nicht auswildern. Gleichzeitig strömten immer mehr Neuankömmlinge in die Stationen. Tiere, die bereits auf die Auswilderung vorbereitet worden waren, mussten zurück in Gemeinschaftsgehege - auf die Gefahr hin, das bereits Erlernte dort wieder zu verlernen.
 
-![](/gallery/full/2018/11/22/IMG-20181118-WA0013.jpg)Auch wenn heute immer noch viel zu viele Orang-Utans in Käfigen leben müssen, wurden in den letzten Jahren riesige Fortschritte bei der Umsetzung dieser Vision erzielt: **Seit 2012 konnte BOS knapp 380 rehabilitierte Orang-Utans zurück in die Freiheit schicken!** Mit **Kehje Sewen** erwarb die BOS Foundation ein eigenes, 86450 Hektare grosses Schutzgebiet, das - neben zwei weiteren Auswilderungegebieten - heute von der Stiftung genutzt und in diesem Fall auch verwaltet wird. Mehr als 1 Mio. Franken kostete die Konzession und auch das Management ist mit kostspieligen Auflagen verbunden. Diese Kosten, sowie ein Grossteil der Logistikkosten für die Auswilderungen nach Kehje Sewen wurden aus der Schweiz über Stiftungsgelder finanziert.
+![](/gallery/full/2018/11/22/IMG-20181118-WA0013.jpg)
+
+Auch wenn heute immer noch viel zu viele Orang-Utans in Käfigen leben müssen, wurden in den letzten Jahren riesige Fortschritte bei der Umsetzung dieser Vision erzielt: **Seit 2012 konnte BOS knapp 380 rehabilitierte Orang-Utans zurück in die Freiheit schicken!** Mit **Kehje Sewen** erwarb die BOS Foundation ein eigenes, 86450 Hektare grosses Schutzgebiet, das - neben zwei weiteren Auswilderungegebieten - heute von der Stiftung genutzt und in diesem Fall auch verwaltet wird. Mehr als 1 Mio. Franken kostete die Konzession und auch das Management ist mit kostspieligen Auflagen verbunden. Diese Kosten, sowie ein Grossteil der Logistikkosten für die Auswilderungen nach Kehje Sewen wurden aus der Schweiz über Stiftungsgelder finanziert.
 
 Ein **neues Auswilderungsgebiet**, das einen Korridor zwischen KJ7 und einem weiter nördlich gelegenen Naturschutzgebiet schaffen wird, erwirbt die BOS Foundation zur Zeit. Dieses Vorhaben, sowie der **Bau von mehreren grossen Pre-Release-Inseln** in Samboja Lestari fallen ebenfalls unter das BOS Schweiz-finanzierte Ost-Kalimantan-Projekt.
 
@@ -106,9 +108,13 @@ Bitte helft mit. Die Orang-Utans aber auch eure eigenen Kinder und Enkelkinder w
 
 Wenn es etwas gibt, das mir von dieser Reise immer in Erinnerung bleiben wird, so sind es die Augen der kleinen Orang-Utan-Babies. Die dunklen Äuglein, umrahmt von langen Wimpern, schauen einen mit so viel Hoffnung an, dass man dahin schmelzen könnte. Jedes Mal aufs Neue. Um auf gleicher Höhe mit den Babies zu sein, knieten wir uns also hin und kamen vor Entzücken fast nicht weiter. Ein Kleines wurde in einer winzigen Hängematte geschaukelt, ein Zweites übte sich im Bananen essen, ein Drittes hing kopfüber von einem Reifen.
 
-![](/gallery/full/2018/11/22/IMG-20181116-WA0007.jpg)Eines stand ganz nah bei den Gitterstäben und beobachtete uns neugierig. Topan ist ihr Name. Sie wurde mit einem Körpergewicht von nur 1,5 kg und völlig dehydriert im Oktober 2017 gerettet. Ihr Gesundheitszustand war damals kritisch.
+![](/gallery/full/2018/11/22/IMG-20181116-WA0007.jpg)
 
-![](/gallery/full/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg)Ich sah dieses Baby und da war ich mich klar, dass ich mir als Weihnachtsgeschenk eine Patenschaft für sie wünsche. Ich möchte sehen, wie sie ein grosser Affe wird, wie sie zuerst in die Forest School kommt, dann auf die pre-Release-Insel, dann in Quarantäne und schlussendlich in der Wildnis eine eigene Familie gründet. Fern ab von Palmölplantagen, sodass ihre Kinder nicht das gleiche durchmachen müssen wie sie, sondern einfach frei sein können. Heute jedenfalls geht es Topan schon viel besser...
+Eines stand ganz nah bei den Gitterstäben und beobachtete uns neugierig. Topan ist ihr Name. Sie wurde mit einem Körpergewicht von nur 1,5 kg und völlig dehydriert im Oktober 2017 gerettet. Ihr Gesundheitszustand war damals kritisch.
+
+![](/gallery/full/2018/11/22/SPECIAL_Björn Vaughn_Topan_20171013_162028-01-01-01-01.jpeg)
+
+Ich sah dieses Baby und da war ich mich klar, dass ich mir als Weihnachtsgeschenk eine Patenschaft für sie wünsche. Ich möchte sehen, wie sie ein grosser Affe wird, wie sie zuerst in die Forest School kommt, dann auf die pre-Release-Insel, dann in Quarantäne und schlussendlich in der Wildnis eine eigene Familie gründet. Fern ab von Palmölplantagen, sodass ihre Kinder nicht das gleiche durchmachen müssen wie sie, sondern einfach frei sein können. Heute jedenfalls geht es Topan schon viel besser...
 
 ![](/gallery/full/2018/11/22/BPI_Partners_Topan_2018-6745.jpg)
 
@@ -156,7 +162,9 @@ Um für die Orang-Utans in der Rettungsstation für Unterhaltung und Training zu
 
 ![](/gallery/full/2018/11/11/IMG-20181105-WA0014.jpg)Den Bambus sägten wir in kleinere Stücke, die wir mit Leckereien (wie Erdnüsse, Kerne und Rosinen) befüllten. Diese werden zusammen mit einer frisch gekochten klebrigen Paste aus Kartoffeln, Kürbis oder Kasava an die Innenseite der Bambusrohre gestrichen.
 
-![](/gallery/full/2018/11/11/IMG-20181105-WA0020.jpg)Die Orang-Utans müssen all ihre Geschicklichkeit unter Beweis stellen, um als Belohnung an die Leckereien zu kommen. Das fördert ihre motorischen Fähigkeiten, hält vor allem diejenigen Tiere, die in den Käfigen gehalten werden müssen, bei Laune und sorgt für Abwechslung in der Ernährung!
+![](/gallery/full/2018/11/11/IMG-20181105-WA0020.jpg)
+
+Die Orang-Utans müssen all ihre Geschicklichkeit unter Beweis stellen, um als Belohnung an die Leckereien zu kommen. Das fördert ihre motorischen Fähigkeiten, hält vor allem diejenigen Tiere, die in den Käfigen gehalten werden müssen, bei Laune und sorgt für Abwechslung in der Ernährung!
 
 Fast schon kustvoll sehen auch diese Guetzli aus:
 
@@ -236,7 +244,9 @@ Am 1.11. ging es für mich nach anstrengenden aber schönen 10 Tagen zurück nac
 
 ![](/gallery/full/2018/11/10/IMG-20181105-WA0021.jpg)Die beiden Angelas und Sahra wurden überschwenglich von alten Bekannten begrüsst, alle erfuhren, was es mit dem Enrichment auf sich hat, wir besichtigten das BOS Büro, blickten von der Terasse über den aufgeforsteten Regenwald und besichtigen die Stelle, wo unsere OTOL Volontäre aufforsten werden.
 
-![](/gallery/full/2018/11/10/IMG-20181102-WA0014.jpg)Den ersten Arbeitseinsatz leisteten unsere Volontäre bei den Bären und bauten eine wunderbare Fütterungsplatform in einem der alten Aussengehege. Nur wer die erschwerten klimatischen Bedingugen kennt, weiss, wie viele Schweisstropfen dabei geflossen sein müssen... alle Achtung und liebe Grüsse zurück an euch aus der Schweiz!
+![](/gallery/full/2018/11/10/IMG-20181102-WA0014.jpg)
+
+Den ersten Arbeitseinsatz leisteten unsere Volontäre bei den Bären und bauten eine wunderbare Fütterungsplatform in einem der alten Aussengehege. Nur wer die erschwerten klimatischen Bedingugen kennt, weiss, wie viele Schweisstropfen dabei geflossen sein müssen... alle Achtung und liebe Grüsse zurück an euch aus der Schweiz!
 
 ![](/gallery/full/2018/11/10/IMG-20181105-WA0048.jpg)**29.10.2018 Erste Eindrücke - Vera Viel**
 
