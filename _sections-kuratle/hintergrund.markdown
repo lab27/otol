@@ -46,6 +46,6 @@ Auch in Zentral-Kalimantan forstet BOS auf – in einem Gebiet, wo Ende der 90ig
 Den einstigen Primärregenwald kann man nicht ersetzen. Ein wieder aufgeforsteter Wald kann aber viele der ursprünglichen Funktionen übernehmen. BOS plant auf 70 000 Hektaren weit über 1 Million Bäume zu pflanzen. So soll neuer Lebensraum geschaffen werden, u.a. für knapp 2 500 wilde Orang-Utans, die dort heute noch zu Hause sind. Dies ist eine der grössten bekannten Orang-Utan-Populationen!
 
 {:figure .image.left}
-![](/uploads/2018/01/24/16.JPG){:class="img-responsive"}
+![](/gallery/full/2018/01/24/16.JPG){:class="img-responsive"}
 
 Im Rahmen des Projektes mit dem Titel „SOS Borneo“ wurden bereits 47 196 Setzlinge gezüchtet. Eine eigene Baumschule sichert den einheimischen Kräften ein stabiles und nachhaltiges Einkommen. Knapp 45 000 Bäume wurden auf 40 Hektaren angepflanzt und knapp 30 Entwässerungskanäle mit einer Gesamtlänge von über 60 km blockiert. So ist nicht nur die Brandgefahr gesunken. Auch dem illegalen Holzeinschlag und dem Handel mit Wildtieren wurden die Kanäle als Handelswege genommen.
