@@ -1,4 +1,6 @@
 ---
+- name: Weita AG
+  link: https://www.weita.ch/de/home.htm
 - name: mimi + bob
   link: https://www.mimiundbob.ch/
 - name: 'Casa-Vita / Frefel Holzbau AG '
