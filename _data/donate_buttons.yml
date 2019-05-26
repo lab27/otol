@@ -1,5 +1,5 @@
 ---
-nikin:
+nikin_paypal:
 - label: 1 Baum - CHF 7.65 *
   code: RWAMJMGNSRNA8
   icon: tree-small
@@ -20,12 +20,35 @@ nikin:
   code: TCE9469S63S4S
   icon: gift-solid
   class: cta-button gift
+nikin_raisenow:
+- label: 1 Baum - CHF 7.65 *
+  icon: tree-small
+  class: cta-button gift
+  message: BOS_Schweiz_via_Nikin
+  amount: 765
+- label: 5 Bäume - CHF 38.25 *
+  icon: tree-medium
+  class: cta-button gift
+  message: BOS_Schweiz_via_Nikin
+  amount: 3825
+- label: 10 Bäume - CHF 76.50 *
+  icon: tree-large
+  class: cta-button gift
+  message: BOS_Schweiz_via_Nikin
+  amount: 7650
+- label: beliebiger Betrag
+  icon: sprout3
+  class: cta-button gift
+  message: BOS_Schweiz_via_Nikin
+- label: Bäume mit Urkunde verschenken
+  icon: gift-solid
+  class: cta-button gift
+  message: BOS_Schweiz_via_Nikin_mit_Urkunde
 kuratle:
 - label: 1 Setzling - CHF 1.00
   icon: sprout1
-  code: DZE9PJBJY7V4L
   class: cta-button
-main:
+main_paypal:
 - label: 1 Setzling - CHF 1.00
   icon: sprout1
   code: 6YGTFXSRFXNHN
@@ -49,4 +72,33 @@ main:
 - label: Bäume mit Urkunde verschenken
   icon: gift-solid
   code: 4RKG4355S4A5Y
+  class: cta-button gift
+main_raisenow:
+- label: 1 Setzling - CHF 1.00
+  icon: sprout1
+  message: OneTreeOneLife
+  amount: 100
+  class: cta-button gift
+- label: 1 Baum - CHF 7.65 *
+  icon: tree-small
+  message: OneTreeOneLife
+  amount: 700
+  class: cta-button gift
+- label: 5 Bäume - CHF 38.25 *
+  icon: tree-medium
+  message: OneTreeOneLife
+  amount: 3800
+  class: cta-button gift
+- label: 10 Bäume - CHF 76.50 *
+  icon: tree-large
+  message: OneTreeOneLife
+  amount: 7600
+  class: cta-button gift
+- label: beliebiger Betrag
+  icon: sprout3
+  message: OneTreeOneLife
+  class: cta-button gift
+- label: Bäume mit Urkunde verschenken
+  icon: gift-solid
+  message: OneTreeOneLife_MitUrkunde
   class: cta-button gift

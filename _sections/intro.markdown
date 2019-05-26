@@ -12,4 +12,4 @@ Jedes Jahr werden allein auf Borneo 1.3 Mio. Hektare Regenwald vernichtet. Dies 
 
 **Möchtest auch Du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann erwerbe oder verschenke zu je 7.65 Franken einen Baum (Setzling + 5 Jahre Pflege) oder gleich einen ganzen Regenwald.** Mach mit und erlebe, wie Dein Engagement auf Borneo Wurzeln schlägt!
 
-{% include donate-group.html buttons=site.data.donate_buttons.main %}
+{% include donate-group.html buttons=site.data.donate_buttons.main_raisenow %}

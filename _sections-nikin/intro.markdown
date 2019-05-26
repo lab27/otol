@@ -19,4 +19,4 @@ verantwortungsvollen und nachhaltigen Umgang mit ihnen zum Ausdruck.
 
 Im Rahmen der One-Tree-One-Life-Kampagne forstet BOS Schweiz in Borneo, Indonesien zerstörte Regenwaldgebiete wieder auf. **Zu je 7.65 Franken kannst Du hier einen Baum + 5 Jahre Pflege erwerben bzw. verschenken.** Oder soll es gleich ein ganzer Regenwald ab 5 Bäumen aufwärts sein? Mach mit und erlebe, wie Dein Engagement auf Borneo Wurzeln schlägt!
 
-{% include donate-group.html buttons=site.data.donate_buttons.nikin %}
+{% include donate-group.html buttons=site.data.donate_buttons.nikin_raisenow %}
