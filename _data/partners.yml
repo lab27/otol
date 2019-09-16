@@ -1,4 +1,6 @@
 ---
+- name: Green Things
+  link: https://www.greenthings.ch
 - name: Havas AG
   link: https://swiss.havas.com/
 - name: HEALFIT LIFESTYLE
