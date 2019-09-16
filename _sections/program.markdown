@@ -1,11 +1,15 @@
 ---
-order: 3
+order: "3"
 include: sections/alternate.html
 title: Programm 2018
-date: 2018-01-02 15:16:24 +0000
+date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**FINALER SPENDENSTAND JUNI 2019**
+
+Unsere **3.** **Fundraising-Runde** der **One-Tree-One-Life-Kampagne** beenden wir nun, im Juni 2019, mit einem **finalen Spendenstand von 33144.41 Franken**! herzlichen Dank an alle Unterstützerinnen und Unterstützer. Im Herbst 2019 heisst es dann: One-Tree-One-Life Runde 4 wir kommen! 
+
 **AKTUELLER SPENDENSTAND: 30'321.56 Franken**
 
 In den letzten Wochen hat der One-Tree-One-Life-Spendenstand nochmal ordentlich zugelegt, dank einiger grösserer Weihnachts- und Neujahrsspenden. Herzlichen Dank an alle, die ans Bäumepflanzen und Setzlingeverschenken gedacht haben!
