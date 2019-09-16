@@ -1,4 +1,6 @@
 ---
+- name: Carbon Connect
+  link: https://www.carbon-connect.ch/
 - name: Green Things
   link: https://www.greenthings.ch
 - name: Havas AG
