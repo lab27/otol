@@ -1,4 +1,6 @@
 ---
+- name: Livision
+  link: https://livisionled.ch
 - name: Carbon Connect
   link: https://www.carbon-connect.ch/
 - name: Green Things
