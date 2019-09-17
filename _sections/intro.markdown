@@ -1,12 +1,12 @@
 ---
-order: 0
+order: "0"
 include: sections/normal.html
 title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
 date: 2018-01-02T15:16:24.000+00:00
 anchor: intro
 
 ---
-Jedes Jahr werden allein auf Borneo 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so die Lebensgrundlage der letzten und grössten Baumbewohner der Welt: der Orang-Utans. Ihnen und vielen andere bedrohten Arten bietet der Wald Lebensraum, Schutz und Nahrung. Für uns liefert er Sauerstoff und regelt unser Weltklima. **Im Rahmen der One-Tree-One-Life-Kampagne forsten wir von BOS Schweiz deshalb gemeinsam mit Volontären und Mitarbeitenden der BOS Foundation in Indonesien zerstörte Regenwaldgebiete wieder auf.**
+Jedes Jahr werden allein auf Borneo in Indonesien 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so die Lebensgrundlage der letzten und grössten Baumbewohner der Welt: der Orang-Utans. Ihnen und vielen andere bedrohten Arten bietet der Wald Lebensraum, Schutz und Nahrung. Für uns liefert er Sauerstoff und regelt unser Weltklima. **Im Rahmen der One-Tree-One-Life-Kampagne forsten wir von BOS Schweiz deshalb gemeinsam mit Volontären und Mitarbeitenden der BOS Foundation in Indonesien zerstörte Regenwaldgebiete wieder auf.**
 
 <div class="videoWrapper"> <iframe src="https://player.vimeo.com/video/245368582" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
 
