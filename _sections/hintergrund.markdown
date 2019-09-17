@@ -1,5 +1,5 @@
 ---
-order: "1"
+order: 1
 include: sections/reverse.html
 title: Hintergrund
 anchor: hintergrund

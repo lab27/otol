@@ -1,5 +1,5 @@
 ---
-order: "2"
+order: 2
 include: sections/normal.html
 title: One-Tree-One-Life und Volontärreise 2018
 anchor: kampagne-reise
