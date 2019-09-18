@@ -1,7 +1,7 @@
 ---
-order: 7
+order: "7"
 include: sections/reverse.html
-title: Unterstützerinnen 2018
+title: Unterstützerinnen 2018/2019
 anchor: unterstuezerinnen
 
 ---
