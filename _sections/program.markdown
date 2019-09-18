@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: 3
 include: sections/alternate.html
 title: Rückblick Programm 2018
 date: 2018-01-02T15:16:24.000+00:00
