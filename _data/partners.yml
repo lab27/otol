@@ -1,4 +1,6 @@
 ---
+- name: haudejacobian
+  link: www.haudejacobian.ch
 - name: Lush Schweiz
   link: https://www.lush.ch/startseite.aspx
 - name: Custom Campers
@@ -15,8 +17,6 @@
   link: https://www.carbon-connect.ch/
 - name: Green Things
   link: https://www.greenthings.ch
-- name: Havas AG
-  link: https://swiss.havas.com/
 - name: HEALFIT LIFESTYLE
   link: https://healfit.ch
 - name: Outdoorland AG
@@ -25,20 +25,10 @@
   link: https://www.weita.ch/de/home.htm
 - name: mimi + bob
   link: https://www.mimiundbob.ch/
-- name: 'Casa-Vita / Frefel Holzbau AG '
-  link: http://www.casa-vita.ch
 - name: Bimbosan AG
   link: https://bimbosan.ch/
-- name: Good Soaps
-  link: https://www.good-soaps.shop/
-- name: Michel Gammenthaler
-  link: https://www.michel-gammenthaler.ch/
 - name: NIKIN
   link: https://www.nikin.ch/
-- name: Hair & Care AG
-  link: https://hairand.care/de/
-- name: Edelholz Switzerland
-  link: https://www.edelholz-switzerland.com/aufforstung
 - name: Asia 365
   link: http://www.asia365.ch/
 - name: Niles
