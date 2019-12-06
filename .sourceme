@@ -1,6 +1,8 @@
 echo
 echo '  bundle exec jekyll serve'
 echo '  rebuild-gallery'
+echo '  check-order'
 echo
 
 alias rebuild-gallery='rm uploads.idx; touch uploads.idx; rm -rf gallery; ./process_all.sh'
+alias check-order="ack ^order:"
