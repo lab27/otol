@@ -86,8 +86,8 @@ showCampaign()
 
 // routing
 const route = Rlite(notFound, {
-  '': function() { // # -> #game
-    routeTo('game');
+  '': function() { // # -> #campaign
+    routeTo('campaign');
   },
   'game': showGame, // #game
   'campaign': showCampaign // #campaign
