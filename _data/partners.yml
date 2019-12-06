@@ -1,4 +1,6 @@
 ---
+- name: rubrik
+  link: www.rubrik.com
 - name: haudejacobian
   link: https://www.haudejacobian.ch/
 - name: Lush Schweiz
