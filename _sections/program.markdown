@@ -10,13 +10,18 @@ anchor: programm
 
 Auch wenn die Volontärreise erst 2020 stattfinden wird, sind alle bereits tatkräftig im Einsatz für BOS Schweiz. Alle Teilnehmenden kommen für die Reise- und Unterbringungskosten selber. Zudem leisten sie einen wichtigen Beitrag zum Programm: Sie investieren ihre wertvolle Arbeitszeit und helfen uns so, Spendengelder für die Aufforstung zu sammeln. Einen Teil der Setzlinge und Bäume, die in den kommenden Wochen gespendet werden, pflanzen die Volontäre dann eigenhändig vor Ort.
 
-![](/gallery/full/2019/12/15/Foto 30.11.19, 11 58 07.jpg)
+{: .image.left}
+![](/gallery/full/2019/12/15/Foto 30.11.19, 11 58 07.jpg){:class="img-responsive"}
+_Quelle: BOS Schweiz_
 
 Aktuell geht es vor allem darum, die One-Tree-One-Life-Kampagne bekannt zu machen. Hierfür haben die Volontäre bereits Standbilder im Kino und zahlreiche Spenden-Kässli in Shops platziert sowie Plakate gestaltet und Flyer verteilt. Auch auf zwei Weihnachtsmärkten verkauften die Volontäre Produkte, Glühwein und Guetzli zu Gunsten der gemeinsamen Kampagne. Wir sind begeistert! Weiter so!
 
 Herzlichen Dank auch an alle Volontäre, die uns beim BOS Schweiz-Jubiläumsevent am 1. Dezember 2019 und der dazugehörigen [Fotoausstellung We are the forest](https://www.bos-schweiz.ch/de/regenwald/fotoausstellung.htm) in der Photobastei Zürich unterstützt haben. Beim Auf- und beim anstehenden Abbau, am Infostand und bei der Vernissage habt ihr vollen Einsatz gezeigt!
 
-![](/gallery/full/2019/12/15/20191126_131358.jpg)
+{: .image.right}
+![](/gallery/full/2019/12/15/20191126_131358.jpg){:class="img-responsive"}
+_Quelle: BOS Schweiz_
+
 
 **Das Programm und die Volontäre 2019/2020**
 
@@ -26,9 +31,12 @@ Ausserdem wissen wir schon jetzt, dass die Zusammensetzung unsere Volontärsgrup
 
 Trotz grosser Unterschiede was das Alter und den beruflichen Hintergrund der Teilnehmenden angeht, haben sie aber Eines gemeinsam: Ihre Liebe zu den Bäumen und den Tieren sowie ihren Willen, etwas aus eigener Kraft zu bewegen! Mit ihrem Engagement geben sie den Orang-Utans Lebensraum zurück. Schön, dass ihr alle dabei seid!
 
+
 **FINALER SPENDENSTAND RUNDE II**
 
-![](/gallery/full/2018/11/10/IMG-20181109-WA0008.jpg)
+{: .image.left}
+![](/gallery/full/2018/11/10/IMG-20181109-WA0008.jpg){:class="img-responsive"}
+_Quelle: BOS Schweiz_
 
 Unsere **2. Fundraising-Runde** der **One-Tree-One-Life-Kampagne** beenden wir nun, im Juni 2019, mit einem **finalen Spendenstand von 33144.41 Franken**! Herzlichen Dank an alle Unterstützerinnen und Unterstützer sowie die Sponsoren der diesjährigen Kampagne. Wir hoffen, ihr bleibt am Ball und seid auch ab Herbst 2019 wieder dabei wenn es heisst: One-Tree-One-Life Runde III wir kommen!
 
@@ -36,4 +44,6 @@ Unsere **2. Fundraising-Runde** der **One-Tree-One-Life-Kampagne** beenden wir n
 
 Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee, der/die uns vor, während und nach seiner Volontärreise sehr intensiv v.a. im Bereich PR-Arbeit unterstützt hast.
 
-![](/gallery/full/2018/11/22/Danke.jpg)
+{: .image.right}
+![](/gallery/full/2018/11/22/Danke.jpg){:class="img-responsive"}
+_Quelle: BOS Foundation_
