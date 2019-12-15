@@ -1,7 +1,7 @@
 ---
 order: "3"
 include: sections/alternate.html
-title: Was 2019/2020 auf dem Programm steht
+title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
