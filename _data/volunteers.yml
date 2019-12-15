@@ -1,25 +1,8 @@
 ---
-- name: Roger Ryner
-  image: "/gallery/full/2018/09/26/Roger_Ryner_klein.jpeg"
-  details:
-  - title: Familie & Beruf
-    info: Ich bin verheiratet, habe zwei bald erwachsene Kinder und bin von Beruf
-      Kinderbuchautor & Radiomoderator.
-  - title: Hobbys & Abenteuer
-    info: 'Theater spielen, Ölbilder malen, Musik machen (ich spiele viele Instrumente,
-      aber keines richtig :-)). Einige Abenteuerreisen habe ich auch schon hinter
-      mir: Eine Atlantik-Überseglung mit einem kleinem Boot, ich habe per Jeep die
-      Sahara durchquert, in Wyoming Dinosaurier ausgegraben, 10 Tage im Wald überlebt
-      ohne Essen, Zelt oder Schlafsack und mich per Schwimmreif von Glarus bis nach
-      Basel bewegt.'
-  - title: Was ich mag bzw. nicht mag
-    info: Ich mag aufgestellte positive Menschen, kreative Ideen zu entwickeln und
-      mit Freunden zu kochen. Ewige Nörgler und Ideen-Verhinderer verderben mir die
-      Laune.
-  motivation: Seit meinem Abenteuer „Überleben im Wald“ ist mir der Wald sehr ans
-    Herz gewachsen. Das Schicksal der „Waldmenschen“ (Orang-Utans) beschäftigt mich
-    deshalb sehr. Ich möchte verstehen lernen, wie wir ihnen und ihrem Zuhause, dem
-    Regenwald, helfen können.
+- name: Carina, Florian, Bettina, Joe und Gaby
+  image: ''
+  details: []
+  motivation: ''
 - name: Valerie Bader
   image: "/gallery/full/2018/09/26/Valerie_Bader_klein.jpg"
   details:
