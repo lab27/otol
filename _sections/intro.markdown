@@ -6,7 +6,7 @@ date: 2018-01-02T15:16:24.000+00:00
 anchor: intro
 
 ---
-Verschneite Landschaften, feine Guetzli, heisser Punsch und ein schön geschmückter Christbaum: So feiern Viele in der Schweiz die Weihnachtszeit. Auf Borneo in Indonesien hat ein **Baum** jedoch eine ganz andere Bedeutung. Dort symbolisiert er keine Tradition, sondern **bietet Lebensraum, Schutz und Nahrung** für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans. Für uns liefern die Regenwälder Indonesiens **Sauerstoff** und regeln unser **Weltklima**.
+Verschneite Landschaften, feine Guetzli, heisser Punsch und ein schön geschmückter Christbaum: So feiern Viele in der Schweiz die Weihnachtszeit. Auf Borneo in Indonesien hat **ein Baum** jedoch eine ganz andere Bedeutung. Dort symbolisiert er keine Tradition, sondern **bietet Lebensraum, Schutz und Nahrung** **für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans.** **Für uns liefern die Regenwälder Indonesiens Sauerstoff und regeln unser Weltklima.**
 
 Dennoch werden jedes Jahr allein auf Borneo 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so die Lebensgrundlage der Orang-Utans und anderer bedrohter Arten. **Im Rahmen der One-Tree-One-Life-Kampagne forsten wir von BOS Schweiz deshalb gemeinsam mit Volontären und Mitarbeitenden der BOS Foundation in Indonesien zerstörte Regenwaldgebiete wieder auf.**
 
