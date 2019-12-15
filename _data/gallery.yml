@@ -1,4 +1,8 @@
 ---
+- path: "/2019/12/15/20160531_121216.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2019/12/15/Foto1.JPG"
   width: '800'
   height: '600'
