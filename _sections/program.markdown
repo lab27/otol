@@ -10,9 +10,13 @@ anchor: programm
 
 Auch wenn die Volontärreise erst 2020 stattfinden wird, sind alle bereits tatkräftig im Einsatz für BOS Schweiz. Alle Teilnehmenden kommen für die Reise- und Unterbringungskosten selber. Zudem leisten sie einen wichtigen Beitrag zum Programm: Sie investieren ihre wertvolle Arbeitszeit und helfen uns so, Spendengelder für die Aufforstung zu sammeln. Einen Teil der Setzlinge und Bäume, die in den kommenden Wochen gespendet werden, pflanzen die Volontäre dann eigenhändig vor Ort.
 
+![](/uploads/2019/12/15/Foto 30.11.19, 11 58 07.jpg)
+
 Aktuell geht es vor allem darum, die One-Tree-One-Life-Kampagne bekannt zu machen. Hierfür haben die Volontäre bereits Standbilder im Kino und zahlreiche Spenden-Kässli in Shops platziert sowie Plakate gestaltet und Flyer verteilt. Auch auf zwei Weihnachtsmärkten verkauften die Volontäre Produkte, Glühwein und Guetzli zu Gunsten der gemeinsamen Kampagne. Wir sind begeistert! Weiter so!
 
-Herzlichen Dank auch an alle Volontäre, die uns beim BOS Schweiz-Jubiläumsevent und der dazugehörigen Fotoausstellung We are the forest in der Photobastei Zürich unterstützt haben. Beim Auf- und Abbau, am Infostand und bei der Vernissage habt ihr vollen Einsatz gezeigt!
+Herzlichen Dank auch an alle Volontäre, die uns beim BOS Schweiz-Jubiläumsevent am 1. Dezember 2019 und der dazugehörigen [Fotoausstellung We are the forest](https://www.bos-schweiz.ch/de/regenwald/fotoausstellung.htm) in der Photobastei Zürich unterstützt haben. Beim Auf- und beim anstehenden Abbau, am Infostand und bei der Vernissage habt ihr vollen Einsatz gezeigt!
+
+![](/uploads/2019/12/15/20191126_131358.jpg)
 
 **Das Programm und die Volontäre 2019/2020**
 
