@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: 3
 include: sections/normal.html
 title: Wie wir aufforsten
 anchor: kampagne-reise
