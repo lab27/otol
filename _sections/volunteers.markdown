@@ -1,5 +1,5 @@
 ---
-order: "4"
+order: 4
 include: sections/normal.html
 title: Wer 2019/2020 mit uns aufforstet
 anchor: die-voluntaere
