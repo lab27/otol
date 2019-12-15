@@ -1,9 +1,17 @@
 ---
-- path: "/2019/12/15/20160531_121216.jpg"
+- path: "/2018/01/26/IMG-20180126-WA0059.jpg"
   width: '800'
   height: '600'
   preview: true
-- path: "/2019/12/15/Foto1.JPG"
+- path: "/2018/11/10/IMG-20181109-WA0008.jpg"
+  width: '800'
+  height: '497'
+  preview: true
+- path: "/2018/11/22/Danke.jpg"
+  width: '800'
+  height: '536'
+  preview: true
+- path: "/2019/12/15/20191126_131358.jpg"
   width: '800'
   height: '600'
   preview: true
@@ -11,19 +19,7 @@
   width: '800'
   height: '600'
   preview: true
-- path: "/2019/12/15/20191126_131358.jpg"
-  width: '800'
-  height: '600'
-  preview: true
-- path: "/2018/11/22/Danke.jpg"
-  width: '800'
-  height: '536'
-  preview: true
-- path: "/2018/11/10/IMG-20181109-WA0008.jpg"
-  width: '800'
-  height: '497'
-  preview: true
-- path: "/2018/01/26/IMG-20180126-WA0059.jpg"
+- path: "/2019/12/15/Foto1.JPG"
   width: '800'
   height: '600'
   preview: true
