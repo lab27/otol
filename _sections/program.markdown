@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -44,4 +44,4 @@ _Quelle: BOS Foundation_
 
 **Orang-Utan-Themenwoche auf Radio Zürisee verpasst?**
 
-Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee, der/die uns vor, während und nach seiner Volontärreise sehr intensiv v.a. im Bereich PR-Arbeit unterstützt hast.
+Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee für die sehr intensiv PR-Unterstützung vor, während und nach Rogers Volontärreise.
