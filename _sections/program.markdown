@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -14,7 +14,7 @@ Auch wenn die Volontärreise erst 2020 stattfinden wird, sind alle bereits tatkr
 ![](/gallery/full/2019/12/15/Foto 30.11.19, 11 58 07.jpg){:class="img-responsive"}
 _Quelle: BOS Schweiz_
 
-Aktuell geht es vor allem darum, die One-Tree-One-Life-Kampagne bekannt zu machen. Hierfür haben die Volontäre bereits Standbilder im Kino und zahlreiche Spenden-Kässli in Shops platziert sowie Plakate gestaltet und Flyer verteilt. Auch auf zwei Weihnachtsmärkten verkauften die Volontäre Produkte, Glühwein und Guetzli zu Gunsten der gemeinsamen Kampagne. Wir sind begeistert! Weiter so!
+Aktuell geht es vor allem darum, die One-Tree-One-Life-Kampagne bekannt zu machen. Hierfür haben die Volontäre bereits Standbilder im Kino und zahlreiche Spenden-Kässli in Shops platziert sowie Plakate gestaltet und Flyer verteilt. Auch auf zwei Weihnachtsmärkten verkauften die Volontäre Merchandise-Produkte, Glühwein und Guetzli zu Gunsten der gemeinsamen Kampagne. Wir sind begeistert! Weiter so!
 
 Herzlichen Dank auch an alle Volontäre, die uns beim BOS Schweiz-Jubiläumsevent am 1. Dezember 2019 und der dazugehörigen [Fotoausstellung We are the forest](https://www.bos-schweiz.ch/de/regenwald/fotoausstellung.htm) in der Photobastei Zürich unterstützt haben. Beim Auf- und beim anstehenden Abbau, am Infostand und bei der Vernissage habt ihr vollen Einsatz gezeigt!
 
