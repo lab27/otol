@@ -1,5 +1,5 @@
 ---
-order: 3
+order: "3"
 include: sections/alternate.html
 title: Programm 2019/2020
 date: 2018-01-02T15:16:24.000+00:00
@@ -24,10 +24,12 @@ Trotz grosser Unterschiede was das Alter und den beruflichen Hintergrund der Tei
 
 **FINALER SPENDENSTAND RUNDE II**
 
+![](/uploads/2018/11/10/IMG-20181109-WA0008.jpg)
+
 Unsere **2. Fundraising-Runde** der **One-Tree-One-Life-Kampagne** beenden wir nun, im Juni 2019, mit einem **finalen Spendenstand von 33144.41 Franken**! Herzlichen Dank an alle Unterstützerinnen und Unterstützer sowie die Sponsoren der diesjährigen Kampagne. Wir hoffen, ihr bleibt am Ball und seid auch ab Herbst 2019 wieder dabei wenn es heisst: One-Tree-One-Life Runde III wir kommen!
 
 **Orang-Utan-Themenwoche auf Radio Zürisee verpasst?**
 
-Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger von Radio Zürisee, der uns vor, während und nach seiner Volontärreise sehr intensiv v.a. im Bereich PR-Arbeit unterstützt hast.
+Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee, der/die uns vor, während und nach seiner Volontärreise sehr intensiv v.a. im Bereich PR-Arbeit unterstützt hast.
 
 ![](/gallery/full/2018/11/22/Danke.jpg)
