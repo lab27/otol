@@ -3,7 +3,7 @@ order: 2
 include: sections/reverse.html
 title: Wo wir aufforsten
 date: 2019-12-14T23:00:00.000+00:00
-anchor: ''
+anchor: projekte
 
 ---
 Auch 300 Hektare Regenwald rund um die BOS Rettungsstation in Samboja Lestari fielen 2015 den Flammen zum Opfer. Dieses Gebiet forsten wir heute gemeinsam mit den Volontären im Rahmen der One-Tree-One-Life-Kampagne wieder auf. Die Setzlinge werden in einer eigenen Baumschule gezogen. Gepflanzt wird ein Mix aus Frucht- und Nutzbäumen, alles endemische und meist bedrohte Arten.
