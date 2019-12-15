@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 1git pul
 include: sections/reverse.html
 title: Hintergrund
 anchor: hintergrund
@@ -21,13 +21,13 @@ Wegen ihres schwindenden Lebensraumes kommen jedes Jahr schätzungsweise 3000 Or
 
 Doch nicht nur die Biodiversität ist bedroht. Grossflächige Brandrodungen und die damit einhergehenden alljährlichen Wald- und Torfbrände beschleunigen auch den Klimawandel und gefährden die Gesundheit von Millionen Menschen.
 
-Die Hälfte aller tropischen Torfmoorwälder befindet sich in Indonesien. Diese Wälder sind die Lunge der Welt, regeln unser Weltklima und binden 42000 Megatonnen CO2. Werden sie zerstört, gelangen Unmengen an CO2 in die Atmosphäre. Brennen Torfmoorwälder, setzten sie vier bis 40-mal mehr CO2 frei, als Waldbrände in anderen tropischen Gebieten.
+Mehr als 900000 Hektare Wald und Land verbrannten im Sommer 2019 in Indonesien. 44 Prozent davon wertvolle Torfmoorwälder. Sie sind die Lunge der Welt, regeln unser Weltklima und binden 42000 Megatonnen CO2. Brennen Torfmoorwälder, setzten sie vier bis 40-mal mehr CO2 frei, als Waldbrände in anderen tropischen Gebieten. Aus diesem Grund gelangte laut Weltbank durch die Wald- und Torfbrände in Indonesien 2019 fast doppelt so viel CO2 in die Athmosphäre, als durch die gleichzeitigen Brände im Amazonas!
 
 {:figure .image.left}
 ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
 _Quelle: Björn Vaughn, BPI_
 
-1997 brannten 1.5 Millionen Hektar Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so deren Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche, so gross wie die halbe Schweiz, loderten und schwelten 127000 Feuer. Sie setzten 16 Mio. Tonnen CO2 pro Tag frei - mehr als die gesamten USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und wir erlebten einen massiven Zustrom an Orang-Utans in den BOS-Rettungsstationen.
+Torf- und Waldbrände sind ein alljährliches Phänomen in Indonesien. Besonders schlimm waren die Feuer 1997. Damals brannten 1.5 Millionen Hektar Torfmoorwälder in Süd-Borneo ab und produzierten 13 bis 40 Prozent der weltweiten Treibhausgase in dem Jahr. 8000 Borneo Orang-Utans starben. Innerhalb von diesem einen Jahr reduzierte sich so deren Population um 33 Prozent. Im Herbst 2015 brannte der Regenwald Indonesiens erneut. Vier Monate lang. Ununterbrochen. Auf einer Fläche, so gross wie die halbe Schweiz, loderten und schwelten 127000 Feuer. Sie setzten 16 Mio. Tonnen CO2 pro Tag frei - mehr als die gesamten USA zeitgleich produzierten. Erneut starben tausende Orang-Utans in den Flammen und wir erlebten einen massiven Zustrom an Orang-Utans in den BOS-Rettungsstationen.
 
 Auch 300 Hektar Regenwald rund um die BOS Rettungsstation in Samboja Lestari fielen 2015 den Flammen zum Opfer. In mühevoller Kleinarbeit war dieses Gebiet zuvor Baum für Baum aufgeforstet worden, denn am heutigen Standort der Rettungsstation befand sich vor rund 16 Jahren lediglich eine durch Abholzung und Waldbrände völlig ausgezehrte, nährstoff- und artenarme Grassteppe. Erst 2010 waren die Aufforstungsarbeiten weitgehend abgeschlossen und nahezu die gesamte zerstörte Fläche mit einem funktionierenden Regenwald bewachsen.
 
