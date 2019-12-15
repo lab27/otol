@@ -3,6 +3,8 @@
 set -x
 set -e
 
+echo `pwd`/otol
+
 if [ -d otol ]; then
     cd otol
     git pull
