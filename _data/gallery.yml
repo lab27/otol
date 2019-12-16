@@ -1,4 +1,8 @@
 ---
+- path: "/2019/12/16/OU_Brand_klein.jpg"
+  width: '449'
+  height: '298'
+  preview: true
 - path: "/2019/12/16/12 Februari - Moza by Riana Andam Dewi.jpg"
   width: '800'
   height: '600'
@@ -47,7 +51,7 @@
 - path: "/2019/12/15/Foto1.JPG"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/15/Foto 30.11.19, 11 58 07.jpg"
   width: '800'
   height: '600'
