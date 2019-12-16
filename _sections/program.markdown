@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -26,7 +26,7 @@ _Quelle: BOS Schweiz_
 
 Wer genau im Februar 2020 nach Borneo reisen wird und welchen Aktivitäten die Volontäre nachgehen werden, erläutern wir demnächst an dieser Stelle näher. So viel vorab:  Alle werden bei der Aufforstung eingesetzt und helfen innerhalb der BOS-Rettungsstation Samboja Lestari in verschiedenen Bereichen mit (z.B. bei der Renaturierung von Pre-Release-Inseln, beim Anfertigen von Enrichment-Tools für die Orang-Utans oder beim Bau und der Instandhaltung der neuen Malaienbärenanlage). Es wird heiss und anstregend werden!
 
-Ausserdem wissen wir schon jetzt, dass die Zusammensetzung unsere Volontärgruppe noch nie so divers war wie dieses mal. Und noch nie haben wir so viele Volontäre auf einmal nach Borneo geschickt! Insgesamt 16 Personen werden im Februar 2020 von der Schweiz aus nach Borneo reisen, um gemeinsam mit uns Regenwald aufzuforsten.
+Ausserdem wissen wir schon jetzt, dass die Zusammensetzung unsere Volontärsgruppe noch nie so divers war wie dieses mal. Und noch nie haben wir so viele Volontäre auf einmal nach Borneo geschickt! Insgesamt 16 Personen werden im Februar 2020 von der Schweiz aus Borneo nach reisen, um gemeinsam mit uns Regenwald aufzuforsten.
 
 {: .image.left}
 ![](/gallery/full/2018/11/10/IMG-20181109-WA0008.jpg){:class="img-responsive"}
@@ -44,4 +44,4 @@ _Quelle: BOS Foundation_
 
 **Orang-Utan-Themenwoche auf Radio Zürisee verpasst?**
 
-Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall](http://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) of Fame auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee für die sehr intensiv PR-Unterstützung vor, während und nach Rogers Volontärreise.
+Wer Rogers Themenwoche verpasst hat, kann sich hier - in der [Roger Rhyner Hall of Fame](https://www.bos-schweiz.ch/de/mediathek/roger-rhyner.htm) auf unserer BOS Schweiz-Website - alles nochmal in Ruhe anschauen... herzlichen Dank an Roger und Radio Zürisee für die sehr intensiv PR-Unterstützung vor, während und nach Rogers Volontärreise.
