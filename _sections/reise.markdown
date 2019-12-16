@@ -1,5 +1,5 @@
 ---
-order: "3"
+order: 3
 include: sections/normal.html
 title: Wie alles begann
 anchor: kampagne-reise
