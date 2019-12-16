@@ -1,4 +1,12 @@
 ---
+- path: "/2019/12/16/12 Februari - Moza by Riana Andam Dewi.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2019/12/16/BOS_9057 copy by Indrayana.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2019/12/16/DSC_3641.JPG"
   width: '800'
   height: '534'
@@ -43,11 +51,11 @@
 - path: "/2019/12/15/Foto 30.11.19, 11 58 07.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/15/20191126_131358.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2018/11/22/Danke.jpg"
   width: '800'
   height: '536'
