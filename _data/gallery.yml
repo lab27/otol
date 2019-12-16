@@ -1,4 +1,17 @@
 ---
+- path: "/2019/12/16/DSC_3641.JPG"
+  width: '800'
+  height: '534'
+  preview: true
+- path: "/2019/12/16/6 Mei - Napri by Indrayana.JPG"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2019/12/16/16 December 2016 - Valentino, Svenja, Beni, Madara, Tomang, and
+    Vale by Indrayana.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2019/12/16/IMG-20180116-WA0045.jpg"
   width: '800'
   height: '533'
@@ -38,12 +51,12 @@
 - path: "/2018/11/22/Danke.jpg"
   width: '800'
   height: '536'
-  preview: true
+  preview: false
 - path: "/2018/11/10/IMG-20181109-WA0008.jpg"
   width: '800'
   height: '497'
-  preview: true
+  preview: false
 - path: "/2018/01/26/IMG-20180126-WA0059.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
