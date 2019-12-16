@@ -1,4 +1,24 @@
 ---
+- path: "/2019/12/16/IMG-20180116-WA0045.jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2019/12/16/Meryl_STO_BPI_2016-0655 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2019/12/16/seedling transport.JPG"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2019/12/16/RIMG4264.JPG"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2019/12/16/Seedling production.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2019/12/16/20191024_180207.jpg"
   width: '800'
   height: '600'
