@@ -8,7 +8,7 @@ anchor: die-volontaere
 ---
 {: .image.left}
 
-![](/gallery/full/2019/12/22/otol-junge-wilde.png)
+![](/uploads/2019/12/22/otol-junge-wilde.png)
 
 {:class="img-responsive"}
 
