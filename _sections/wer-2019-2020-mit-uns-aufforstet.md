@@ -14,7 +14,7 @@ Wir sind die **jungen Wilden** und das Schicksal der Orang-Utans und ihres Leben
 
 {:class="img-responsive"}
 
-Als **erfahrenere Garde** sind zumindest einige von uns mittlerweile freier im Gestalten der eigenen Lebenszeit. Wir sind fit, der Umweltschutz ist eine Herzensangelegenheit von uns allen und wir haben Freude daran, Neues zu entdecken. Daher erscheint uns der Einsatz als BOS Schweiz-Volontärin wie ein Geschenk. Unverständnis empfinden wir, wenn wir sehen, wie Regenwälder abgeholzt oder brandgerodet werden – aus reiner Profitgier! Wir sind beeindruckt und berührt von der Arbeit, welche die BOS-Mitarbeitenden tagtäglich leisten. Auch der ganzheitliche Ansatz der BOS-Projekte überzeugt uns. Wir freuen uns, vor Ort mithelfen zu dürfen und damit einen kleinen Beitrag zu leisten, damit die Orang-Utans, ihr Zuhause und letztlich wir selbst eine Zukunft haben.
+Als **erfahrenere Garde** sind zumindest einige von uns mittlerweile freier im Gestalten der eigenen Lebenszeit. Wir sind fit, der Umweltschutz ist eine Herzensangelegenheit von uns allen und wir haben Freude daran, Neues zu entdecken. Daher erscheint uns der Einsatz als BOS Schweiz-Volontär*in wie ein Geschenk. Unverständnis empfinden wir, wenn wir sehen, wie Regenwälder abgeholzt oder brandgerodet werden – aus reiner Profitgier! Wir sind beeindruckt und berührt von der Arbeit, welche die BOS-Mitarbeitenden tagtäglich leisten. Auch der ganzheitliche Ansatz der BOS-Projekte überzeugt uns. Wir freuen uns, vor Ort mithelfen zu dürfen und damit einen kleinen Beitrag zu leisten, damit die Orang-Utans, ihr Zuhause und letztlich wir selbst eine Zukunft haben.
 
 {: .image.right}
 
