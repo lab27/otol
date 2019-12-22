@@ -1,6 +1,6 @@
 ---
 order: 4
-include: sections/reverse.html
+include: sections/alternate.html
 title: Wer 2019/2020 mit uns aufforstet
 date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
@@ -8,7 +8,7 @@ anchor: die-volontaere
 ---
 {: .image.left}
 
-![](/gallery/full/2019/12/22/otol-junge-wilde.png)
+![](/uploads/2019/12/22/otol-junge-wilde.png)
 
 {:class="img-responsive"}
 
