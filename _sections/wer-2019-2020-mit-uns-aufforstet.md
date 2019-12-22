@@ -6,6 +6,8 @@ date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
 
 ---
+Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach Borneo reisen wird, setzt sich wie folgt zusammen:
+
 {: .image.left}
 
 ![](/gallery/full/2019/12/22/otol-junge-wilde.png)
