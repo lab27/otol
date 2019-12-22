@@ -14,7 +14,7 @@ Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach
 
 {:class="img-responsive"}
 
-Wir sind die **jungen Wilden** und das Schicksal der Orang-Utans und ihres Lebensraumes berührt uns sehr! Wir möchten selbst aktiv werden und den Tieren, dem Wald, den Menschen und dem Planeten etwas zurückgeben. Auch wenn unser Impact noch so klein sein wird: Als Volontäre können wir selbst Verantwortung übernehmen, bei der Aufforstung des Regenwaldes helfen sowie unterstützende Arbeiten in der BOS-Rettungsstation für die Orang-Utans und die Malaienbären dort leisten. Wir freuen uns riesig auf diese Arbeit und werden sicher mit vielen tollen Erfahrungen zurückkehren.
+Wir sind die **jungen Wilden** und das Schicksal der Orang-Utans und ihres Lebensraumes berührt uns sehr! Wir möchten selbst aktiv werden und den Tieren, dem Wald, den Menschen und dem Planeten etwas zurückgeben. Auch wenn unser Impact klein sein wird: Als Volontäre können wir selbst Verantwortung übernehmen, bei der Aufforstung des Regenwaldes helfen sowie unterstützende Arbeiten in der BOS-Rettungsstation für die Orang-Utans und die Malaienbären dort leisten. Wir freuen uns riesig auf diese Arbeit und werden sicher mit vielen tollen Erfahrungen zurückkehren.
 
 {: .image.right}
 
@@ -30,4 +30,4 @@ Als **erfahrene Garde** sind zumindest einige von uns mittlerweile freier im Ges
 
 {:class="img-responsive"}
 
-Carina, die schon länger die BOS Schweiz unterstützt, hat uns alle überzeugt! Wir sind bereit, uns **gemeinsam als Familie** auf diese Reise zu begeben, um den Dschungel, seine Bewohner*innen und die Natur kennen zu lernen und zu beschützen. Wir wollen helfen, den Regenwald aufzuforsten und dadurch den Orang-Utans ihren Lebensraum zurückgeben. Wir freuen uns auf spannende Erlebnisse in der Natur, mit Mensch und Tier. Hoffentlich ist das Wetter im Regenwald besser – zumindest regnet es dort wärmer. Als Familie sind wir zusammen stark. Wir werden viel erreichen und ein einmaliges, unvergessliches Erlebnis mit nach Hause nehmen.
+Carina, die schon länger BOS Schweiz unterstützt, hat uns alle überzeugt! Wir sind bereit, uns **gemeinsam als Familie** auf diese Reise zu begeben, um den Dschungel, seine Bewohner*innen und die Natur kennen zu lernen und zu beschützen. Wir wollen helfen, den Regenwald aufzuforsten und dadurch den Orang-Utans ihren Lebensraum zurückgeben. Wir freuen uns auf spannende Erlebnisse in der Natur, mit Mensch und Tier. Hoffentlich ist das Wetter im Regenwald besser – zumindest regnet es dort wärmer. Als Familie sind wir zusammen stark. Wir werden viel erreichen und ein einmaliges, unvergessliches Erlebnis mit nach Hause nehmen.
