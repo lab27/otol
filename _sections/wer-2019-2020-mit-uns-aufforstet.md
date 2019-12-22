@@ -10,7 +10,7 @@ Wir sind die **jungen Wilden** und das Schicksal der Orang-Utans und ihres Leben
 
 {: .image.right}
 
-![](/uploads/2019/12/22/otol-junge-wilde.png)
+![](/gallery/full/2019/12/22/otol-junge-wilde.png)
 
 {:class="img-responsive"} 
 
