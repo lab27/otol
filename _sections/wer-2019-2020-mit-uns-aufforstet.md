@@ -2,9 +2,8 @@
 order: 4
 include: sections/reverse.html
 title: Wer 2019/2020 mit uns aufforstet
-date: 2019-12-22 00:00:00 +0100
+date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
-published: false
 
 ---
 ![](/gallery/full/2019/12/22/otol-junge-wilde.png)
@@ -17,4 +16,4 @@ Als **erfahrenere Garde** sind zumindest einige von uns mittlerweile freier im G
 
 ![](/gallery/full/2019/12/22/otol-family.png)
 
-Carina, die schon länger die BOS Schweiz unterstützt, hat uns alle überzeugt! Wir sind bereit, uns **gemeinsam als Familie** auf diese Reise zu begeben, um den Dschungel, seine Bewohner*innen und die Natur kennen zu lernen und zu beschützen. Wir wollen helfen, den Regenwald aufzuforsten und dadurch den Orang-Utans ihren Lebensraum zurückgeben. Wir freuen uns auf spannende Erlebnisse in der Natur, mit Mensch und Tier. Hoffentlich ist das Wetter im Regenwald besser – zumindest regnet es dort wärmer. Als Familie sind wir zusammen stark. Wir werden viel erreichen und ein einmaliges, unvergessliches Erlebnis mit nach Hause nehmen. 
+Carina, die schon länger die BOS Schweiz unterstützt, hat uns alle überzeugt! Wir sind bereit, uns **gemeinsam als Familie** auf diese Reise zu begeben, um den Dschungel, seine Bewohner*innen und die Natur kennen zu lernen und zu beschützen. Wir wollen helfen, den Regenwald aufzuforsten und dadurch den Orang-Utans ihren Lebensraum zurückgeben. Wir freuen uns auf spannende Erlebnisse in der Natur, mit Mensch und Tier. Hoffentlich ist das Wetter im Regenwald besser – zumindest regnet es dort wärmer. Als Familie sind wir zusammen stark. Wir werden viel erreichen und ein einmaliges, unvergessliches Erlebnis mit nach Hause nehmen.
