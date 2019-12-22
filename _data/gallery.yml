@@ -1,4 +1,12 @@
 ---
+- path: "/2019/12/22/otol-family.png"
+  width: '720'
+  height: '500'
+  preview: true
+- path: "/2019/12/22/otol-reife-garde.png"
+  width: '720'
+  height: '500'
+  preview: true
 - path: "/2019/12/22/otol-junge-wilde.png"
   width: '720'
   height: '500'
@@ -43,11 +51,11 @@
 - path: "/2019/12/16/RIMG4264.JPG"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/16/Seedling production.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/16/20191024_180207.jpg"
   width: '800'
   height: '600'
