@@ -1,12 +1,12 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**rungsAm 16. Februar 2020 geht es los! Und vorher gibt es noch viel zu tun...**
+**Am 16. Februar 2020 geht es los! Und vorher gibt es noch viel zu tun...**
 
 Auch wenn die Volontärreise erst 2020 stattfinden wird, sind alle bereits tatkräftig im Einsatz für BOS Schweiz. Die Teilnehmenden kommen für die Reise- und Unterbringungskosten selber auf. Zudem leisten sie einen wichtigen Beitrag zum Programm: Sie investieren ihre wertvolle Arbeitszeit und helfen uns so, Spendengelder für die Aufforstung zu sammeln. Einen Teil der Setzlinge und Bäume, die in den kommenden Wochen gespendet werden, pflanzen die Volontäre dann eigenhändig vor Ort.
 
