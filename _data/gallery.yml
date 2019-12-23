@@ -1,4 +1,12 @@
 ---
+- path: "/2019/12/23/BOS_1329.JPG"
+  width: '800'
+  height: '533'
+  preview: true
+- path: "/2019/12/23/BOS_5731.JPG"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2019/12/23/BOS_3846 copy_1.jpg"
   width: '800'
   height: '533'
@@ -43,11 +51,11 @@
 - path: "/2019/12/16/IMG-20180116-WA0045.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/Meryl_STO_BPI_2016-0655 (1).jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/seedling transport.JPG"
   width: '800'
   height: '600'
