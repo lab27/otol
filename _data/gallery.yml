@@ -1,4 +1,8 @@
 ---
+- path: "/2019/12/23/BOS_3846 copy_1.jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2019/12/22/otol-family.png"
   width: '720'
   height: '500'
@@ -47,7 +51,7 @@
 - path: "/2019/12/16/seedling transport.JPG"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/16/RIMG4264.JPG"
   width: '800'
   height: '600'
