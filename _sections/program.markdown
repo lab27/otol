@@ -1,18 +1,22 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**Aktueller Spendenstand**
+
+Über **43'000 Franken** sind bereits bis Mitte Januar 2020 in der dritten Runder der One-Tree-One-Life-Kampagne zusammen gekommen dank zahlreicher Weihnachtsspenden und der Unterstützung unserer Volontäre und Sponsoren! Dieser Start ist grandios, aber erst der Anfang! Bitte unterstützt uns weiterhin und spendet oder verschenkt Bäume!  
+
 **Die diesjährige Reiseroute**
 
-Am 16. Februar macht sich der Grossteil der One-Tree-One-Life-Volontäre gemeinsam auf den Weg ins 11000 km Luftlinie entfernte Borneo. Von Zürich aus geht es direkt nach Singapur und weiter nach Balikpapan auf Borneo. Andere, die bereits zuvor unterwegs waren, werden in Singapur und Balikpapan zur Gruppe stossen. Am Flughafen in Balikpapan wartet dann schon ein Mitarbeiter der Samboja Lodge, um die Volontäre nach Samboja Lestari zu bringen. Rund eine Stunde wird es dauern, bis alle dort in den Indonesischen Dschungel eintauchen werden... 
+Am 16. Februar macht sich der Grossteil der One-Tree-One-Life-Volontäre gemeinsam auf den Weg ins 11000 km Luftlinie entfernte Borneo. Von Zürich aus geht es direkt nach Singapur und weiter nach Balikpapan auf Borneo. Andere, die bereits zuvor unterwegs waren, werden in Singapur und Balikpapan zur Gruppe stossen. Am Flughafen in Balikpapan wartet dann schon ein Mitarbeiter der Samboja Lodge, um die Volontäre nach Samboja Lestari zu bringen. Rund eine Stunde wird es dauern, bis alle dort in den Indonesischen Dschungel eintauchen werden...
 
 **Baum für Baum**
 
-Die BOS-Rettungsstation Samboja Lestari befindet sich auf komplett aufgeforstetem Gebiet. Mehr als eine Million Setzlinge wurden dort in den letzten 15-20 Jahren gesetzt. Heute steht hier intakter Regenwald, in den viele endemische Arten zurück gekehrt sind. BOS nutzt dieses Gebiet für die Rettungsstation und Pre-Release-Aktivitäten. Ein 2015 abgebranntes Gebiet muss bis heute wieder aufgeforstet werden. Auch 2019 sind weitere Hektare Wald bei den Bränden zerstört worden. Hier kommen unsere Volontäre zum Einsatz! 
+Die BOS-Rettungsstation Samboja Lestari befindet sich auf komplett aufgeforstetem Gebiet. Mehr als eine Million Setzlinge wurden dort in den letzten 15-20 Jahren gesetzt. Heute steht hier intakter Regenwald, in den viele endemische Arten zurück gekehrt sind. BOS nutzt dieses Gebiet für die Rettungsstation und Pre-Release-Aktivitäten. Ein 2015 abgebranntes Gebiet muss bis heute wieder aufgeforstet werden. Auch 2019 sind weitere Hektare Wald bei den Bränden zerstört worden. Hier kommen unsere Volontäre zum Einsatz!
 
 {: .image.right}
 
@@ -20,7 +24,7 @@ Die BOS-Rettungsstation Samboja Lestari befindet sich auf komplett aufgeforstete
 
 **Was pflanzen wir?**
 
-Bevor wir hier noch ausführlicher über die Aufforstungsaktivitäten in Samboja Lestari berichten werden, eine kurze Auflistung derjenigen Sorten, die wir bis heute pflanzen. Hierbei handelt es sich um eine gute Mischung aus **Nutzhölzern** und **Fruchtbäumen** (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie **schnell und langsam wachsende Sorten**. Alle Setzlinge sind **einheimische** und in der Regel **bedrohte Sorten**. 
+Bevor wir hier noch ausführlicher über die Aufforstungsaktivitäten in Samboja Lestari berichten werden, eine kurze Auflistung derjenigen Sorten, die wir bis heute pflanzen. Hierbei handelt es sich um eine gute Mischung aus **Nutzhölzern** und **Fruchtbäumen** (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie **schnell und langsam wachsende Sorten**. Alle Setzlinge sind **einheimische** und in der Regel **bedrohte Sorten**.
 
 Hier ein Überblick von Agus, dem Leiter der Rettungsstation:
 
@@ -48,7 +52,7 @@ Hier ein Überblick von Agus, dem Leiter der Rettungsstation:
 
 6\. Some more local fruit trees such as guava, jackfruit, breadfruit etc.
 
-Die Setzlinge werden in der lokalen Baumschule gezogen oder vor Ort eingekauft. In der Regel werden sie natürlich von einheimischen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken. Nur ein ganz kleiner Teil wird von den BOS Schweiz-Volontären selbst gepflanzt. 
+Die Setzlinge werden in der lokalen Baumschule gezogen oder vor Ort eingekauft. In der Regel werden sie natürlich von einheimischen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken. Nur ein ganz kleiner Teil wird von den BOS Schweiz-Volontären selbst gepflanzt.
 
 In der Regel veredeln die Volontäre mit ihren Aufforstungsaktivitäten das nach den Bränden schnell nachgewachsene Gestrüpp mit jungem, wilden Baumbestand. Die gepflanzten Arten bringen das Leben zurück in den Wald: Sie sind so ausgewählt, dass sie ein Ökosystem an Pflanzen, Pilzen, Inselten und Säugetieren anziehen, die sich dann letztlich von diesen Arten ernähren können. Nach 15-20 Jahren sieht der entstandene Wald dann folgendermassen aus. Hier ein Blick von der Terrasse der Lodge:
 
