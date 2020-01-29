@@ -1,11 +1,61 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**Die diesjährige Reiseroute**
+
+Am 16. Februar macht sich der Grossteil der One-Tree-One-Life-Volontäre gemeinsam auf den Weg ins 11000 km Luftlinie entfernte Borneo. Von Zürich aus geht es direkt nach Singapur und weiter nach Balikpapan auf Borneo. Andere, die bereits zuvor unterwegs waren, werden in Singapur und Balikpapan zur Gruppe stossen. Am Flughafen in Balikpapan wartet dann schon ein Mitarbeiter der Samboja Lodge, um die Volontäre nach Samboja Lestari zu bringen. Rund eine Stunde wird es dauern, bis alle dort in den Indonesischen Dschungel eintauchen werden... 
+
+**Baum für Baum**
+
+Die BOS-Rettungsstation Samboja Lestari befindet sich auf komplett aufgeforstetem Gebiet. Mehr als eine Million Setzlinge wurden dort in den letzten 15-20 Jahren gesetzt. Heute steht hier intakter Regenwald, in den viele endemische Arten zurück gekehrt sind. BOS nutzt dieses Gebiet für die Rettungsstation und Pre-Release-Aktivitäten. Ein 2015 abgebranntes Gebiet muss bis heute wieder aufgeforstet werden. Auch 2019 sind weitere Hektare Wald bei den Bränden zerstört worden. Hier kommen unsere Volontäre zum Einsatz! 
+
+{: .image.right}
+
+![](/uploads/2019/12/16/IMG-20180116-WA0045.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**Was pflanzen wir?**
+
+Bevor wir hier noch ausführlicher über die Aufforstungsaktivitäten in Samboja Lestari berichten werden, eine kurze Auflistung derjenigen Sorten, die wir bis heute pflanzen. Hierbei handelt es sich um eine gute Mischung aus **Nutzhölzern** und **Fruchtbäumen** (u.a. auch viele Pflanzen, die den Orang-Utans als Nahrung dienen), sowie **schnell und langsam wachsende Sorten**. Alle Setzlinge sind **einheimische** und in der Regel **bedrohte Sorten**. 
+
+Hier ein Überblick von Agus, dem Leiter der Rettungsstation:
+
+**Timber/wooden tree:**
+
+1\. Iron tree (ulin): endemic and endangered tree of Borneo; very hard and valuable wood
+
+2\. Shorea species (Meranti): endemic and endangered tree of Borneo; very valuable wood
+
+3\. Kapur tree: endangered tree and endemic in Borneo.
+
+4\. Some hard wooden tree such as gaharu, callophylum etc.
+
+**Fruits tree:**
+
+1\. Rambutan: edible fruits; also orangutan fruit tree
+
+2\. Durian: edible fruits; orangutan loves it
+
+3\. Local Durian: a local and endangered species of Durian from Borneo; orangutans eat it
+
+4\. Langsat: local fruit; orangutans eat it
+
+5\. Rambai: local fruit; very sour taste; orangutans also eat it
+
+6\. Some more local fruit trees such as guava, jackfruit, breadfruit etc.
+
+Die Setzlinge werden in der lokalen Baumschule gezogen oder vor Ort eingekauft. In der Regel werden sie natürlich von einheimischen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken. Nur ein ganz kleiner Teil wird von den BOS Schweiz-Volontären selbst gepflanzt. 
+
+In der Regel veredeln die Volontäre mit ihren Aufforstungsaktivitäten das nach den Bränden schnell nachgewachsene Gestrüpp mit jungem, wilden Baumbestand. Die gepflanzten Arten bringen das Leben zurück in den Wald: Sie sind so ausgewählt, dass sie ein Ökosystem an Pflanzen, Pilzen, Inselten und Säugetieren anziehen, die sich dann letztlich von diesen Arten ernähren können. Nach 15-20 Jahren sieht der entstandene Wald dann folgendermassen aus. Hier ein Blick von der Terrasse der Lodge:
+
+{: .image.left}
+
+![](/uploads/2019/12/16/20191024_180207.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
 **Am 16. Februar 2020 geht es los! Und vorher gibt es noch viel zu tun...**
 
 Auch wenn die Volontärreise erst 2020 stattfinden wird, sind alle bereits tatkräftig im Einsatz für BOS Schweiz. Die Teilnehmenden kommen für die Reise- und Unterbringungskosten selber auf. Zudem leisten sie einen wichtigen Beitrag zum Programm: Sie investieren ihre wertvolle Arbeitszeit und helfen uns so, Spendengelder für die Aufforstung zu sammeln. Einen Teil der Setzlinge und Bäume, die in den kommenden Wochen gespendet werden, pflanzen die Volontäre dann eigenhändig vor Ort.
