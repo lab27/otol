@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -16,7 +16,7 @@ Die BOS-Rettungsstation Samboja Lestari befindet sich auf komplett aufgeforstete
 
 {: .image.right}
 
-![](/uploads/2019/12/16/IMG-20180116-WA0045.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2019/12/16/IMG-20180116-WA0045.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Was pflanzen wir?**
 
@@ -54,7 +54,7 @@ In der Regel veredeln die Volontäre mit ihren Aufforstungsaktivitäten das nach
 
 {: .image.left}
 
-![](/uploads/2019/12/16/20191024_180207.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2019/12/16/20191024_180207.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Am 16. Februar 2020 geht es los! Und vorher gibt es noch viel zu tun...**
 
