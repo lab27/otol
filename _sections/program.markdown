@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -8,7 +8,7 @@ anchor: programm
 ---
 **Aktueller Spendenstand**
 
-Über **43'000 Franken** sind bereits bis Mitte Januar 2020 in der dritten Runder der One-Tree-One-Life-Kampagne zusammen gekommen dank zahlreicher Weihnachtsspenden und der Unterstützung unserer Volontäre und Sponsoren! Dieser Start ist grandios, aber erst der Anfang! Bitte unterstützt uns weiterhin und spendet oder verschenkt Bäume!  
+**51689.25 Franken** sind bereits bis Ende Januar 2020 in der dritten Runder der One-Tree-One-Life-Kampagne zusammen gekommen dank zahlreicher Weihnachtsspenden und der Unterstützung unserer Volontäre und Sponsoren! Dieser Start ist grandios, aber erst der Anfang. **Bitte unterstützt uns weiterhin** und **spendet oder verschenkt Bäume!**
 
 **Die diesjährige Reiseroute**
 
