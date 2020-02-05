@@ -1,4 +1,8 @@
 ---
+- path: "/2020/02/05/Meryl_STO_BPI_2016-0655 (1).jpg"
+  width: '800'
+  height: '533'
+  preview: true
 - path: "/2019/12/23/BOS_1329.JPG"
   width: '800'
   height: '533'
@@ -47,7 +51,7 @@
     Vale by Indrayana.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/IMG-20180116-WA0045.jpg"
   width: '800'
   height: '533'
