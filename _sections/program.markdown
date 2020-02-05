@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -54,11 +54,11 @@ Hier ein Überblick von Agus, dem Leiter der Rettungsstation:
 
 Die Setzlinge werden in der lokalen Baumschule gezogen oder vor Ort eingekauft. In der Regel werden sie natürlich von einheimischen Kräften gepflanzt, die sich so ihr Einkommen generieren oder aufstocken. Nur ein ganz kleiner Teil wird von den BOS Schweiz-Volontären selbst gepflanzt.
 
-In der Regel veredeln die Volontäre mit ihren Aufforstungsaktivitäten das nach den Bränden schnell nachgewachsene Gestrüpp mit jungem, wilden Baumbestand. Die gepflanzten Arten bringen das Leben zurück in den Wald: Sie sind so ausgewählt, dass sie ein Ökosystem an Pflanzen, Pilzen, Inselten und Säugetieren anziehen, die sich dann letztlich von diesen Arten ernähren können. Nach 15-20 Jahren sieht der entstandene Wald dann folgendermassen aus. Hier ein Blick von der Terrasse der Lodge:
-
 {: .image.left}
 
 ![](/gallery/full/2019/12/16/20191024_180207.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+In der Regel veredeln die Volontäre mit ihren Aufforstungsaktivitäten das nach den Bränden schnell nachgewachsene Gestrüpp mit jungem, wilden Baumbestand. Die gepflanzten Arten bringen das Leben zurück in den Wald: Sie sind so ausgewählt, dass sie ein Ökosystem an Pflanzen, Pilzen, Inselten und Säugetieren anziehen, die sich dann letztlich von diesen Arten ernähren können. Nach 15-20 Jahren sieht der entstandene Wald dann folgendermassen aus. Oben ein Blick von der Terrasse der Lodge.
 
 **Am 16. Februar 2020 geht es los! Und vorher gibt es noch viel zu tun...**
 
