@@ -1,4 +1,8 @@
 ---
+- path: "/2020/02/18/IMG-20200218-WA0000.jpg"
+  width: '600'
+  height: '800'
+  preview: true
 - path: "/2020/02/05/Meryl_STO_BPI_2016-0655 (1).jpg"
   width: '800'
   height: '533'
@@ -46,7 +50,7 @@
 - path: "/2019/12/16/6 Mei - Napri by Indrayana.JPG"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/16 December 2016 - Valentino, Svenja, Beni, Madara, Tomang, and
     Vale by Indrayana.jpg"
   width: '800'
