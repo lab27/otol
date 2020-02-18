@@ -1,11 +1,27 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**Di., 18. Februar 2020:**
+
+Der erste Orang-Utan wurde gesichtet! Mama Marlin mit Sohn Marlon auf ihrer Vorauswilderungsinsel. Marlin ist ein ehemaliges Zirkustier, das seit vielen Jahren in der BOS-Rettungsstation lebt und dort ihr Baby Marlon zur Welt brachte. Seitdem erobert der freche Kleine die Herzen der Besucher.
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**Mo, 17. Februar 2020:**
+
+Nach einer 24-stündigen reise sind alle 15 Volontäre endlich wohlbehalten in Samboja Lestari angekommen. Fünf stiessen in Singapur bzw. Balikpann zur Gruppe, von wo aus man gemeinsam in die Samboja Lodge gebracht wurde. Nach einem ersten gemeinsamen Mittagessen
+
+**So., 16. Februar 2020:**
+
+Es ist soweit: Am Sonntag 16.2. Abflug am Flughafen Zürich. Mit im Gepäck: Sachspenden der Weita Service AG (Arbeitshandschuhe für die Volontäre, Erste Hilfe Koffer und Schutzbrillen), sowie Mitbringsel für die Rettungsstationen.
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
 **Aktueller Spendenstand**
 
 **51689.25 Franken** sind bereits bis Ende Januar 2020 in der dritten Runder der One-Tree-One-Life-Kampagne zusammen gekommen dank zahlreicher Weihnachtsspenden und der Unterstützung unserer Volontäre und Sponsoren! Dieser Start ist grandios, aber erst der Anfang. **Bitte unterstützt uns weiterhin** und **spendet oder verschenkt Bäume!**
