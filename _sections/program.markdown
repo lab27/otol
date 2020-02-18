@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -12,7 +12,7 @@ Der erste Orang-Utan bzw. die ersten Orang-Utans wurden gesichtet! **Mama Marlin
 
 {: .image.right}
 
-![](/uploads/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Mo, 17. Februar 2020:**
 
@@ -24,7 +24,7 @@ Es ist soweit: Am Sonntag 16.2. **Abflug am Flughafen Zürich**. Mit im Gepäck:
 
 {: .image.left}
 
-![](/uploads/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Aktueller Spendenstand**
 
