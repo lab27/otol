@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -26,7 +26,7 @@ Vielen Dank an diesen und alle anderen Sponsoren für die Unterstützung!
 
 {: .image.left}
 
-![](/uploads/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Ende Januar 2020: Aktueller Spendenstand**
 
