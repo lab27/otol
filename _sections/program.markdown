@@ -1,30 +1,30 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**Di., 18. Februar 2020:**
+**i., 18. Februar 2020:**
 
 Der erste Orang-Utan bzw. die ersten Orang-Utans wurden gesichtet! **Mama Marlin mit Sohn Marlon** auf ihrer Vorauswilderungsinsel. Marlin ist ein ehemaliges Zirkustier, das seit vielen Jahren in der BOS-Rettungsstation lebt und dort ihr Baby Marlon zur Welt brachte. Seitdem erobert der freche Kleine die Herzen der Besucher.
 
 {: .image.right}
 
-![](/gallery/full/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/uploads/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Mo, 17. Februar 2020:**
 
-Nach einer 24-stündigen reise sind alle 15 Volontäre endlich wohlbehalten in Samboja Lestari angekommen. Fünf stiessen in Singapur bzw. Balikpann zur Gruppe, von wo aus man gemeinsam in die Samboja Lodge gebracht wurde. Nach einem ersten gemeinsamen Mittagessen
+Nach einer 24-stündigen Reise sind alle 15 Volontäre endlich wohlbehalten in Samboja Lestari angekommen. Fünf stiessen in Singapur bzw. Balikpapan/Borneo zur Gruppe, von wo aus man gemeinsam in die **Samboja Lodge** gebracht wurde. Nach einem ersten gemeinsamen Mittagessen und Blick über den Regenwald fielen alle todmüde in die Betten.
 
 **So., 16. Februar 2020:**
 
-Es ist soweit: Am Sonntag 16.2. Abflug am Flughafen Zürich. Mit im Gepäck: Sachspenden der Weita Service AG (Arbeitshandschuhe für die Volontäre, Erste Hilfe Koffer und Schutzbrillen), sowie Mitbringsel für die Rettungsstationen.
+Es ist soweit: Am Sonntag 16.2. **Abflug am Flughafen Zürich**. Mit im Gepäck: Sachspenden der Weita Service AG (Arbeitshandschuhe für die Volontäre, Erste Hilfe Koffer und Schutzbrillen), sowie Mitbringsel für die Rettungsstationen.
 
 {: .image.left}
 
-![](/gallery/full/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/uploads/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Aktueller Spendenstand**
 
