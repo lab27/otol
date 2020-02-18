@@ -1,4 +1,8 @@
 ---
+- path: "/2020/02/18/IMG-20200216-WA0001.jpg"
+  width: '800'
+  height: '599'
+  preview: true
 - path: "/2020/02/18/IMG-20200218-WA0000.jpg"
   width: '600'
   height: '800'
@@ -46,7 +50,7 @@
 - path: "/2019/12/16/DSC_3641.JPG"
   width: '800'
   height: '534'
-  preview: true
+  preview: false
 - path: "/2019/12/16/6 Mei - Napri by Indrayana.JPG"
   width: '800'
   height: '533'
