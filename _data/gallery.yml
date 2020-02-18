@@ -1,4 +1,8 @@
 ---
+- path: "/2020/02/18/IMG-20200217-WA0002.jpg"
+  width: '600'
+  height: '800'
+  preview: true
 - path: "/2020/02/18/IMG-20200216-WA0001.jpg"
   width: '800'
   height: '599'
@@ -46,7 +50,7 @@
 - path: "/2019/12/16/BOS_9057 copy by Indrayana.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/DSC_3641.JPG"
   width: '800'
   height: '534'
