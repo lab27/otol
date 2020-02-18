@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -13,6 +13,12 @@ Der erste Orang-Utan bzw. die ersten Orang-Utans wurden gesichtet! **Mama Marlin
 {: .image.right}
 
 ![](/gallery/full/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**Carina** berichtet aus erster Hand vom **ersehnten Treffen mit den Orang-Utans**:
+
+Der Regenwald begrüsste uns heute Morgen mit prasselndem Regen. Nachdem wir gestern noch etwas wasserscheu waren, gings heute früh auf Erkundungstour rund um die Samboja Lodge. Wir besichtigten einige der wunderschön angelegten Inseln und sahen dort trotz Regen die ersten Orang-Utans. Was für ein schönes Gefühl diese faszinierenden Tiere zu sehen! Allerdings wurde dieses schöne Gefühl schnell von Wehmut begleitet, als wir von den tragischen Schicksalen der einzelnen Tiere erfuhren. Gerettet aus einem Zirkus oder aus schlimmer Privathaltung, dürfen die Tiere hier jetzt ein artgerechtes und freies Leben auf begrenztem Raum führen. Auf den dicht bewachsenen Insel können sie klettern, turnen, sich verstecken oder sich zeigen, kurz gesagt, tun was sie wollen und wie es ihnen wohl ist.
+
+Den nächsten Halt machten wir bei den Gehegen der Malaienbären. Hier bekamen wir interessante Infos zum etwas neueren Projekt mit den Bären. Auch ihr Leben ist mit traurigen Geschichten verknüpft und soll hier zu einem besseren werden. Die Bären dürfen sich in den riesigen neuen Aussengehegen erholen, lernen und leben. Und BOS arbeitet auch hier unglaublich fleissig daran, dass dies nicht die letzte Station der Malaienbären bleibt.
 
 **Mo, 17. Februar 2020:**
 
