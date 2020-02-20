@@ -1,4 +1,40 @@
 ---
+- path: "/2020/02/20/IMG-20200220-WA0005.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0007.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0006.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0000.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0012.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0009.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0011.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/20/IMG-20200218-WA0002.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/20/IMG-20200220-WA0014.jpg"
+  width: '600'
+  height: '800'
+  preview: true
 - path: "/2020/02/18/IMG-20200217-WA0002.jpg"
   width: '600'
   height: '800'
@@ -14,40 +50,40 @@
 - path: "/2020/02/18/IMG-20200216-WA0001.jpg"
   width: '800'
   height: '599'
-  preview: true
+  preview: false
 - path: "/2019/12/16/IMG-20180116-WA0045.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/DSC_3641.JPG"
   width: '800'
   height: '534'
-  preview: true
+  preview: false
 - path: "/2019/12/16/6 Mei - Napri by Indrayana.JPG"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/16/OU_Brand_klein.jpg"
   width: '449'
   height: '298'
-  preview: true
+  preview: false
 - path: "/2019/12/16/20191024_180207.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/16/Seedling production.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2019/12/16/16 December 2016 - Valentino, Svenja, Beni, Madara, Tomang, and
     Vale by Indrayana.jpg"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/23/BOS_1329.JPG"
   width: '800'
   height: '533'
-  preview: true
+  preview: false
 - path: "/2019/12/23/BOS_3846 copy_1.jpg"
   width: '800'
   height: '533'
