@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -12,25 +12,25 @@ Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wi
 
 {: .image.right}
 
-![](/uploads/2020/02/20/IMG-20200220-WA0006.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/20/IMG-20200220-WA0006.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt.
 
 {: .image.left}
 
-![](/uploads/2020/02/20/IMG-20200220-WA0011.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/20/IMG-20200220-WA0011.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Alle packen hoch motiviert mit an. Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
 
 {: .image.right}
 
-![](/uploads/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wem das nicht genügt der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
 
 {: .image.left}
 
-![](/uploads/2020/02/20/IMG-20200218-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/20/IMG-20200218-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Di., 18. Februar 2020:**
 
