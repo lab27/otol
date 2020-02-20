@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -26,7 +26,9 @@ Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibende
 
 Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
 
-Die Regenwälder Borneos gehören zu den artenreichsten der Welt. Auf einem einzigen Urwaldbaum zählten Forscher 24000 einzelnen Insekten, die fast 2800 verschiedenen Arten angehörten. Hier gibt es auch das grösste Insekt der Welt, eine fast 60 cm lange Stabheuschrecke. Spinnen, Geckos, Käfer, ab und zu sogar ein Leguan oder eine Schlange... sie alle teilen den Wald mit den Volontären und sorgen für Abwechslung im harten Arbeitsalltag. 
+Die Regenwälder Borneos gehören zu den artenreichsten der Welt. Auf einem einzigen Urwaldbaum zählten Forscher 24000 einzelnen Insekten, die fast 2800 verschiedenen Arten angehörten!
+
+Hier gibt es auch die grösste Blüte, den grössten Käfer oder das grösste Insekt der Welt -  eine fast 60 cm lange Stabheuschrecke. Spinnen, Geckos, Käfer, ab und zu sogar ein Leguan oder eine Schlange... sie alle teilen den Wald mit den Volontären und sorgen für Abwechslung im harten Arbeitsalltag. 
 
 {: .image.right}
 
@@ -34,7 +36,9 @@ Die Regenwälder Borneos gehören zu den artenreichsten der Welt. Auf einem einz
 
 Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wer möchte, gönnt sich dort noch ein Bier, bevor es gemeinsam zum Abendessen geht. 
 
-Wem das nicht genügt der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
+Zum Frühstück, Mittagessen und Abendessen wird in der Lodge jeweils ein Buffet serviert. Gekocht wird immer regional und saisonal. Auch Vegetarier kommen stets auf ihre Kosten. Reis ist natürlich auch immer dabei und frische Früchte zum Dessert. 
+
+Wem der tolle Blick und das leckere Essen nach Feierabend nicht genügen, der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
 
 {: .image.left}
 
