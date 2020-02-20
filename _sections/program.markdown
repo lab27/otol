@@ -1,11 +1,29 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**20. Februar 2020:**
+
+Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind. 
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job!
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge!
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Wem das nicht genügt der stoppt nach getaner Arbeit an den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
 **Di., 18. Februar 2020:**
 
 Der erste Orang-Utan bzw. die ersten Orang-Utans wurden gesichtet! **Mama Marlin mit Sohn Marlon** auf ihrer Vorauswilderungsinsel. Marlin ist ein ehemaliges Zirkustier, das seit vielen Jahren in der BOS-Rettungsstation lebt und dort ihr Baby Marlon zur Welt brachte. Seitdem erobert der freche Kleine die Herzen der Besucher*innen.
