@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -8,21 +8,29 @@ anchor: programm
 ---
 **20. Februar 2020:**
 
-Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind. 
+Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind.
 
-{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+{: .image.right}
 
-Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job!
+![](/uploads/2020/02/20/IMG-20200220-WA0006.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt.
 
-Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge!
+{: .image.left}
 
-{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/uploads/2020/02/20/IMG-20200220-WA0011.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Wem das nicht genügt der stoppt nach getaner Arbeit an den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
+Alle packen hoch motiviert mit an. Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
 
-{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+{: .image.right}
+
+![](/uploads/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wem das nicht genügt der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
+
+{: .image.left}
+
+![](/uploads/2020/02/20/IMG-20200218-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Di., 18. Februar 2020:**
 
