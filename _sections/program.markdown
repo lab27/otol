@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -8,25 +8,33 @@ anchor: programm
 ---
 **20. Februar 2020:**
 
-Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind.
+Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. 
 
 {: .image.right}
 
 ![](/gallery/full/2020/02/20/IMG-20200220-WA0006.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt.
+Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind.
+
+Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. 
+
+Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt. Alle packen hoch motiviert mit an. 
 
 {: .image.left}
 
 ![](/gallery/full/2020/02/20/IMG-20200220-WA0011.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Alle packen hoch motiviert mit an. Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
+Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
+
+Die Regenwälder Borneos gehören zu den artenreichsten der Welt. Auf einem einzigen Urwaldbaum zählten Forscher 24000 einzelnen Insekten, die fast 2800 verschiedenen Arten angehörten. Hier gibt es auch das grösste Insekt der Welt, eine fast 60 cm lange Stabheuschrecke. Spinnen, Geckos, Käfer, ab und zu sogar ein Leguan oder eine Schlange... sie alle teilen den Wald mit den Volontären und sorgen für Abwechslung im harten Arbeitsalltag. 
 
 {: .image.right}
 
 ![](/gallery/full/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wem das nicht genügt der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
+Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wer möchte, gönnt sich dort noch ein Bier, bevor es gemeinsam zum Abendessen geht. 
+
+Wem das nicht genügt der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
 
 {: .image.left}
 
