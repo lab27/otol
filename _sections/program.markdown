@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -20,9 +20,11 @@ In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die 
 
 ![](/gallery/full/2020/02/23/black_river-boat-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu Aussichtsplattformen und kann den Blick über den Wald geniessen. Impressionen finden sich in der Galerie unten. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
+Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu Aussichtsplattformen und kann den Blick über den Wald geniessen. 
 
-Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben. wer eine grössere Summe an die One-Tree-One-Life spendent der bekommt u.U. einen kleinen Gruss aus dem Feld!
+Impressionen finden sich in der Galerie unten. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
+
+Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben. Wer eine grössere Summe an die One-Tree-One-Life spendet, der bekommt u.U. einen kleinen Gruss aus dem Feld!
 
 {: .image.left}
 
@@ -38,7 +40,7 @@ Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden ü
 
 **Christel berichtet aus erster Hand:**
 
-"Endlich ist er da – unser ersten Arbeitseinsatz in Samboja Lestari. Mit dem Pickup wurden wir ins Pflanzgebiet gefahren, wo bereits 800 kleine Bäume auf uns warteten. Etwa 400 Mango-, Durian-, Jackfruit-, Guave- und Hartholzsetzlinge wurden von uns gepflanzt. Trotz der schweisstreibenden Arbeit gingen wir voller Energie und Freude an die Arbeit". 
+"Endlich ist er da – unser ersten Arbeitseinsatz in Samboja Lestari. Mit dem Pickup wurden wir ins Pflanzgebiet gefahren, wo bereits 800 kleine Bäume auf uns warteten. Etwa 400 Mango-, Durian-, Jackfruit-, Guave- und Hartholzsetzlinge wurden von uns gepflanzt. Trotz der schweisstreibenden Arbeit gingen wir voller Energie und Freude an die Arbeit".
 
 {: .image.left}
 
