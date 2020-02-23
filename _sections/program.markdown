@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -54,15 +54,19 @@ Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reise
 
 ![](/gallery/full/2020/02/23/IMG-20200221-WA0010.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit.
+Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit. 
 
-{: .image.right}
+Bereits seit den Anfängen der Rettungsstation werden in Samboja Lestari auch Malaienbären vor der Wilderei oder der illegalen Haustierhaltung gerettet. Knapp 70 Tiere sind es mittlerweile. Ein Grossteil von ihnen ist neu in einer riesigen Aussenanlage untergebracht. Das Projekt konnte v.a. dank finanzieller Unterstützung aus der Schweiz realisiert werden!
+
+{: .image.left}
 
 ![](/gallery/full/2020/02/23/Bären_boradwalk-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen aus den Anfängen der Station noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden. Recycling eben! Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
+Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden können. Recycling eben! 
 
-{: .image.left}
+Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
+
+{: .image.right}
 
 ![](/gallery/full/2020/02/23/schlange-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
