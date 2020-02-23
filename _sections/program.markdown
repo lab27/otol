@@ -1,14 +1,34 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**23. Februar 2020: Wochenende ist Ausflugszeit**
+
+Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für freiwillige gemeinsame Ausflüge. Unter anderem bietet die Lodge eine Bootfahrt auf dem ca. 45 Minuten entfernten Black River an, einem Fluss, der gesäumt von Mangroven am Ufer ins nahe gelegene Meer mündet. 
+
+In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die ebenfalls stark bedroht sind. Sie sind die besten Schwimmer unter den Primaten und können weit springen. Ihre menschlich anmutenden roten Gesichter mit den grossen Knollennasen erinnerten die Bevölkerung Malaysias an sonnenverbrannte Europäer. Das brachte den Nasenfallen – auch Holländeraffen genannt – ihren Namen ein. Die Babys werden übrigens mit blauen Gesichtern geboren! In der Abenddämmerung sind die Nasenaffen vor allem aktiv und lassen sich vom Boot aus gut beobachten. 
+
+Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu einer Aussichtsplattform und kann den Blick über den Wald geniessen. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
+
+**21. und 22. Februar 2020: Die ersten Bäume werden gepflanzt!**
+
+**Christel berichtet aus erster Hand:**
+
+"Endlich ist er da – unser ersten Arbeitseinsatz in Samboja Lestari. Mit dem Pickup wurden wir ins Pflanzgebiet gefahren, wo bereits 800 kleine Bäume auf uns warteten. Etwa 400 Mango-, Durian-, Jackfruit-, Guave- und Hartholzsetzlinge wurden von uns gepflanzt. Trotz der schweisstreibenden Arbeit gingen wir voller Energie und Freude an die Arbeit. Nach getaner Arbeit empfanden wir alle eine große Befriedigung am Aufforstungsprojekt One-Tree-One-Life teilzunehmen. Der Regenwald hat uns mit seiner beruhigenden Ausstrahlung empfangen. Nach dem Mittagessen wurde an Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans gearbeitet. Bambus wurde gefällt, zersägt und entastet – was nicht minder schweisstreibend war. Aber wir alle haben den Tag genossen und sind zufrieden."
+
+Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit.
+
+Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen aus den Anfängen der Station noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden. Recycling eben! Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
+
+In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben.
+
 **20. Februar 2020:**
 
-Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort. 
+Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wie eine Einführung in die Regeln und Lokalitäten vor Ort.
 
 {: .image.right}
 
@@ -16,27 +36,27 @@ Ein Einkauf auf dem lokalen Markt liegt bereits hinter den Volontären, genau wi
 
 Bei einer ersten Entdeckungstour wurde u.a. das BOS Office besichtigt, mit Blick über ganz Samboja Lestari und den komplett von BOS aufgeforsteten Wald dort. Denn als Samboja Lestari von BOS erworben wurde, stand dort nur trostloses, leicht entflammbares Grasland. In den letzten 15 bis 20 Jahren sind über eine Million Setzlinge gepflanzt worden und ein Regenwald ist entstanden, in den bedrohte endemische Arten (wie Kobras oder Wildschweine) zurückgekehrt sind.
 
-Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden. 
+Nach dieser Einführung steht dem Start der Volontäraktivitäten nun nichts mehr im Wege. Um Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans und Malaienbären zu bauen (u.a. Bambusrohre, in denen Samen und Nüsse so versteckt werden, dass die Tiere ihre Fingerfertigkeiten trainieren müssen, um an die Leckerbissen zu gelangen) muss zunächst Bambus geschlagen werden.
 
-Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt. Alle packen hoch motiviert mit an. 
+Bei den Temperaturen und fast 100 Prozent Luftfeuchtigkeit ein schweisstreibender Job! Der Bambus wird dann in Stücke gesägt und mit Essbarem gefüllt. Alle packen hoch motiviert mit an.
 
 {: .image.left}
 
 ![](/gallery/full/2020/02/20/IMG-20200220-WA0011.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren. 
+Im Wald trifft man zudem auf den einen oder anderen Waldbewohner. Diese Handteller grosse Spinne lässt die Herzen aller Spinnen Freunde höher schlagen und die Herzen aller Spinnen Phobiker galoppieren.
 
 Die Regenwälder Borneos gehören zu den artenreichsten der Welt. Auf einem einzigen Urwaldbaum zählten Forscher 24000 einzelnen Insekten, die fast 2800 verschiedenen Arten angehörten!
 
-Hier gibt es auch die grösste Blüte, den grössten Käfer oder das grösste Insekt der Welt -  eine fast 60 cm lange Stabheuschrecke. Spinnen, Geckos, Käfer, ab und zu sogar ein Leguan oder eine Schlange... sie alle teilen den Wald mit den Volontären und sorgen für Abwechslung im harten Arbeitsalltag. 
+Hier gibt es auch die grösste Blüte, den grössten Käfer oder das grösste Insekt der Welt -  eine fast 60 cm lange Stabheuschrecke. Spinnen, Geckos, Käfer, ab und zu sogar ein Leguan oder eine Schlange... sie alle teilen den Wald mit den Volontären und sorgen für Abwechslung im harten Arbeitsalltag.
 
 {: .image.right}
 
 ![](/gallery/full/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wer möchte, gönnt sich dort noch ein Bier, bevor es gemeinsam zum Abendessen geht. 
+Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wer möchte, gönnt sich dort noch ein Bier, bevor es gemeinsam zum Abendessen geht.
 
-Zum Frühstück, Mittagessen und Abendessen wird in der Lodge jeweils ein Buffet serviert. Gekocht wird immer regional und saisonal. Auch Vegetarier kommen stets auf ihre Kosten. Reis ist natürlich auch immer dabei und frische Früchte zum Dessert. 
+Zum Frühstück, Mittagessen und Abendessen wird in der Lodge jeweils ein Buffet serviert. Gekocht wird immer regional und saisonal. Auch Vegetarier kommen stets auf ihre Kosten. Reis ist natürlich auch immer dabei und frische Früchte zum Dessert.
 
 Wem der tolle Blick und das leckere Essen nach Feierabend nicht genügen, der stoppt nach getaner Arbeit noch kurz bei den Inseln unterhalb der Lodge und verweilt bei den Orang-Utans dort. Spätestens dann weiss man, wofür die ganzen Strapazen gut sind.
 
