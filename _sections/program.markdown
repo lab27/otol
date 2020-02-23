@@ -1,12 +1,12 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**23. Februar 2020: Wochenende ist Ausflugszeit**
+**o23. Februar 2020: Wochenende ist Ausflugszeit**
 
 Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für freiwillige gemeinsame Ausflüge. Unter anderem bietet die Lodge eine Bootfahrt auf dem ca. 45 Minuten entfernten Black River an, einem Fluss, der gesäumt von Mangroven am Ufer ins nahe gelegene Meer mündet.
 
@@ -20,7 +20,7 @@ In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die 
 
 ![](/gallery/full/2020/02/23/black_river-boat-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu Aussichtsplattformen und kann den Blick über den Wald geniessen. 
+Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu Aussichtsplattformen und kann den Blick über den Wald geniessen.
 
 Impressionen finden sich in der Galerie unten. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
 
@@ -30,9 +30,9 @@ Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben.
 
 ![](/gallery/full/2020/02/23/Ausflug_Baumwipfelpfad-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden übergeben, die unsere Volontäre von der Weita Service AG mitbekommen hatten. Das Tierärzte-Team in Samboja Lestari rund um Chef-Tierärztin Agnes strahlt um die Wette und freut sich tierisch über die Materialien. 
+Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden übergeben, die unsere Volontäre von der Weita Service AG mitbekommen hatten. Das Tierärzte-Team in Samboja Lestari rund um Chef-Tierärztin Agnes strahlt um die Wette und freut sich tierisch über die Materialien.
 
-Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reisen und dort die medizinische Notfallversorgung sicher stellen. Merci von uns allen!
+Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reisen und dort die medizinische Notfallversorgung sicher stellen. Die Arbeit dort ist gefährlich und die Teams besonders dankbar, für die Erste Hilfe Koffer! Merci auch von uns allen!
 
 {: .image.right}
 
