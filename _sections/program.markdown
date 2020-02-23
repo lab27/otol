@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -8,23 +8,43 @@ anchor: programm
 ---
 **23. Februar 2020: Wochenende ist Ausflugszeit**
 
-Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für freiwillige gemeinsame Ausflüge. Unter anderem bietet die Lodge eine Bootfahrt auf dem ca. 45 Minuten entfernten Black River an, einem Fluss, der gesäumt von Mangroven am Ufer ins nahe gelegene Meer mündet. 
+Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für freiwillige gemeinsame Ausflüge. Unter anderem bietet die Lodge eine Bootfahrt auf dem ca. 45 Minuten entfernten Black River an, einem Fluss, der gesäumt von Mangroven am Ufer ins nahe gelegene Meer mündet.
 
-In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die ebenfalls stark bedroht sind. Sie sind die besten Schwimmer unter den Primaten und können weit springen. Ihre menschlich anmutenden roten Gesichter mit den grossen Knollennasen erinnerten die Bevölkerung Malaysias an sonnenverbrannte Europäer. Das brachte den Nasenfallen – auch Holländeraffen genannt – ihren Namen ein. Die Babys werden übrigens mit blauen Gesichtern geboren! In der Abenddämmerung sind die Nasenaffen vor allem aktiv und lassen sich vom Boot aus gut beobachten. 
+{: .image.left}
+
+{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die ebenfalls stark bedroht sind. Sie sind die besten Schwimmer unter den Primaten und können weit springen. Ihre menschlich anmutenden roten Gesichter mit den grossen Knollennasen erinnerten die Bevölkerung Malaysias an sonnenverbrannte Europäer. Das brachte den Nasenfallen – auch Holländeraffen genannt – ihren Namen ein. Die Babys werden übrigens mit blauen Gesichtern geboren! In der Abenddämmerung sind die Nasenaffen vor allem aktiv und lassen sich vom Boot aus gut beobachten.
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu einer Aussichtsplattform und kann den Blick über den Wald geniessen. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
 
+Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben. wer eine grössere Summe an die One-Tree-One-Life spendent der bekommt u.U. einen kleinen Gruss aus dem Feld!
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden übergeben, die unsere Volontäre von der Weita Service AG mitbekommen hatten. Das Tierärzte-Team in Samboja Lestari rund um Chef-Tierärztin Agnes strahlt um die Wette und freut sich tierisch über die Materialien. Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reisen und dort die medizinische Notfallversorgung sicher stellen. Merci von uns allen!
+
 **21. und 22. Februar 2020: Die ersten Bäume werden gepflanzt!**
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Christel berichtet aus erster Hand:**
 
 "Endlich ist er da – unser ersten Arbeitseinsatz in Samboja Lestari. Mit dem Pickup wurden wir ins Pflanzgebiet gefahren, wo bereits 800 kleine Bäume auf uns warteten. Etwa 400 Mango-, Durian-, Jackfruit-, Guave- und Hartholzsetzlinge wurden von uns gepflanzt. Trotz der schweisstreibenden Arbeit gingen wir voller Energie und Freude an die Arbeit. Nach getaner Arbeit empfanden wir alle eine große Befriedigung am Aufforstungsprojekt One-Tree-One-Life teilzunehmen. Der Regenwald hat uns mit seiner beruhigenden Ausstrahlung empfangen. Nach dem Mittagessen wurde an Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans gearbeitet. Bambus wurde gefällt, zersägt und entastet – was nicht minder schweisstreibend war. Aber wir alle haben den Tag genossen und sind zufrieden."
 
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
 Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit.
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen aus den Anfängen der Station noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden. Recycling eben! Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
 
-In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben.
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben. Ebenfalls schön zu beobachten ist es, wenn am späten Nachmittag die Orang-Utans das gebaute Enrichment bekommen und genüsslich vor den Augen der Volontäre verzehren!
 
 **20. Februar 2020:**
 
