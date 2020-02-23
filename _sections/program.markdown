@@ -1,5 +1,5 @@
 ---
-order: "5"
+order: 5
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -12,13 +12,13 @@ Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für fr
 
 {: .image.left}
 
-![](/uploads/2020/02/23/black_river-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/black_river-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die ebenfalls stark bedroht sind. Sie sind die besten Schwimmer unter den Primaten und können weit springen. Ihre menschlich anmutenden roten Gesichter mit den grossen Knollennasen erinnerten die Bevölkerung Malaysias an sonnenverbrannte Europäer. Das brachte den Nasenfallen – auch Holländeraffen genannt – ihren Namen ein. Die Babys werden übrigens mit blauen Gesichtern geboren! In der Abenddämmerung sind die Nasenaffen vor allem aktiv und lassen sich vom Boot aus gut beobachten.
 
 {: .image.right}
 
-![](/uploads/2020/02/23/black_river-boat-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/black_river-boat-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Auch ein Ausflug zu einem nahe gelegenen Baumwipfel Pfad steht auf dem Plan. Über die Hängebrücke gelangt man zu Aussichtsplattformen und kann den Blick über den Wald geniessen. Impressionen finden sich in der Galerie unten. Imam, der Touristenführer der Lodge, kümmert sich rührend um die Schweizer Schützlinge und alle anderen Ausflügler der Lodge.
 
@@ -26,13 +26,13 @@ Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben.
 
 {: .image.left}
 
-![](/uploads/2020/02/23/Ausflug_Baumwipfelpfad-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/Ausflug_Baumwipfelpfad-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden übergeben, die unsere Volontäre von der Weita Service AG mitbekommen hatten. Das Tierärzte-Team in Samboja Lestari rund um Chef-Tierärztin Agnes strahlt um die Wette und freut sich tierisch über die Materialien. Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reisen und dort die medizinische Notfallversorgung sicher stellen. Merci von uns allen!
 
 {: .image.right}
 
-![](/uploads/2020/02/23/übergabe_medis.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/übergabe_medis.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **21. und 22. Februar 2020: Die ersten Bäume werden gepflanzt!**
 
@@ -42,25 +42,25 @@ Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden ü
 
 {: .image.left}
 
-![](/uploads/2020/02/20/IMG-20200220-WA0007.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/20/IMG-20200220-WA0007.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 "Nach getaner Arbeit empfanden wir alle eine große Befriedigung am Aufforstungsprojekt One-Tree-One-Life teilzunehmen. Der Regenwald hat uns mit seiner beruhigenden Ausstrahlung empfangen. Nach dem Mittagessen wurde an Enrichments (Beschäftigungsmöglichkeiten) für die Orang-Utans gearbeitet. Bambus wurde gefällt, zersägt und entastet – was nicht minder schweisstreibend war. Aber wir alle haben den Tag genossen und sind zufrieden."
 
 {: .image.right}
 
-![](/uploads/2020/02/23/IMG-20200221-WA0010.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/IMG-20200221-WA0010.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit.
 
 {: .image.right}
 
-![](/uploads/2020/02/23/Bären_boradwalk-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/Bären_boradwalk-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen aus den Anfängen der Station noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden. Recycling eben! Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
 
 {: .image.left}
 
-![](/uploads/2020/02/23/schlange-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/schlange-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben (siehe Galerie). Ebenfalls schön zu beobachten ist es, wenn am späten Nachmittag die Orang-Utans das gebaute Enrichment bekommen und genüsslich vor den Augen der Volontäre verzehren!
 
