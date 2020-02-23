@@ -12,7 +12,7 @@ Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für fr
 
 {: .image.right}
 
-![](/gallery/full/2020/02/23/black_river-2.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/black_river-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 In dieser Gegend leben Rudel von Nasenaffen, die es nur auf Borneo gibt und die ebenfalls stark bedroht sind. Sie sind die besten Schwimmer unter den Primaten und können weit springen. Ihre menschlich anmutenden roten Gesichter mit den grossen Knollennasen erinnerten die Bevölkerung Malaysias an sonnenverbrannte Europäer. Das brachte den Nasenfallen – auch Holländeraffen genannt – ihren Namen ein. Die Babys werden übrigens mit blauen Gesichtern geboren! In der Abenddämmerung sind die Nasenaffen vor allem aktiv und lassen sich vom Boot aus gut beobachten.
 
@@ -38,7 +38,7 @@ Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reise
 
 {: .image.left}
 
-![](/gallery/full/2020/02/23/übergabe_medis.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/übergabe_medis-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **21. und 22. Februar 2020: Die ersten Bäume werden gepflanzt!**
 
@@ -54,7 +54,7 @@ Ein Teil der Erste Hilfe Koffer wird in die Camps der Auswilderungegebiete reise
 
 **22. Februar 2020: Gemeinsam sind wir bärenstark...**
 
-Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit. 
+Da die Gruppe mit 15 Volontären recht gross ist, wird meist in zwei Gruppen gesplittet. Während die einen die bereits gesägten Bambusrühren im Rahmen der Enrichment-Aktivitäten mit Samen, Nüssen und Kürbis- bzw. Cassava-Mus füllen oder ähnliche Leckereien für die Orang-Utans kunstvoll in Palmblätter einwickeln, hilft Truppe Nummer 2 am Bärenprojekt mit.
 
 {: .image.left}
 
@@ -68,17 +68,17 @@ Bereits seit den Anfängen der Rettungsstation werden in Samboja Lestari auch Ma
 
 ![](/gallery/full/2020/02/23/Bären_boradwalk-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden können. Recycling eben! 
+Gemeinsam mit Patrick, dem Bärenexperten vor Ort, geht es in den Wald von KJ7. Dort liegen noch alte Gitter, die beim Bau der neuen Aussen- und Käfiganlagen wieder verwendet werden können. Recycling eben!
 
-Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss. 
+Der Transport über den früheren teilweise recht maroden Board Walk ist allerdings nicht einfach. Kraft und Vorsicht sind gefragt, vor allem wenn gleichzeitig nicht nur schwere Eisengitter, sondern auch noch eine Leiter transportiert werden muss.
 
 {: .image.left}
 
 ![](/gallery/full/2020/02/23/schlange-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
-In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben (siehe Galerie). 
+In der Lodge, aber auch während der Arbeiten im Wald begegnen den Volontären immer wieder Tiere. „Echt genial“ kommentiert Joe diese grüne Schlange! Etwas zutraulicher sind hingegen die Gottesanbeterin und die riesen Heuschrecke, die sich auf die Terrasse der Lodge verirrt haben (siehe Galerie).
 
-Ebenfalls schön zu beobachten ist es, wenn am späten Nachmittag die Orang-Utans das gebaute Enrichment bekommen und genüsslich vor den Augen der Volontäre verzehren! 
+Ebenfalls schön zu beobachten ist es, wenn am späten Nachmittag die Orang-Utans das gebaute Enrichment bekommen und genüsslich vor den Augen der Volontäre verzehren!
 
 **20. Februar 2020:**
 
@@ -106,7 +106,7 @@ Hier gibt es auch die grösste Blüte, den grössten Käfer oder das grösste In
 
 {: .image.right}
 
-![](/gallery/full/2020/02/20/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/IMG-20200220-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Nach getaner Arbeit winkt dafür ein traumhafter Sonnenuntergang auf der Terrasse der Lodge! Wer möchte, gönnt sich dort noch ein Bier, bevor es gemeinsam zum Abendessen geht.
 
@@ -116,7 +116,7 @@ Wem der tolle Blick und das leckere Essen nach Feierabend nicht genügen, der st
 
 {: .image.left}
 
-![](/gallery/full/2020/02/20/IMG-20200218-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/IMG-20200218-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Di., 18. Februar 2020:**
 
@@ -124,7 +124,7 @@ Der erste Orang-Utan bzw. die ersten Orang-Utans wurden gesichtet! **Mama Marlin
 
 {: .image.right}
 
-![](/gallery/full/2020/02/18/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/IMG-20200218-WA0000.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Carina** berichtet aus erster Hand vom **ersehnten Treffen mit den Orang-Utans**:
 
@@ -144,7 +144,7 @@ Vielen Dank an diesen und alle anderen Sponsoren für die Unterstützung!
 
 {: .image.left}
 
-![](/gallery/full/2020/02/18/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/IMG-20200216-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **Ende Januar 2020: Aktueller Spendenstand**
 
