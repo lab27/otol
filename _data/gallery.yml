@@ -1,4 +1,32 @@
 ---
+- path: "/2020/02/23/black_river-boat.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/übergabe_medis.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/Bären_boradwalk.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/black_river.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/IMG-20200221-WA0010.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/Ausflug_Baumwipfelpfad.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/Heuschrecke.jpg"
+  width: '800'
+  height: '585'
+  preview: true
 - path: "/2020/02/20/19 Februari - Baby orangutans in Nyaru Menteng by Paulina L Ella-1.jpg"
   width: '800'
   height: '531'
@@ -22,31 +50,31 @@
 - path: "/2020/02/20/IMG-20200220-WA0005.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0007.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0006.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0000.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0012.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0009.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0011.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200218-WA0002.jpg"
   width: '800'
   height: '600'
