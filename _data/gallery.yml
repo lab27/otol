@@ -1,4 +1,32 @@
 ---
+- path: "/2020/02/23/Heuschrecke-2.jpg"
+  width: '800'
+  height: '585'
+  preview: true
+- path: "/2020/02/23/black_river-2.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/Bären_boradwalk-2.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/black_river-boat-2.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/übergabe_medis-2.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/schlange-1.jpg"
+  width: '800'
+  height: '600'
+  preview: true
+- path: "/2020/02/23/IMG-20200221-WA0010-2.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2020/02/23/IMG-20200220-WA0005.jpg"
   width: '600'
   height: '800'
@@ -22,31 +50,31 @@
 - path: "/2020/02/23/IMG-20200220-WA0000.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200220-WA0009.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200220-WA0011.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200218-WA0000.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200216-WA0001.jpg"
   width: '800'
   height: '599'
-  preview: true
+  preview: false
 - path: "/2020/02/23/schlange.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/23/Heuschrecke-1.jpg"
   width: '800'
   height: '585'
-  preview: true
+  preview: false
 - path: "/2020/02/23/black_river-1.jpg"
   width: '800'
   height: '600'
