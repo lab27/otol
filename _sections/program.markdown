@@ -30,7 +30,7 @@ Im Feierabend werden noch schnell Dankeskarten an die Spender*innen geschrieben.
 
 {: .image.right}
 
-![](/gallery/full/2020/02/23/Ausflug_Baumwipfelpfad-1.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/23/zweiter_upload (7).jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Ebenfalls nach getaner Arbeit bzw. in der Mittagspause wurden die Sachspenden übergeben, die unsere Volontäre von der Weita Service AG mitbekommen hatten. Das Tierärzte-Team in Samboja Lestari rund um Chef-Tierärztin Agnes strahlt um die Wette und freut sich tierisch über die Materialien.
 
