@@ -128,10 +128,6 @@
   width: '600'
   height: '800'
   preview: false
-- path: "/2020/02/20/IMG-20200220-WA0008.jpg"
-  width: '800'
-  height: '600'
-  preview: false
 - path: "/2020/02/23/zweiter_upload (7).jpg"
   width: '800'
   height: '600'
@@ -156,18 +152,6 @@
   width: '800'
   height: '600'
   preview: false
-- path: "/2020/02/23/IMG-20200221-WA0010-3.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/Heuschrecke-2.jpg"
-  width: '800'
-  height: '585'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0005.jpg"
-  width: '600'
-  height: '800'
-  preview: false
 - path: "/2020/02/23/zweiter_upload (19).jpg"
   width: '600'
   height: '800'
@@ -176,18 +160,6 @@
   width: '800'
   height: '600'
   preview: false
-- path: "/2020/02/23/IMG-20200220-WA0011.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0007.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0014.jpg"
-  width: '600'
-  height: '800'
-  preview: false
 - path: "/2020/02/23/zweiter_upload (4).jpg"
   width: '800'
   height: '600'
@@ -195,14 +167,6 @@
 - path: "/2020/02/23/zweiter_upload (15).jpg"
   width: '800'
   height: '600'
-  preview: false
-- path: "/2020/02/23/black_river-boat.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0006.jpg"
-  width: '600'
-  height: '800'
   preview: false
 - path: "/2020/02/23/zweiter_upload (2).jpg"
   width: '600'
@@ -228,10 +192,6 @@
   width: '600'
   height: '800'
   preview: false
-- path: "/2020/02/23/Bären_boradwalk-3.jpg"
-  width: '800'
-  height: '600'
-  preview: false
 - path: "/2020/02/23/zweiter_upload (3).jpg"
   width: '600'
   height: '800'
@@ -241,14 +201,6 @@
   height: '800'
   preview: false
 - path: "/2020/02/23/zweiter_upload (20).jpg"
-  width: '600'
-  height: '800'
-  preview: false
-- path: "/2020/02/23/schlange-2.jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0009.jpg"
   width: '600'
   height: '800'
   preview: false
@@ -268,10 +220,6 @@
   width: '600'
   height: '800'
   preview: false
-- path: "/2020/02/23/black_river-boat-3.jpg"
-  width: '800'
-  height: '600'
-  preview: false
 - path: "/2020/02/23/schlange-1.jpg"
   width: '800'
   height: '600'
@@ -285,10 +233,6 @@
   height: '800'
   preview: false
 - path: "/2020/02/23/zweiter_upload (10).jpg"
-  width: '800'
-  height: '600'
-  preview: false
-- path: "/2020/02/23/schlange.jpg"
   width: '800'
   height: '600'
   preview: false
@@ -308,17 +252,9 @@
   width: '800'
   height: '600'
   preview: false
-- path: "/2020/02/23/IMG-20200221-WA0010-1.jpg"
-  width: '800'
-  height: '600'
-  preview: false
 - path: "/2020/02/23/zweiter_upload (5).jpg"
   width: '600'
   height: '800'
-  preview: false
-- path: "/2020/02/23/IMG-20200220-WA0008.jpg"
-  width: '800'
-  height: '600'
   preview: false
 - path: "/2020/02/23/zweiter_upload (17).jpg"
   width: '600'
