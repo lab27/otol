@@ -1,4 +1,8 @@
 ---
+- path: "/2020/02/23/Ausflug_Baumwipfelpfad-1.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2020/02/23/black_river-boat.jpg"
   width: '800'
   height: '600'
@@ -46,7 +50,7 @@
 - path: "/2020/02/20/IMG-20200220-WA0008.jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/20/IMG-20200220-WA0005.jpg"
   width: '600'
   height: '800'
