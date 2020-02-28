@@ -12,7 +12,7 @@ Während der Grossteil der Gruppe heute nach Zürich zurück reisen wird, bleibe
 
 {: .image.left}
 
-![](/gallery/full/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full//2020/02/28/IMG-20200227-WA0002.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **27. Februar 2020: Mithilfe in der Rettungsstation Nyaru Menteng & Ausflug nach Salat Island**
 
@@ -22,7 +22,7 @@ Während ein Teil der Volontärgruppe dieses Projekt besuchte, leistete die ande
 
 {: .image.right}
 
-![](/gallery/full/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/28/IMG-20200227-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **25. und 26. Februar 2020: Abreise Samboja Lestari und Besuch der BOS-Rettungsstation Nyaru Menteng**
 
@@ -32,7 +32,7 @@ Auf mehreren Inseln in der Nähe der Rettungsstation üben viele der bereits reh
 
 {: .image.left}
 
-![](/gallery/full/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+![](/gallery/full/2020/02/28/IMG-20200226-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Zurück in der Rettungsstation wartete am Nachmittag ein Highlight für die Volontäre: Dann kann beobachtet werden, wie die Waldschüler*innen aus dem Dschungel zurückkommen, wo sie tagsüber ihren Schulalltag verbringen. Dort lernen sie klettern, Werkzeuge zu benutzen um Nüsse oder Früchte zu öffnen, Termiten oder Honig zu stochern, wie man Essbares von Giftigem unterscheidet oder wie man Schlafnester baut. Bevor es über Nacht in die Gemeinschaftsgehege geht legen alle noch einen Stopp auf dem Spielplatz ein.
 

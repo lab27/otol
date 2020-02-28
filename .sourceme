@@ -1,8 +1,9 @@
 echo
 echo '  1. trigger-page-build'
 echo '  2. check-order'
-echo '  3. rebuild-gallery'
-echo '  4. bundle exec jekyll serve'
+echo '  3. findimagedupes -R ./uploads (then find occurrences with ack)'
+echo '  4. rebuild-gallery'
+echo '  5. bundle exec jekyll serve'
 echo
 
 alias rebuild-gallery='rm uploads.idx; touch uploads.idx; rm -rf gallery; ./process_all.sh'
