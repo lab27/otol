@@ -1,11 +1,41 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**28. und 29. Februar 2020: Rückreise nach Zürich bzw. Samboja Lestari**
+
+Während der Grossteil der Gruppe heute nach Zürich zurück reisen wird, bleiben Nico, Elke und Petra zwei weitere Wochen als Volontäre in Samboja Lestari. Wir halten euch über ihre Aktivitäten auf dem Laufenden und wünschen den Heimkehrern und Heimkehrerinnen eine gute Rückreise!
+
+{: .image.left}
+
+![](/uploads/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**27. Februar 2020: Mithilfe in der Rettungsstation Nyaru Menteng & Ausflug nach Salat Island**
+
+Mit Salat Island hat die BOS Foundation mittlerweile ein beeindruckendes Vorauswilderungsprojekt in der Nähe von Nyaru Menteng in Betrieb genommen. Anders als auf den anderen Vorauswilderungsinseln, ist Salat Island - eigentlich ein Konglomerat aus mehreren Inseln - ausgebaut. Auf einer der Inseln befindet sich ein Visitor Center, Holzstege, eine Besichtigungsplattform, eine Klinik, eine kleine Solaranlage und Unterkünfte für die Mitarbeitenden. Nur per Boot kann all das erreicht werden. Auf den Inseln untergebracht werden auswilderbare Tiere, sowie Orang-Utans, die für immer dort in einem natürlichen Habitat leben dürfen (ein Alten- oder Pflegeheim für alte und körperlich beeinträchtigte Tiere).
+
+Während ein Teil der Volontärgruppe dieses Projekt besuchte, leistete die andere Hälfte Mithilfe in der Rettungsstation. Gemeinsam wurden Früchte geschnitten für die Orang-Utans und am Nachmittag ein lokaler Markt besucht. Am Abend traf man sich zu einem letzten gemeinsamen Abendessen im Hotel.
+
+{: .image.right}
+
+![](/uploads/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**25. und 26. Februar 2020: Abreise Samboja Lestari und Besuch der BOS-Rettungsstation Nyaru Menteng**
+
+Nach zwei weiteren und insgesamt neun Tagen in Samboja Lestari, reisten unsere Volontäre am 25. Februar bereits weiter nach Nyaru Menteng - in die zweite und grössere der beiden BOS-Rettungsstationen in Zentral-Kalimantan. Da nun alle die Quarantäne hinter sich hatten, konnte dort ein ausführlicher Besuch der Rettungsstation inklusive Waldschule und Vorauswilderungsinseln stattfinden.
+
+Auf mehreren Inseln in der Nähe der Rettungsstation üben viele der bereits rehabilitierten Orang-Utans die Freiheit. Erst wer sich dort bewährt, kann zurück in die Wildnis des Regenwaldes. Vom Boot aus konnten die Volontäre beobachten, wie die Tiere noch einmal am Tag zu gefüttert werden.
+
+{: .image.left}
+
+![](/uploads/2019/12/22/otol-family.png){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Zurück in der Rettungsstation wartete am Nachmittag ein Highlight für die Volontäre: Dann kann beobachtet werden, wie die Waldschüler*innen aus dem Dschungel zurückkommen, wo sie tagsüber ihren Schulalltag verbringen. Dort lernen sie klettern, Werkzeuge zu benutzen um Nüsse oder Früchte zu öffnen, Termiten oder Honig zu stochern, wie man Essbares von Giftigem unterscheidet oder wie man Schlafnester baut. Bevor es über Nacht in die Gemeinschaftsgehege geht legen alle noch einen Stopp auf dem Spielplatz ein.
+
 **23. Februar 2020: Wochenende ist Ausflugszeit**
 
 Am Wochenende haben die Volontäre einen Tag frei. Die Zeit wird genutzt für freiwillige gemeinsame Ausflüge. Unter anderem bietet die Lodge eine Bootfahrt auf dem ca. 45 Minuten entfernten Black River an, einem Fluss, der gesäumt von Mangroven am Ufer ins nahe gelegene Meer mündet.
