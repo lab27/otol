@@ -1,4 +1,16 @@
 ---
+- path: "/2020/02/28/IMG-20200227-WA0001.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/28/IMG-20200227-WA0002.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/02/28/IMG-20200226-WA0001.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2020/02/23/zweiter_upload (9).jpg"
   width: '800'
   height: '600'
@@ -38,15 +50,15 @@
 - path: "/2020/02/23/zweiter_upload (11).jpg"
   width: '800'
   height: '600'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200218-WA0000.jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/zweiter_upload (1).jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/IMG-20200221-WA0010.jpg"
   width: '800'
   height: '600'
