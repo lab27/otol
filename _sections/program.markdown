@@ -1,11 +1,13 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**Ende Februar 2020**: Aktueller **Spendenstand: 53605.30 Franken**! Merci an alle, die bisher Bäume und Setzlinge gespendet oder verschenkt haben! 
+
 **28. und 29. Februar 2020: Rückreise nach Zürich bzw. Samboja Lestari**
 
 Während der Grossteil der Gruppe heute nach Zürich zurück reisen wird, bleiben Nico, Elke und Petra zwei weitere Wochen als Volontäre in Samboja Lestari. Wir halten euch über ihre Aktivitäten auf dem Laufenden und wünschen den Heimkehrern und Heimkehrerinnen eine gute Rückreise!
