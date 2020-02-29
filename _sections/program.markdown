@@ -1,12 +1,12 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**Ende Februar 2020**: Aktueller **Spendenstand: 53605.30 Franken**! Merci an alle, die bisher Bäume und Setzlinge gespendet oder verschenkt haben! 
+**Ende Februar 2020**: Aktueller **Spendenstand: 53605.30 Franken**! Merci an alle, die bisher Bäume und Setzlinge gespendet oder verschenkt haben!
 
 **28. und 29. Februar 2020: Rückreise nach Zürich bzw. Samboja Lestari**
 
@@ -18,13 +18,15 @@ Während der Grossteil der Gruppe heute nach Zürich zurück reisen wird, bleibe
 
 **27. Februar 2020: Mithilfe in der Rettungsstation Nyaru Menteng & Ausflug nach Salat Island**
 
-Mit Salat Island hat die BOS Foundation mittlerweile ein beeindruckendes Vorauswilderungsprojekt in der Nähe von Nyaru Menteng in Betrieb genommen. Anders als auf den anderen Vorauswilderungsinseln, ist Salat Island - eigentlich ein Konglomerat aus mehreren Inseln - ausgebaut. Auf einer der Inseln befindet sich ein Visitor Center, Holzstege, eine Besichtigungsplattform, eine Klinik, eine kleine Solaranlage und Unterkünfte für die Mitarbeitenden. Nur per Boot kann all das erreicht werden. Auf den Inseln untergebracht werden auswilderbare Tiere, sowie Orang-Utans, die für immer dort in einem natürlichen Habitat leben dürfen (ein Alten- oder Pflegeheim für alte und körperlich beeinträchtigte Tiere).
+Mit Salat Island hat die BOS Foundation mittlerweile ein beeindruckendes Vorauswilderungsprojekt in der Nähe von Nyaru Menteng in Betrieb genommen. Anders als auf den anderen Vorauswilderungsinseln, ist Salat Island - eigentlich ein Konglomerat aus mehreren Inseln - ausgebaut. Auf einer der Inseln befindet sich ein Visitor Center, Holzstege, eine Besichtigungsplattform, eine Klinik, eine kleine Solaranlage und Unterkünfte für die Mitarbeitenden. Nur per Boot kann all das erreicht werden. Auf den Inseln untergebracht werden auswilderbare Tiere, sowie Orang-Utans, die für immer dort in einem natürlichen Habitat leben dürfen (ein Alten- oder Pflegeheim für alte und körperlich beeinträchtigte Tiere). 
 
-Während ein Teil der Volontärgruppe dieses Projekt besuchte, leistete die andere Hälfte Mithilfe in der Rettungsstation. Gemeinsam wurden Früchte geschnitten für die Orang-Utans und am Nachmittag ein lokaler Markt besucht. Am Abend traf man sich zu einem letzten gemeinsamen Abendessen im Hotel.
+Früh am Morgen machte sich ein Teil der Volontärinnen auf, Salat Island zu besuchen. Florian berichtet: "Wir wurden von einer kleinen, grinsenden Truppe von BOS-Mitarbeitenden bei unserer Unterkunft früh am Morgen abgeholt. Ihr aufgewecktes und freundliches Auftreten vertrieb die letzte Müdigkeit, und wir machten uns gemeinsam auf den Weg Richtung Salat Island. Zwei Stunden brausten wir im Auto quer durch ehemaligen Regenwald. Leider war von diesem weit und breit nichts mehr zu sehen – nur zerstörte Landschaften! Es ist ein trostloses Bild, das wir sahen, bis wir an einem kleinen, unscheinbaren Steg stoppten und auf ein Boot umstiegen. Bereits nach wenigen Minuten auf dem Wasser hatte sich die Landschaft sichtlich verändert. Links und rechts vom Fluss ragten wieder saftig grüne Bäume in den Himmel und kündigten unser Tagesziel an". In ihrem [persönlichen Erfahrungsbericht](https://www.bos-schweiz.ch/de/mediathek/aktuell/ausflugsalatisland.htm) auf der BOS Schweiz Website haben Florian und Carina ihre weiteren persönlichen Eindrücke vom Inselrundgang festgehalten.
 
 {: .image.right}
 
 ![](/gallery/full/2020/02/28/IMG-20200227-WA0001.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Während die einen Salat Island besuchte, leistete die andere Hälfte der Volontärgruppe Mithilfe in der Rettungsstation Nyaru Menteng. Gemeinsam wurden Früchte geschnitten für die Orang-Utans und am Nachmittag ein lokaler Markt besucht. Am Abend traf man sich zu einem letzten gemeinsamen Abendessen im Hotel.
 
 **25. und 26. Februar 2020: Abreise Samboja Lestari und Besuch der BOS-Rettungsstation Nyaru Menteng**
 
