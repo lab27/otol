@@ -12,7 +12,7 @@ Drei unserer Volontäre machen aus ihrem knapp 2-wöchigen Einsatz 4 Wochen. Elk
 
 {: .image.left}
 
-{:class="img-responsive"} _Quelle: BOS Schweiz_
+![](gallery/full/2020/03/02/IMG-20200301-WA0003.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Da die gerade frisch gebauten Aussengehege schon besetzt sind, suchen wir fieberhaft nach einer Lösung für die Bären. Insofern geeignete Auswilderungsgebiete vorhanden sind, könnten zumindest einige der Jungtiere eventuell ausgewildert werden. Ein langwieriger und teurer Prozess! Oder es müssen neue Aussengehege gebaut werden...
 
