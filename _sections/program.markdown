@@ -1,11 +1,23 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**2. März 2020: Weiter geht's in Samboja Lestari** 
+
+Drei unserer Volontäre machen aus ihrem knapp 2-wöchigen Einsatz 4 Wochen. Elke, Nico und Petra sind nach Samboja Lestari zurück gekehrt und dort aktuell für die Bären im Einsatz. In den letzten Wochen nahm die BOS Foundation 8 Bären-Babys auf, die die regionale Naturschutzbehörde (BKSD) konfiszierte. In der Regel stammen die Babys aus der illegalen Haustierhaltung. Ihre Mütter wurden zuvor getötet, denn Malaienbären werden - obwohl sie bedroht sind - noch immer gejagt wegen ihres Fleisches aber auch ihrer Gallenblase bzw. dem Gallensaft, de in der Traditionellen Chinesischen Medizin Verwendung findet. 
+
+{: .image.left}
+
+{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Da die gerade frisch gebauten Aussengehege schon besezzt sind, suchen wir fieberhaft nach einer Lösung für die Bären: Insofern geeignete Auswilderungsgebiete gefunden werden, können zumindest einige der Jungtiere eventuell ausgewildert werden. Ein langwieriger und teurer Prozess! Oder es müssen neue Aussengehege gebaut werden... 
+
+Aktuell steht der Bau bzw. die Erneuerung einer Plattform für die Bären an und auch in die Verlegung der Tiere in andere Gehege waren unsere Volontäre involviert.
+
 **Ende Februar 2020**: Aktueller **Spendenstand: 53605.30 Franken**! Merci an alle, die bisher Bäume und Setzlinge gespendet oder verschenkt haben!
 
 **28. und 29. Februar 2020: Rückreise nach Zürich bzw. Samboja Lestari**
@@ -18,7 +30,7 @@ Während der Grossteil der Gruppe heute nach Zürich zurück reisen wird, bleibe
 
 **27. Februar 2020: Mithilfe in der Rettungsstation Nyaru Menteng & Ausflug nach Salat Island**
 
-Mit Salat Island hat die BOS Foundation mittlerweile ein beeindruckendes Vorauswilderungsprojekt in der Nähe von Nyaru Menteng in Betrieb genommen. Anders als auf den anderen Vorauswilderungsinseln, ist Salat Island - eigentlich ein Konglomerat aus mehreren Inseln - ausgebaut. Auf einer der Inseln befindet sich ein Visitor Center, Holzstege, eine Besichtigungsplattform, eine Klinik, eine kleine Solaranlage und Unterkünfte für die Mitarbeitenden. Nur per Boot kann all das erreicht werden. Auf den Inseln untergebracht werden auswilderbare Tiere, sowie Orang-Utans, die für immer dort in einem natürlichen Habitat leben dürfen (ein Alten- oder Pflegeheim für alte und körperlich beeinträchtigte Tiere). 
+Mit Salat Island hat die BOS Foundation mittlerweile ein beeindruckendes Vorauswilderungsprojekt in der Nähe von Nyaru Menteng in Betrieb genommen. Anders als auf den anderen Vorauswilderungsinseln, ist Salat Island - eigentlich ein Konglomerat aus mehreren Inseln - ausgebaut. Auf einer der Inseln befindet sich ein Visitor Center, Holzstege, eine Besichtigungsplattform, eine Klinik, eine kleine Solaranlage und Unterkünfte für die Mitarbeitenden. Nur per Boot kann all das erreicht werden. Auf den Inseln untergebracht werden auswilderbare Tiere, sowie Orang-Utans, die für immer dort in einem natürlichen Habitat leben dürfen (ein Alten- oder Pflegeheim für alte und körperlich beeinträchtigte Tiere).
 
 Früh am Morgen machte sich ein Teil der Volontärinnen auf, Salat Island zu besuchen. Florian berichtet: "Wir wurden von einer kleinen, grinsenden Truppe von BOS-Mitarbeitenden bei unserer Unterkunft früh am Morgen abgeholt. Ihr aufgewecktes und freundliches Auftreten vertrieb die letzte Müdigkeit, und wir machten uns gemeinsam auf den Weg Richtung Salat Island. Zwei Stunden brausten wir im Auto quer durch ehemaligen Regenwald. Leider war von diesem weit und breit nichts mehr zu sehen – nur zerstörte Landschaften! Es ist ein trostloses Bild, das wir sahen, bis wir an einem kleinen, unscheinbaren Steg stoppten und auf ein Boot umstiegen. Bereits nach wenigen Minuten auf dem Wasser hatte sich die Landschaft sichtlich verändert. Links und rechts vom Fluss ragten wieder saftig grüne Bäume in den Himmel und kündigten unser Tagesziel an". In ihrem [persönlichen Erfahrungsbericht](https://www.bos-schweiz.ch/de/mediathek/aktuell/ausflugsalatisland.htm) auf der BOS Schweiz Website haben Florian und Carina ihre weiteren persönlichen Eindrücke vom Inselrundgang festgehalten.
 
