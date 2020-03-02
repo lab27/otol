@@ -1,20 +1,20 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
-**2. März 2020: Weiter geht's in Samboja Lestari** 
+**2. März 2020: Weiter geht's in Samboja Lestari**
 
-Drei unserer Volontäre machen aus ihrem knapp 2-wöchigen Einsatz 4 Wochen. Elke, Nico und Petra sind nach Samboja Lestari zurück gekehrt und dort aktuell für die Bären im Einsatz. In den letzten Wochen nahm die BOS Foundation 8 Bären-Babys auf, die die regionale Naturschutzbehörde (BKSD) konfiszierte. In der Regel stammen die Babys aus der illegalen Haustierhaltung. Ihre Mütter wurden zuvor getötet, denn Malaienbären werden - obwohl sie bedroht sind - noch immer gejagt wegen ihres Fleisches aber auch ihrer Gallenblase bzw. dem Gallensaft, de in der Traditionellen Chinesischen Medizin Verwendung findet. 
+Drei unserer Volontäre machen aus ihrem knapp 2-wöchigen Einsatz 4 Wochen. Elke, Nico und Petra sind nach Samboja Lestari zurück gekehrt und dort aktuell für die Bären im Einsatz. In den letzten Wochen nahm die BOS Foundation 8 Bären-Babys auf, die die regionale Naturschutzbehörde (BKSD) konfiszierte. In der Regel stammen die Babys aus der illegalen Haustierhaltung. Ihre Mütter wurden zuvor getötet, denn Malaienbären werden - obwohl sie bedroht sind - noch immer gejagt wegen ihres Fleisches aber auch ihrer Gallenblase bzw. dem Gallensaft, der in der Traditionellen Chinesischen Medizin Verwendung findet.
 
 {: .image.left}
 
 {:class="img-responsive"} _Quelle: BOS Schweiz_
 
-Da die gerade frisch gebauten Aussengehege schon besezzt sind, suchen wir fieberhaft nach einer Lösung für die Bären: Insofern geeignete Auswilderungsgebiete gefunden werden, können zumindest einige der Jungtiere eventuell ausgewildert werden. Ein langwieriger und teurer Prozess! Oder es müssen neue Aussengehege gebaut werden... 
+Da die gerade frisch gebauten Aussengehege schon besetzt sind, suchen wir fieberhaft nach einer Lösung für die Bären. Insofern geeignete Auswilderungsgebiete vorhanden sind, könnten zumindest einige der Jungtiere eventuell ausgewildert werden. Ein langwieriger und teurer Prozess! Oder es müssen neue Aussengehege gebaut werden...
 
 Aktuell steht der Bau bzw. die Erneuerung einer Plattform für die Bären an und auch in die Verlegung der Tiere in andere Gehege waren unsere Volontäre involviert.
 
