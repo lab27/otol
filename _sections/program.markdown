@@ -16,7 +16,7 @@ Wir danken heute besonders **LUSH Schweiz** für die grosszüge Unterstützung! 
 
 {: .image.right}
 
-{:class="img-responsive"} _Quelle: BOS Schweiz_
+![](gallery/full/2020/03/09/IMG_9671.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Für Elke, Petra und Nico geht auch die zweite Hälfte ihrer Volontärreise bald dem Ende zu. Am 13.3. heisst es Abschiednehmen von Samboja Lestari. Wir sind stolz auf euch und das, was ihr vor Ort noch bewegen konntet! Merci auch an euch für eure Hilfe!
 
