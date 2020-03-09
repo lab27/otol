@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -10,8 +10,6 @@ anchor: programm
 
 Wir danken heute besonders **LUSH Schweiz** für die grosszüge Unterstützung! Seit Ende letzten Jahres fliessen die gesamten Einnahmen aus dem Verkauf von Papiertragetaschen durch LUSH Schweiz in unsere Aufforstungskampagne. Die erste stolze Summe von **3859 Franken** ist gerade eben eingetroffen.
 
-Für Elke, Petra und Nico geht auch die zweite Hälfte ihrer Volontärreise bald dem Ende zu. Am 13.3. heisst es Abschiednehmen von Samboja Lestari. Wir sind stolz auf euch und das, was ihr vor Ort noch bewegen konntet! Merci auch an euch für eure Hilfe!
-
 **4. März 2020: Volle Kraft voraus...**
 
 ... heisst es beim Bau einer Kompost Anlage bei den Bären! Die dort entsorgten Abfälle sollen zu Humus werden, der letztlich in der Aufforstung wieder eingesetzt wird. Die Materialkosten für den Bau der kleinen aber feinen Kompostanlage übernehmen wir deshalb gerne und finanzieren das Projekt aus der One-Tree-One-Life-Kampagne Runde III.
@@ -19,6 +17,8 @@ Für Elke, Petra und Nico geht auch die zweite Hälfte ihrer Volontärreise bald
 {: .image.right}
 
 {:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Für Elke, Petra und Nico geht auch die zweite Hälfte ihrer Volontärreise bald dem Ende zu. Am 13.3. heisst es Abschiednehmen von Samboja Lestari. Wir sind stolz auf euch und das, was ihr vor Ort noch bewegen konntet! Merci auch an euch für eure Hilfe!
 
 **2. März 2020: Weiter geht's in Samboja Lestari**
 
