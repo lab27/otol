@@ -1,11 +1,39 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
 anchor: programm
 
 ---
+**24. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
+
+Die BOS Foundation hat die Samboja Lodge und alle Rettungszentren mittlerweile für Besucher*innen geschlossen. Es gelten verschärfte Hygienevorschriften, denn zu gross ist die Gefahr, dass sich auch die Orang-Utans und BOS-Mitarbeitenden mit dem Virus anstecken könnten. 
+
+Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen einbrechen. **Bitte lasst uns jetzt nicht im Stich und spendet weiter für den Orang-Utan und Regenwaldschutz!** Der Bedarf für finanzielle Unterstützung wächst in der Krise und beide Anliegen haben nichts an ihrer Dringlichkeit und Bedeutung eingebüsst. Die **One-Tree-One-Life-Kampagne läuft weiter bis in den Herbst 2020**, wenn wir hoffentlich in eine neue Runde starten!
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+**23. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
+
+Seit heute sind alle BOS Schweiz-Volontäre wieder in der Schweiz. Teilweise erwischten sie den letzten regulären Flug nach Singapur, bevor dieser Flughafen auch für den Transitverkehr geschlossen wurde. Wer nach dem verlängerten Volontariat noch weiter reisen wollte, musste diese Pläne wegen der Corona-Pandemie ändern.
+
+**16. März 2020: Abschied nehmen**
+
+Hier zwei kleine O-Ton-Berichte von Petra. Während der letzten zwei Wochen in Samboja Lestari wurden sie, Elke und Nico von Cameron betreut, einem Volontär-Koordinator unserer Partnerorganisation BOS Australien:
+
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+„Die Zeit verging so schnell... Die Verabschiedung in der Lodge war schon fast traurig, da wir doch 4 Wochen ihre Gäste waren. Ich genoss den Aufenthalt sehr. Das Essen war immer lecker. Die Mitarbeiter sehr freundlich und hilfsbereit. Für mich war es eine super spannende und wunderschöne Erfahrung. Ich bin sehr froh, dass ich mich für 4 Wochen entschieden habe! Ich bin sehr glücklich, durfte ich vor meiner Rückkehr dieses Abenteuer noch voll geniessen. Mit diesen schönen Erinnerungen kann ich auch die Corona-Quarantäne-Zeit gut meistern“.
+
+**12. März 2020: Das Volontariat neigt sich dem Ende zu**
+
+„Die letzten Tage verbrachten wir mit Bambus schneiden für Enrichments, stellten den Kompost fertig, bauten Hängematten aus Feuerwehrschläuchen, die Cameron aus Australien mitbrachte, säuberten die Malaienbären Gehege und beseitigten das Unkraut um die Inseln. Die Nachmittage verbrachten wir immer im Regenwald. Mit Macheten sammelten wir grüne und rote Ingwer Blätter, die wir den Orang-Utans verfütterten. Für mich war das immer der schönste Teil des Tages. Ich liebte es durch den Wald zu laufen, die Vielfältigkeit der Pflanzen, Blumen, Bäume und Tiere. Es gab so viel zu entdecken. Es war so friedvoll und ruhig aber nie ganz still... man hörte immer verschiedene Tiergeräusche.
+
+{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
+Jeder von uns durfte mal mit Sam auf das Boot und ihn beim Füttern der Orang-Utans begleiten. Die Orang-Utans kamen sofort ans Ufer, um ihr Essen zu holen. So hatte man die Möglichkeit, sie von ganz nahe zu beobachten. Einmal pflanzten wir Bäume. Wir waren schnell fertig, da es leider nur noch ein paar Setzlinge übrig hatte“.
+
 **9. März 2020:** Aktueller Spendenstand: knapp **57'500 Franken!**
 
 Wir danken heute besonders **LUSH Schweiz** für die grosszüge Unterstützung! Seit Ende letzten Jahres fliessen die gesamten Einnahmen aus dem Verkauf von Papiertragetaschen durch LUSH Schweiz in unsere Aufforstungskampagne. Die erste stolze Summe von **3859 Franken** ist gerade eben eingetroffen.
