@@ -8,7 +8,7 @@ anchor: programm
 ---
 **24. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
 
-Die BOS Foundation hat die Samboja Lodge und alle Rettungszentren mittlerweile für Besucher*innen geschlossen. Es gelten verschärfte Hygienevorschriften, denn zu gross ist die Gefahr, dass sich auch die Orang-Utans und BOS-Mitarbeitenden mit dem Virus anstecken könnten. 
+Die BOS Foundation hat die Samboja Lodge und alle Rettungszentren mittlerweile für Besucher*innen geschlossen. Es gelten verschärfte Hygienevorschriften, denn zu gross ist die Gefahr, dass sich auch die Orang-Utans und BOS-Mitarbeitenden mit dem Virus anstecken könnten.
 
 Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen einbrechen. **Bitte lasst uns jetzt nicht im Stich und spendet weiter für den Orang-Utan und Regenwaldschutz!** Der Bedarf für finanzielle Unterstützung wächst in der Krise und beide Anliegen haben nichts an ihrer Dringlichkeit und Bedeutung eingebüsst. Die **One-Tree-One-Life-Kampagne läuft weiter bis in den Herbst 2020**, wenn wir hoffentlich in eine neue Runde starten!
 
@@ -16,7 +16,9 @@ Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen
 
 Seit heute sind alle BOS Schweiz-Volontäre wieder in der Schweiz. Teilweise erwischten sie den letzten regulären Flug nach Singapur, bevor dieser Flughafen auch für den Transitverkehr geschlossen wurde. Wer nach dem verlängerten Volontariat noch weiter reisen wollte, musste diese Pläne wegen der Corona-Pandemie ändern.
 
-{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+{: .image.right}
+
+![](gallery/full/2020/03/24/IMG-20200324-WA0003.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 **16. März 2020: Abschied nehmen**
 
@@ -28,7 +30,9 @@ Hier zwei kleine O-Ton-Berichte von Petra. Während der letzten zwei Wochen in S
 
 „Die letzten Tage verbrachten wir mit Bambus schneiden für Enrichments, stellten den Kompost fertig, bauten Hängematten aus Feuerwehrschläuchen, die Cameron aus Australien mitbrachte, säuberten die Malaienbären Gehege und beseitigten das Unkraut um die Inseln. Die Nachmittage verbrachten wir immer im Regenwald. Mit Macheten sammelten wir grüne und rote Ingwer Blätter, die wir den Orang-Utans verfütterten. Für mich war das immer der schönste Teil des Tages. Ich liebte es durch den Wald zu laufen, die Vielfältigkeit der Pflanzen, Blumen, Bäume und Tiere. Es gab so viel zu entdecken. Es war so friedvoll und ruhig aber nie ganz still... man hörte immer verschiedene Tiergeräusche.
 
-{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
+{: .image.left}
+
+![](gallery/full/2020/03/24/IMG-20200324-WA0009.jpg){:class="img-responsive"} _Quelle: BOS Schweiz_
 
 Jeder von uns durfte mal mit Sam auf das Boot und ihn beim Füttern der Orang-Utans begleiten. Die Orang-Utans kamen sofort ans Ufer, um ihr Essen zu holen. So hatte man die Möglichkeit, sie von ganz nahe zu beobachten. Einmal pflanzten wir Bäume. Wir waren schnell fertig, da es leider nur noch ein paar Setzlinge übrig hatte“.
 
