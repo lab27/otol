@@ -1,5 +1,5 @@
 ---
-order: 5
+order: "5"
 include: sections/alternate.html
 title: Was wir gemeinsam erleben
 date: 2018-01-02T15:16:24.000+00:00
@@ -12,17 +12,15 @@ Die BOS Foundation hat die Samboja Lodge und alle Rettungszentren mittlerweile f
 
 Vor uns liegen ungewisse Zeiten, denn mit Sicherheit werden die Spendeneinnahmen einbrechen. **Bitte lasst uns jetzt nicht im Stich und spendet weiter für den Orang-Utan und Regenwaldschutz!** Der Bedarf für finanzielle Unterstützung wächst in der Krise und beide Anliegen haben nichts an ihrer Dringlichkeit und Bedeutung eingebüsst. Die **One-Tree-One-Life-Kampagne läuft weiter bis in den Herbst 2020**, wenn wir hoffentlich in eine neue Runde starten!
 
-{: .image.left}{:class="img-responsive"} _Quelle: BOS Schweiz_
-
 **23. März 2020: Arten- und Umweltschutz trotz Corona-Krise**
 
 Seit heute sind alle BOS Schweiz-Volontäre wieder in der Schweiz. Teilweise erwischten sie den letzten regulären Flug nach Singapur, bevor dieser Flughafen auch für den Transitverkehr geschlossen wurde. Wer nach dem verlängerten Volontariat noch weiter reisen wollte, musste diese Pläne wegen der Corona-Pandemie ändern.
 
+{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
+
 **16. März 2020: Abschied nehmen**
 
 Hier zwei kleine O-Ton-Berichte von Petra. Während der letzten zwei Wochen in Samboja Lestari wurden sie, Elke und Nico von Cameron betreut, einem Volontär-Koordinator unserer Partnerorganisation BOS Australien:
-
-{: .image.right}{:class="img-responsive"} _Quelle: BOS Schweiz_
 
 „Die Zeit verging so schnell... Die Verabschiedung in der Lodge war schon fast traurig, da wir doch 4 Wochen ihre Gäste waren. Ich genoss den Aufenthalt sehr. Das Essen war immer lecker. Die Mitarbeiter sehr freundlich und hilfsbereit. Für mich war es eine super spannende und wunderschöne Erfahrung. Ich bin sehr froh, dass ich mich für 4 Wochen entschieden habe! Ich bin sehr glücklich, durfte ich vor meiner Rückkehr dieses Abenteuer noch voll geniessen. Mit diesen schönen Erinnerungen kann ich auch die Corona-Quarantäne-Zeit gut meistern“.
 
