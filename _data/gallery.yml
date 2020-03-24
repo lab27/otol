@@ -1,4 +1,12 @@
 ---
+- path: "/2020/03/24/IMG-20200324-WA0003.jpg"
+  width: '600'
+  height: '800'
+  preview: true
+- path: "/2020/03/24/IMG-20200324-WA0009.jpg"
+  width: '800'
+  height: '600'
+  preview: true
 - path: "/2020/03/09/IMG_9671.jpg"
   width: '800'
   height: '600'
@@ -42,11 +50,11 @@
 - path: "/2020/02/23/zweiter_upload (2).jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/zweiter_upload (5).jpg"
   width: '600'
   height: '800'
-  preview: true
+  preview: false
 - path: "/2020/02/23/zweiter_upload (20).jpg"
   width: '600'
   height: '800'
