@@ -6,7 +6,7 @@ date: 2019-12-21T23:00:00.000+00:00
 anchor: die-volontaere
 
 ---
-Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach Borneo reisen wird, setzt sich aus den jungen Wilden, einer erfahrenen Garde und einer erweiterten, Orang-Utan- und Regenwald-verrückten Familie zusammen.
+Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach Borneo reiste, setzte sich aus den jungen Wilden, einer erfahrenen Garde und einer erweiterten, Orang-Utan- und Regenwald-verrückten Familie zusammen. Hier einige O-Töne zur Motivation:
 
 {: .image.left}
 
@@ -32,4 +32,4 @@ Das **15-köpfige Team**, das im Februar und März 2020 für 2 bis 4 Wochen nach
 
 «Carina, die schon länger BOS Schweiz unterstützt, hat uns alle überzeugt! Wir sind bereit, uns **gemeinsam als Familie** auf diese Reise zu begeben, um den Dschungel, seine Bewohner*innen und die Natur kennen zu lernen und zu beschützen. Wir wollen helfen, den Regenwald aufzuforsten und dadurch den Orang-Utans ihren Lebensraum zurückgeben. Wir freuen uns auf spannende Erlebnisse in der Natur, mit Mensch und Tier. Hoffentlich ist das Wetter im Regenwald besser – zumindest regnet es dort wärmer. Als Familie sind wir zusammen stark. Wir werden viel erreichen und ein einmaliges, unvergessliches Erlebnis mit nach Hause nehmen.»
 
-Auch Du möchtest auf Borneo mit anpacken? Alle Termine und mehr Infos findest Du [hier](https://www.bos-schweiz.ch/de/helfen/unterstuetzung/volontariat-bei-bos.htm). 
+Möchtest auch Du auf Borneo mit anpacken? Zukünftige Reise-Termine und mehr Infos findest Du [hier](https://www.bos-schweiz.ch/de/helfen/unterstuetzung/volontariat-bei-bos.htm).
