@@ -308,6 +308,25 @@ main.game {
     }
 }
 
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    } to {
+        opacity: 1;
+    }
+}
+
+#leaves {
+    display: none;
+    // opacity: 0;
+    
+    &.scattered {
+        animation: fadeIn 2s;
+        display: block;
+        // opacity: 0;
+    }
+}
+
 .leaf {
     position: absolute;
     opacity: .6; // filter:blur(1px);
