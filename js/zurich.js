@@ -19,7 +19,7 @@ function scatterLeaves() {
 }
 
 function showLeaves() {
-  console.log('showinggg');
+  // console.log('showinggg');
   document.getElementById('leaves').classList.add('scattered');
 }
 
@@ -38,7 +38,7 @@ function checkButtonPlacement() {
 }
 
 function adjustView() {
-  console.log('adjusting');
+  // console.log('adjusting');
   
   scatterLeaves()
   checkButtonPlacement()

@@ -190,9 +190,23 @@ main.game {
     margin: 0; // flex: 1 1 100%;
     box-shadow: 0 1rem 2rem rgba($dark-gray, .2);
     justify-content: space-between;
+    align-items: flex-start;
     width: 100%;
     &:hover {
         background: $forest-green;
+    }
+
+    .button-info {
+        display: flex;
+        flex-flow: column wrap;
+        text-align: left;
+        .description {
+            font-weight: 300;
+        }
+    }
+
+    &.simple {
+        justify-content: flex-start;
     }
 }
 
@@ -245,6 +259,9 @@ main.game {
         }
         @include mq($from: tablet) {
             flex: 0 1 50%;
+        }
+        a:hover {
+            text-decoration: none;
         }
     }
     @include mq($from:superwide) {
@@ -377,6 +394,10 @@ section {
             text-decoration: none;
         }
     }
+
+    h3 {
+        font-size: 1.3rem;
+    }
 }
 
 .image {
@@ -453,17 +474,19 @@ footer {
         }
     }
     .footer-content {
+        width: 100%;
         position: relative;
-        display: flex;
-        flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
+        text-align: center;
+        // display: flex;
+        // flex-flow: column wrap;
+        // justify-content: center;
+        // align-items: center;
     }
     h2 {
         color: white;
         font-size: 1.4rem;
-        max-width: 50rem;
-        margin: 0 auto;
+        // max-width: 50rem;
+        margin: 0;
         text-align: center;
         line-height: 1.4;
     }
@@ -472,10 +495,26 @@ footer {
         margin: 0 auto;
     }
     .social {
-        display: flex;
-        justify-content: space-evenly;
-        width: 20rem;
+        text-align: center;
+        // width: 20rem;
         margin: 2rem 0;
+
+        a {
+            display: inline;
+            margin: 0 auto;
+        }
+    }
+
+    .footer-logos {
+        text-align: center;
+
+        img {
+            width: 100%;
+        }
+        a {
+            display: inline-block;
+            max-width: 10rem;
+        }
     }
 }
 
@@ -582,4 +621,40 @@ footer {
             height: auto;
         }
     }
+}
+
+.lang-selector {
+    text-align: center;
+    padding-top: .25rem;
+    ul {
+        li {
+            display: inline;
+            color: $forest-green;
+            
+            a {
+                margin: 0 .5rem;
+            }
+
+        }
+    }
+
+    &.lang-selector-narrow {
+        @include mq($from: superwide) {
+            display: none;
+        }
+    }
+
+    &.lang-selector-wide {
+        display: none;
+        @include mq($from: superwide) {
+            display: block;
+            text-align: right;
+            padding-right: .25rem;
+            padding-bottom: 1rem;
+        }
+    }
+}
+
+.lang-link.active {
+    font-weight: 600;
 }

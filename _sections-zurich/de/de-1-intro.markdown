@@ -11,6 +11,6 @@ Wenn Sie Ihr Fahrzeug über den Zurich Help Point reparieren lassen, schützen S
 
 Nachhaltigkeit ist ein zentraler Schwerpunkt der Arbeit der Zürich Versicherungs-Gesellschaft AG. Deshalb engagiert sie sich gemeinsam mit BOS Schweiz für die Aufforstung von Regenwäldern. Hier erfahren Sie mehr zu dieser Partnerschaft für den Klimaschutz.
 
-Sie möchten selbst aktiv werden? Dann spenden oder verschenken Sie jetzt Bäume und erleben Sie, wie unser gemeinsames Engagement auf Borneo Wurzeln schlägt!
+Sie möchten selber aktiv werden? Dann spenden oder verschenken Sie jetzt Bäume und erleben Sie, wie unser gemeinsames Engagement auf Borneo Wurzeln schlägt!
 
-{% include donate-group.html buttons=site.data.donate_buttons.nikin_raisenow %}
+{% include donate-group-zurich.html buttons=site.data.donate_buttons.zurich_paypal.de %}
