@@ -1,21 +1,15 @@
 ---
 order: 0
 include: sections/normal.html
-title:  "Erlebe wie dein Engagement vor ort Wurtzel schlägt..."
+title: Der beste Zeitpunkt einen Baum zu pflanzen ist jetzt!
+date: 2018-01-02T15:16:24.000+00:00
+anchor: intro
+
 ---
-<div class="videoWrapper">
-  <iframe src="https://player.vimeo.com/video/245090555" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen
-    allowfullscreen></iframe>
-</div>
-Verschneite Landschaften, feine Güetzi, Punsch und ein schön geschmückter Baum: So zelebrieren wir in der Schweiz die Weihnachtszeit. Nicht einmal 12`000 km  entfernt ist ein Baum jedoch von ganz anderer Bedeutung. Hier symbolisiert er nicht eine Tradition, sondern bietet Lebensraum, Schutz, Nahrung und Heimat für die letzten und grössten Baumbewohner der Welt: Die Orang-Utans.
+**Für uns liefern die Regenwälder Indonesiens Sauerstoff und regeln unser Weltklima.** Dennoch werden jedes Jahr allein auf Borneo 1.3 Mio. Hektare Regenwald vernichtet. Dies ist eine der weltweit höchsten Abholzungsraten. Tag für Tag schwindet so auch die Lebensgrundlage der Orang-Utans und anderer bedrohter Arten. **Im Rahmen der One-Tree-One-Life-Kampagne forsten wir von BOS Schweiz deshalb gemeinsam mit Volontärinnen bzw. Volontären und Mitarbeitenden der BOS Foundation in Indonesien zerstörte Regenwaldgebiete wieder auf.**
 
-{: .image.left}
-  ![image-title-here](assets/img/burnt-forest.jpg){:class="img-responsive"}
+<div class="videoWrapper"> <iframe src="https://player.vimeo.com/video/245368582" width="720" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
 
-Von Tag zu Tag schwindet ihr Lebensraum. Tausende Orang-Utans fallen den Brandrodungen und den damit einhergehenden Waldbränden zum Opfer, werden auf Palmölplantagen erschlagen oder geraten in den illegalen Tierhandel. Das Überleben der akut vom Aussterben bedrohten Art kann nur gesichert werden, wenn ihr Lebensraum bewahrt wird.
+**Möchtest auch Du aktiv etwas gegen die Zerstörung des Regenwaldes unternehmen? Dann erwerbe oder verschenke zu je 7.65 Franken einen Baum (Setzling + 5 Jahre Pflege) oder gleich einen ganzen Regenwald.** Mach mit und erlebe, wie Dein Engagement auf Borneo Wurzeln schlägt!
 
-Im Rahmen der one-tree-one-life-Kampagne bündeln wir deshalb unsere Kräfte, sammeln Spendengelder für Setzlinge und forsten eigenhändig abgebrannte Regenwaldgebiete rund um die BOS Rettungsstation in Samboja Lestari wieder auf.
-
-Teile unser Anliegen mit deinem Netzwerk, spende für Setzlinge und verfolge auf dieser Seite, wie dein Engagement vor Ort Wurzeln schlägt.
-
-{% include donate-group.html %}
+{% include donate-group.html buttons=site.data.donate_buttons.main_raisenow %}

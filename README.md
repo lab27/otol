@@ -4,6 +4,10 @@
 
 clone this
 
+Run
+
+    bundle
+
 ## dev
 
 `jekyll serve`

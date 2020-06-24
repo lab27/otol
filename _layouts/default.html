@@ -9,13 +9,18 @@
       </div>
 
       {% include header.html %}
-      
-      
-      <main class="page-content" aria-label="Content">
+
+      <main class="page-content" style="display: none" aria-label="Content">
         {% include leaves.html %}
 
         {{ content }}
-    </main>
+      </main>
+
+      <main class="game" aria-label="Game" style="display: none">
+        <div class="spinner"></div>
+        <a href="#campaign" class="button">Spiel überspringen | zur Kampagnenseite</a>
+        {% include game-cta.html %}
+      </main>
 
     {% include footer.html %}
 
@@ -31,9 +36,18 @@
       })(document);
     </script>
 
-<script src="{{ site.baseurl }}/js/rellax.min.js"></script>
-<script src="{{ site.baseurl }}/js/app.js"></script>
+    <script src="{{ site.baseurl }}/js/rellax.min.js"></script>
+    <script src="{{ site.baseurl }}/js/rlite.min.js"></script>
+    <!-- Core JS file -->
+    <script src="{{ site.baseurl }}/js/swipe/photoswipe.min.js"></script>
 
+    <!-- UI JS file -->
+    <script src="{{ site.baseurl }}/js/swipe/photoswipe-ui-default.min.js"></script>
+    <script src="{{ site.baseurl }}/js/app.js"></script>
+    <script src="{{ site.baseurl }}/js/otolswipe.js"></script>
+    <script src="{{ site.baseurl }}/js/game.js"></script>
+       {% if site.google_analytics %}
+        {% include google-analytics.html %}
+       {% endif %}
   </body>
-
 </html>

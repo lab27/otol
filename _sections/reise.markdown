@@ -1,14 +1,17 @@
 ---
-order: 2
-include: sections/normal.html
-title:  "Aufforstungskampagne und Volontärreise one-tree-one-life"
----
-Von Dezember 2017 bis Februar 2018 führen wir deshalb unter dem Titel one-tree-one-life eine Aufforstungskampagne durch. Ziel dieser Kampagne ist es, möglichst viel Geld für Setzlinge zu sammeln. Die Setzlinge werden wir dann im Januar und Februar 2018 eigenhändig in Samboja Lestari anpflanzen und über unsere Aktivitäten im Rahmen der Kampagne an dieser Stelle berichten.  
+order: 3
+include: sections/reverse.html
+title: Wie alles begann
+anchor: ursprung
+date: 2018-03-19T09:41:10.000+00:00
 
+---
+Seit Dezember 2017 führen wir unter dem Titel One-Tree-One-Life eine Kampagne durch, welche die Aufforstungsvorhaben der BOS Schweiz bündelt. Ziel dieser Kampagne ist es, möglichst viel Geld für Setzlinge und unsere Aufforstungsprojekte in Ost-Kalimantan (Samboja Lestari) und Zentral-Kalimantan (das SOS Borneo und das Tuanan Projekt) zu sammeln. Ende 2019 ging die One-Tree-One-Life-Kampagne und mit ihr unser Volontärprogramm in die dritte Runde. Im Februar/März 2020 brach eine 15-köpfige Gruppe aus der Schweiz für ein 2-4 wöchiges Volontariat nach Borneo auf. Auch in Zukunft sind ähnliche Volontärreisen geplant. Bei Interesse bitte an info(at)bos-schweiz.ch wenden.
 
 {:figure .image.right}
-  ![image-title-here](assets/img/baby-ou-color-sm.jpg){:class="img-responsive"}
+![](/gallery/full/2018/01/26/IMG-20180126-WA0059.jpg){:class="img-responsive"}
+_Quelle: BOS Schweiz_
 
-Die Kampagne one-tree-one-life und die Volontärreise werden von Angela Burri geleitet. Angela Burri hat sich bereits 2016 nach der verheerenden Brandkatastrophe in Borneo für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation Samboja Lestari eingesetzt. Bereits damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und ihre Probleme aufmerksam und sammelte Spenden für die Aktion. Über 5‘500 CHF kamen zusammen. Rund 530 Bäume konnten mit diesem Geld neu angepflanzt werden.
+Die One-Tree-One-Life-Kampagne und die begleitenden Volontärreisen wurden von Angela Burri ins Leben gerufen. Bereits 2016, nach der verheerenden Brandkatastrophe in Borneo, setzte sie sich für die Wiederaufforstung des Regenwaldes rund um die Rettungsstation Samboja Lestari ein. Damals pflanzte sie nicht nur die Setzlinge. Sie machte auch in ihrem Familien-, Freundes- und Bekanntenkreis mit ihrem Engagement auf die Orang-Utans und ihre Probleme aufmerksam und sammelte Spenden für die Aktion. 2018 brach sie mit Gleichgesinnten erneut nach Borneo auf und leitete unsere ersten beiden Volontärreisen.
 
-Die Volontärsgruppe hat sich nicht nur vorgenommen, abgebrannte Gebiete wieder aufforsten. Sie werden auch in anderen Bereichen der Station mit anpacken (u.a. bei der Renaturierung von Pre-Release-Inseln, beim Bau von Enrichment-Tools für die Orang-Utans, beim Bau der Bärenanlage etc.). Auf dieser Kampagnenseite kannst du die Teilnehmenden quasi „live“ begleiten und das Projekt mit Spenden unterstützen.
+Unser Team in Runde III wurde nun von Thomas Kamm (BOS Schweiz-Gründungsmitglied und Präsident) betreut. Er kennt BOS Schweiz und die Projekte und Programme vor Ort lange und gut, sodass die Reisenden einen sehr exklusiven Einblick in unserer Arbeit erhielten.

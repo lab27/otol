@@ -1,38 +1,37 @@
 @charset "utf-8";
-
 // Variables
-$base-font-family: 'futura-pt', sans-serif !default;
-$body-font-family: 'futura-pt', serif;
-$header-font-family: 'futura-pt', sans-serif;
-$base-font-size:   16px !default;
+$base-font-family: 'futura-pt',
+sans-serif !default;
+$body-font-family: 'futura-pt',
+serif;
+$header-font-family: 'futura-pt',
+sans-serif;
+$base-font-size: 16px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
-$spacing-unit:     1rem !default;
-
+$spacing-unit: 1rem !default;
 // Colors
-$dark-gray:         #545957;
-$bright-green:      #17c37b;
-$jungle-green:      #80ce77;
-$forest-green:      #78a15d;
-$banana:            #eed974;
-$pastel-pink:       #f3c9dd;
-$milk-pink:         #f4e4ec;
-$bright-orange:     #ef5b09;
-$pastel-green:      #cdffcc;
-$meringue:          #fdedb2;
-$salmon:            #fe667b;
-$plum:              #9c9cdd;
-$cheeks:              #fdccbd;
-
-$text-color:       $dark-gray !default;
+$dark-gray: #545957;
+$bright-green: #7ec437;
+$jungle-green: #7ec437;
+$forest-green: #78a15d;
+$warm-green: #7ec437;
+$banana: #eed974;
+$pastel-pink: #f3c9dd;
+$milk-pink: #f4e4ec;
+$bright-orange: #ef5b09;
+$pastel-green: #cdffcc;
+$meringue: #fdedb2;
+$salmon: #fe667b;
+$plum: #9c9cdd;
+$cheeks: #fdccbd;
+$text-color: $dark-gray !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
-
+$brand-color: #2a7ae2 !default;
 // Color in use
-$alternate-bg-color:   $milk-pink;
-$alternate-color:   $forest-green;
-
+$alternate-bg-color: $milk-pink;
+$alternate-color: $forest-green;
 // Grad
 $gradient0: linear-gradient(53.72deg, $bright-green 0%, $bright-green 99.49%);
 $gradient1: linear-gradient(53.72deg, $bright-green 0%, $banana 99.49%);
@@ -41,39 +40,46 @@ $gradient3: linear-gradient(53.72deg, $banana 0%, $pastel-green 99.49%);
 $gradient4: linear-gradient(53.72deg, $salmon 0%, $plum 99.49%);
 $gradient5: linear-gradient(53.72deg, $banana 0%, $forest-green 99.49%);
 $gradient6: linear-gradient(53.72deg, $banana 0%, $salmon 99.49%);
-$gradient7: linear-gradient(53.72deg, $forest-green 0%, $jungle-green 99.49%);
+$gradient7: linear-gradient(53.72deg, $forest-green 0%, $warm-green 99.49%);
 
-// grid 
+// grid
 .grid {
     background-color: transparent;
-    background-image:       linear-gradient(0deg, transparent 24%, rgba(0, 0, 0, .4) 25%, rgba(0,0, 0, .4) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
-  height:100%;
-  background-size:32px 32px;
+    background-image: linear-gradient(0deg, transparent 24%, rgba(0, 0, 0, .4) 25%, rgba(0, 0, 0, .4) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
+    height: 100%;
+    background-size: 32px 32px;
 }
 
-$mq-breakpoints: (
-    mobile:  320px,
-    tablet:  740px,
-    desktop: 980px,
-    wide:    1300px,
-    superwide: 1500px
-);
-
-
-
+$mq-breakpoints: (mobile: 320px, tablet: 740px, desktop: 980px, wide: 1300px, superwide: 1500px);
 // $mq-show-breakpoints: (mobile, tablet, desktop, wide, superwide);
-@import 'mq','reset';
+@import 'mq',
+'reset';
 
-html, body {
+.visible-superwide {
+    display: none;
+
+    @include mq($from: superwide) {
+        display: block;
+    }
+}
+
+html,
+body {
     line-height: $base-line-height;
     font-family: $body-font-family;
     -webkit-font-smoothing: antialiased;
     color: $text-color;
     overflow-x: hidden;
+    background-color: #fbf9f2;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: $jungle-green;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $warm-green;
     font-weight: 700;
 
     .reverse & {
@@ -81,51 +87,80 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 .strong {
     font-weight: 700;
 }
 
-*, *:before, *:after {
-  box-sizing: border-box;
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
 }
 
 .hide {
     display: none;
 }
 
-.wf-loading  {
-    h1, h2, h3, h4, h5, h6, p, .button {
+.wf-loading {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    .button {
         transition: filter .2s ease;
-        filter:blur(5px);
+        filter: blur(5px);
     }
 }
 
-.wf-inactive  {
-    h1, h2, h3, h4, h5, h6, p, .button {
-        filter:none;
+.wf-inactive {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    .button {
+        filter: none;
     }
+}
+
+header.site-header {
+    position: relative;
+    z-index: 1;
 }
 
 .logo {
     width: 20rem;
     position: relative;
-    margin: 0 auto;
-    // @include mq($from: tablet) {
+    margin: 0 auto; // @include mq($from: tablet) {
+
     //     width: 18rem;
     // }
     @include mq($from: superwide) {
-        margin:0;
+        margin: 0;
     }
 }
 
-main {
+main.page-content {
     overflow: hidden;
-    @include mq($from: superwide) {
-        margin-top: -14rem;
-    }
+    position: relative; // @include mq($from: superwide) {
+    //     margin-top: -14rem;
+    // }
 }
 
-
+main.game {
+    height: 37vw;
+}
 
 .paint {
     position: absolute;
@@ -139,10 +174,8 @@ main {
 // Button
 .button {
     font-family: $header-font-family;
-    font-weight: 700;
-    // text-transform: uppercase;
-    font-size: 1rem;
-    // letter-spacing: .1rem;
+    font-weight: 700; // text-transform: uppercase;
+    font-size: 1rem; // letter-spacing: .1rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,22 +189,34 @@ main {
     }
 }
 
-
-
 .cta-button {
     background: $gradient6;
     background: $banana;
     color: white;
     padding: 1rem;
     border-radius: .25rem;
-    margin: 0;
-    // flex: 1 1 100%;
-    box-shadow: 0 1rem 2rem rgba($dark-gray,.2);
+    margin: 0; // flex: 1 1 100%;
+    box-shadow: 0 1rem 2rem rgba($dark-gray, .2);
     justify-content: space-between;
-
+    align-items: flex-start;
+    width: 100%;
 
     &:hover {
-        background: $cheeks;
+        background: $forest-green;
+    }
+
+    .button-info {
+        display: flex;
+        flex-flow: column wrap;
+        text-align: left;
+
+        .description {
+            font-weight: 300;
+        }
+    }
+
+    &.simple {
+        justify-content: flex-start;
     }
 }
 
@@ -179,9 +224,11 @@ main {
     width: 15rem;
     background: $forest-green;
 }
+
 .reverse {
     background: $gradient1;
     color: white;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
 }
 
 .alternate {
@@ -196,7 +243,7 @@ main {
     background: $jungle-green;
 
     &:hover {
-        background: $cheeks;
+        background: $forest-green;
     }
 }
 
@@ -206,50 +253,146 @@ main {
     display: flex;
     flex-flow: row wrap;
     z-index: 999;
-    // margin: 1rem;
+    margin-top: 5rem; // margin: 1rem;
 
     @include mq($from: superwide) {
         // margin: 1rem -.5rem;
-        flex-flow: column wrap
+        flex-flow: column wrap;
+        margin-top: 0;
+
+        &--inline {
+            flex-flow: row wrap;
+        }
     }
 
     .button-wrapper {
         padding: .5rem;
+        padding-bottom: 0;
+        width: 100%;
+
+        form {
+            height: 5.5rem;
+        }
 
         @include mq($from: tablet) {
             flex: 0 1 50%;
         }
 
+        a:hover {
+            text-decoration: none;
+        }
     }
-     @include mq($from:superwide) {
-            position: fixed;
-            top: $spacing-unit/2;
-            right: 1rem;
-            width: 21rem;
-            justify-content: flex-end;
+
+    @include mq($from:superwide) {
+        position: fixed;
+        top: $spacing-unit;
+        right: 1rem;
+        width: 21rem;
+        justify-content: flex-end;
+
+        &--inline {
+            position: relative;
+            top: inherit;
+            width: 100%;
+            right: inherit;
+            justify-content: inherit;
+        }
+    }
+
+    .social {
+        display: flex;
+        color: $bright-green;
+        margin-top: 2rem;
+        width: 100%;
+        justify-content: center;
+        flex-flow: row wrap;
+
+        a {
+            text-decoration: none;
         }
 
-.social {
-    display: flex;
-    color: $bright-green;
-    svg {
-        width: 2rem;
-        height: 2rem;
+        @include mq($from: superwide) {
+            flex-flow: column;
+            align-items: flex-start;
+        }
+
+        .button {
+            margin: 0;
+            padding: .5rem;
+            font-size: .75rem;
+            margin-right: .5rem;
+
+            @include mq ($from: tablet) {
+                padding: 1rem;
+                font-size: 1rem; // margin-right: 2rem;
+            }
+
+            &.share {
+                background-color: rgba(white, .3);
+                box-shadow: 0 .5rem 1rem rgba($dark-gray, .15);
+                border-radius: .125rem;
+
+                &:hover {
+                    background-color: #fff;
+                    text-decoration: none;
+                }
+            }
+
+            a {
+                text-decoration: none;
+
+            }
+        }
+
+        svg {
+            width: 2rem;
+            height: 2rem;
+            margin-right: .5rem;
+            margin-left: .5rem;
+        }
+
+        .button-wrapper {
+            flex: 0 1 50%;
+            margin-bottom: .5rem;
+
+            @include mq($from: tablet) {
+                flex: 0 1 calc(100%/3);
+            }
+        }
     }
 }
-   
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+#leaves {
+    display: none;
+    // opacity: 0;
+
+    &.scattered {
+        animation: fadeIn 2s;
+        display: block;
+        // opacity: 0;
+    }
 }
 
 .leaf {
     position: absolute;
-    opacity: .6;
-    // filter:blur(1px);
+    opacity: .6; // filter:blur(1px);
 }
 
 // Layout
 section {
     padding: $spacing-unit*4 $spacing-unit;
     overflow: hidden;
+
     h2 {
         font-family: $header-font-family;
         font-size: 2rem;
@@ -281,14 +424,40 @@ section {
 
         p.image {
             margin-bottom: 0;
-            
         }
+    }
+
+    &#intro {
+        padding-top: 14rem;
+
+        @include mq($from: superwide) {
+            padding: $spacing-unit*4 $spacing-unit;
+        }
+    }
+
+    p a {
+        box-shadow: inset 0 -3px 0 rgba($warm-green, .5);
+
+        &:hover {
+            box-shadow: inset 0 -3px 0 rgba($warm-green, 1);
+            text-decoration: none;
+        }
+    }
+
+    h3 {
+        font-size: 1.3rem;
     }
 }
 
 .image {
     text-align: center;
     padding: $spacing-unit 0;
+    text-align: left;
+
+    em {
+        font-size: .8rem;
+        display: block;
+    }
 }
 
 @include mq($from: tablet) {
@@ -301,10 +470,12 @@ section {
         img {
             margin-top: $spacing-unit*.5;
         }
+
         &.left {
             float: left;
             margin-left: -6rem;
         }
+
         &.right {
             float: right;
             margin-right: -6rem;
@@ -333,19 +504,51 @@ footer {
     align-items: center;
     color: white;
 
-    .footer-content {
-        position: relative;
+    a {
+        text-decoration: underline;
+    }
+
+    .links-info {
         display: flex;
+        width: 100%;
+        padding: 3rem;
+        max-width: 80rem;
+        margin: 0 auto;
         flex-flow: column wrap;
-        justify-content: center;
-        align-items: center;
+        justify-content: space-between;
+        text-align: left;
+        color: $dark-gray;
+        margin-bottom: 3rem;
+
+        @include mq ($from: desktop) {
+            flex-flow: row nowrap;
+        }
+
+        h4 {
+            color: $dark-gray;
+            margin-bottom: 1rem;
+        }
+
+        & div {
+            margin-bottom: 3rem;
+        }
+    }
+
+    .footer-content {
+        width: 100%;
+        position: relative;
+        text-align: center;
+        // display: flex;
+        // flex-flow: column wrap;
+        // justify-content: center;
+        // align-items: center;
     }
 
     h2 {
         color: white;
         font-size: 1.4rem;
-        max-width: 50rem;
-        margin: 0 auto;
+        // max-width: 50rem;
+        margin: 0;
         text-align: center;
         line-height: 1.4;
     }
@@ -354,38 +557,187 @@ footer {
         width: 20rem;
         margin: 0 auto;
     }
+
     .social {
-        display: flex;
-        justify-content: space-evenly;
-        width: 20rem;
+        text-align: center;
+        // width: 20rem;
         margin: 2rem 0;
+
+        a {
+            display: inline;
+            margin: 0 auto;
+            text-decoration: none;
+        }
     }
+
+    .footer-logos {
+        text-align: center;
+
+        img {
+            width: 100%;
+        }
+
+        a {
+            display: inline-block;
+            max-width: 10rem;
+        }
+    }
+
+    // @include mq($from: superwide) {
+    // }
+}
+
+
+body.sideButtons footer {
+    padding-right: 400px;
+
 }
 
 .person {
     margin-bottom: 3rem;
+
     h3 {
         font-size: 2rem;
         margin-bottom: 2rem;
     }
 
     h4 {
-        color: $banana;
+        color: $dark-gray;
         font-size: 1.3rem;
     }
 }
 
 // fluid video
 .videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+    position: relative;
+    padding-bottom: 56.25%;
+    /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    margin-bottom: 2rem;
 }
+
 .videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.body-game {
+    background: $banana;
+}
+
+// game
+.game {
+    canvas {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+}
+
+@keyframes spinner {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: -25px;
+    margin-left: -25px;
+    border-radius: 50%;
+    border: 5px solid $salmon;
+    border-top-color: $pastel-green;
+    border-right-color: $plum;
+    border-bottom-color: $bright-orange;
+    animation: spinner .6s linear infinite;
+    z-index: 0;
+}
+
+.play-again {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.game-cta {
+    position: absolute;
+    z-index: 999;
+    width: 100vw;
+    height: 45vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .button-wrapper {
+        margin: .5rem;
+    }
+
+    .button {
+        margin: 1rem;
+    }
+}
+
+// gallery
+.my-gallery {
+    display: flex;
+    flex-flow: row wrap;
+
+    figure {
+        flex: 1 1 33.33%;
+        padding: 1rem;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+}
+
+.lang-selector {
+    text-align: center;
+    padding-top: .25rem;
+
+    ul {
+        li {
+            display: inline;
+            color: $forest-green;
+
+            a {
+                margin: 0 .5rem;
+            }
+
+        }
+    }
+
+    &.lang-selector-narrow {
+        @include mq($from: superwide) {
+            display: none;
+        }
+    }
+
+    &.lang-selector-wide {
+        display: none;
+
+        @include mq($from: superwide) {
+            display: block;
+            text-align: right;
+            padding-right: .25rem;
+            padding-bottom: 1rem;
+        }
+    }
+}
+
+.lang-link.active {
+    font-weight: 600;
 }

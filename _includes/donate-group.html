@@ -1,22 +1,28 @@
 <div class="donate-group">
+
+  {% for button in include.buttons %}
+  <div class="button-wrapper">
+    {% include donate-link.html message=button.message amount=button.amount text=button.label icon=button.icon class=button.class %}
+  </div>
+  {% endfor %}
+  <em class="visible">* inkl. 5 Jahre Baumpflege</em>
+
+  <div class="social">
     <div class="button-wrapper">
-        {% include button.html link="#" text="wenige Setzlinge spenden" icon="sprout1" class="cta-button" %}
-    </div>    
-    <div class="button-wrapper">
-        {% include button.html link="#" text="viele Setzlinge spenden" icon="sprout2" class="cta-button" %}
+      <a href="" class="button share twitter-share" alt="twitter">
+        auf  {% include svg_icon.html name="twitter" %} teilen
+      </a>
     </div>
     <div class="button-wrapper">
-        {% include button.html link="#" text="ganz viele Setzlinge spenden" icon="sprout3" class="cta-button" %}
+      <a href="" class="button share facebook-share" alt="facebook">
+        auf  {% include svg_icon.html name="facebook" %} teilen
+      </a>
     </div>
     <div class="button-wrapper">
-        {% include button.html link="#" text="Setzlinge verschenken" icon="gift" class="cta-button gift" %}
+      <a href="http://eepurl.com/dhl_Yn" class="button share" alt="updates">
+        Updates {% include svg_icon.html name="bell" %} erhalten
+      </a>
     </div>
-            <div class="social">
-                <a href="" class="button simple">
-                    {% include svg_icon.html name="twitter" %}
-                </a>
-                <a href="" class="button simple">
-                    {% include svg_icon.html name="facebook" %}
-                </a>
-            </div>
+  </div>
+
 </div>
